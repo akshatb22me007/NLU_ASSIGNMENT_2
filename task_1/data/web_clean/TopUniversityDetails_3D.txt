@@ -1,0 +1,16 @@
+Institute Name
+India Rankings 2017 ID
+Discipline
+Parameter Details of Top Universities where your graduates have been admitted for higher studies
+Name of the student of Graduating year of the PG/PhD program in where Name of the top
+S.No. Year of admission
+your institution student student has been admitted university/institutions
+3D.GTOP,
+1 Pratik Kalshetti 2016 M.Tech. Computer Science IIT Bombay 2016
+2 Sharath Kunthal 2016 MBA IIM Calcutta 2016
+MSE (Masters in Electrical University of
+3 Ajay Charan 2016 2016
+Engineering) Pennsylvania,Philadelphia
+4 Jinak Jain 2016 MS ETH Zürich 2016
+Note: Please enter data for students who have graduated in year 2015-16 from your institute and got admitted in PG/PhD program of a top institution
+2. Institutions ranked as top institutions in the following ranking bodies namely India Ranking 2016, QS World Ranking 2016, THE World University Ranking 2016.

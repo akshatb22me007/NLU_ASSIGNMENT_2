@@ -1,0 +1,521 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About 
+ Publications 
+ Students 
+ Projects 
+ Recent News 
+ Experience 
+ Education 
+ Skills 
+ Teaching 
+ Achievements 
+ Resume 
+ Professional Services 
+ Gallery 
+ Contact 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dr. Palash
+                      Das 
+ 
+ 
+                        Assistant Professor, Department of Computer Science, IIT Jodhpur, Rajasthan, India.
+                        
+                         I am looking for motivated students to join at various levels like masters/Ph.D. 
+ 
+ Dr. Palash Das has received his B.Tech. Degree in CSE from the West Bengal University of Technology and an M.E. degree in CSE from the Indian Institute of Engineering Science and Technology, Shibpur. He completed his Ph.D. from IIT Guwahati in April 2022. Presently, he is working as an Assistant Professor in the department of CSE, IIT Jodhpur. His research interests include Near-Memory Processing, Hardware Designing, AI/ML accelerators, and Emerging Memory Technologies under the broad domain of Computer Architecture. He is the recipient of the National Scholarships Merit Certificate for secondary examination and received the prestigious Intel Fellowship 2020. He has also recieved Teaching Excellence Award 2023 from IIT Jodhpur. He has published multiple research papers in popular Journals and Conferences like IEEE Transaction on Computers (TC), ACM Transactions on Architecture and Code Optimization (TACO), IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), ACM Journal on Emerging Technologies in Computing Systems (JETC), IEEE Design and Test, Design, Automation and Test in Europe (DATE), ACM Great Lakes Symposium on VLSI (GLSVLSI), and IEEE International Conference on Very Large Scale Integration (VLSI-SoC). He has received travel grants from ACM India-IARCS, DAC 2022, and VLSID 2018. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Journals 
+ 
+ 
+ 
+                            Josna Philomina, Rekha K James, Shirshendu Das,  Palash Das , and Daleesha M Vishwanathan, "NeSTAR: Hardware Trojans and its Mitigation Strategy in NoC Routers."  Integration: The VLSI Journal, 2025   (Accepted).
+                             
+ 
+                            Josna Philomina, Rekha K James,  Palash Das , Shirshendu Das, and Daleesha M Vishwanathan, "Exploiting Virtual Channel Allocation Policies in STT-RAM Buffers of NoC Routers Through Hardware Trojan"  Elsevier Journal of System Architecture (JSA), 2025   (Accepted).
+                             
+ 
+                            Anadi Goyal, Gaurav Sangwan, Aradhya Patel, and  Palash Das , "HAVIT: An Efficient Hardware-Accelerator for Vision Transformer with Informative Patch Selection Techniques"  ACM Transactions on Architecture and Code Optimization (ACM TACO), 2025   (Accepted).
+                             
+ 
+                            Satyaswaroop Nayak, Anadi Goyal, Sheel Sindhu Manohar, Dip Sankar Banerjee, and  Palash Das , "Enhanced Prefetching via Dynamic Multi-Step SARSA based Reinforcement Learning."  IEEE Embedded Systems Letters (ESL), 2025   (Accepted).
+                             
+ Atul Kumar, Dipika Deb, Shirshendu Das, and  Palash Das . "edAttack: Hardware Trojan Attack on On-Chip Packet Compression."  IEEE Design and Test journal, 2023  (Accepted through NOCS).
+                             
+ Palash Das , Shashank Sharma, and Hemangee K. Kapoor. "ALAMNI: Adaptive LookAside Memory based Near-Memory Inference Engine for Eliminating Multiplications in Real-Time." IEEE Transactions on Computers (TC), 2022. 
+ 
+ Palash Das  and Hemangee K. Kapoor. "nZESPA: A Near-3D-Memory Zero Skipping Parallel Accelerator for CNNs".  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020. 
+ 
+ Palash Das  and Hemangee K. Kapoor. "CLU: A near-memory accelerator exploiting the parallelism in Convolutional Neural Networks".  ACM Journal on Emerging Technologies in Computing Systems (JETC), ACM, 2020. 
+ 
+ Bikromadittya Mondal,  Palash Das , Pradyut Sarkar, and Susanta Chakraborty, “A Comprehensive Fault Diagnosis Technique for Reversible Logic Circuit”,  Computers and Electrical Engineering, ELSEVIER  DOI: 10.1016/j.compeleceng. 2014.08.003,  2014 .
+							 
+ Palash Das  and Bikromadittya Mondal (2013), “Extended K-Map for Minimizing Multiple Output Logic Circuits”,  International Journal of VLSI Design & Communication Systems(VLSICS) , Vol. 4, No.4, August  2013 .
+							 
+ 
+ 
+ Conferences 
+ 
+ 
+ O. Sharma, A. Yadav, V. Karnik, and  P. Das , "Exploring Bit-Flip Attacks on DQNs with a Hash-Driven Defense Accelerator."  39th International Conference On VLSI Design (VLSID) 2026 (Accepted). 
+ 
+ D. Majumdar, A. Yadav, D. Raj, and  P. Das , "G-SHIELD: Hardware Acceleration for Defending CNNs Against Adversarial Attacks."  11th IEEE International Symposium on Smart Electronic Systems (IEEE – iSES) 2025 (Accepted). 
+ 
+ A. Yadav, A. Goyal, and  P. Das , "Hybrid Token Selector based Accelerator for ViTs."  Design, Automation and Test in Europe (DATE) 2025, IEEE. 
+ 
+ P. Das  and H. K. Kapoor "NDIE: A Near DRAM Inference Engine Exploiting DIMM's Parallelism."  Asia Pacific Conference On Circuits And Systems (APCCAS) 2023, IEEE. 
+ 
+ A. Kumar, D. Deb, S. Das, and  P. Das , "edAttack: Hardware Trojan Attack on On-Chip Packet Compression."  International Symposium on Networks-on-Chip (NOCS) 2023 , in association with IEEE Design and Test journal.
+                              
+ P. Das , A. Joshi, and H. K. Kapoor "Hydra: A near hybrid memory accelerator for CNN inference"  Design, Automation and Test in Europe Conference | The European Event for Electronic System Design & Test, ACM, DATE, 2022. 
+ 
+ I. Longchar,  P. Das , and H. K. Kapoor “ZaLoBI: Zero avoiding Load Balanced Inference accelerator.”,  30th IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC), IEEE, 2022. 
+ 
+ C.Joshi,  P.Das , A. Kulkarni, and H. K. Kapoor "Dimming Hybrid Caches to Assist in Temperature Control of Chip MultiProcessors"  The 30th ACM Great Lakes Symposium on VLSI (GLSVLSI) 2020, ACM. 
+ 
+ P. Das  and H. K. Kapoor "Towards Near Data Processing of Compare Operations in 3D-stacked memory"  The 28th ACM Great Lakes Symposium on VLSI (GLSVLSI) 2018, ACM. 
+ 
+ P. Das , S. Lakhotia, P. Shetty, and H. K. Kapoor "Towards Near Data Processing of Convolutional Neural Networks"  31st International Conference on VLSI Design (VLSID) 2018, IEEE. 
+ 
+ P. Das  and B. Mondal, “Signature Analysis for Synthesis of Reversible Circuits”,  18th IEEE International Symposium on VLSI Design (VDAT) 2014, IEEE. 
+ 
+ 
+ 
+ Others 
+ 
+ 
+ Palash Das  and Hemangee K. Kapoor. "CLU: A near-memory accelerator exploiting the parallelism in Convolutional Neural Networks".  15th Academic Research and Careers for Students Symposium (ARCS 2021). 
+ 
+ Ph.D. Forum:  Palash Das  and Hemangee K. Kapoor. "Accelerating CNN inference near to the memory by exploiting parallelism, sparsity, and redundancy".  Design, Automation and Test in Europe Conference | The European Event for Electronic System Design & Test, ACM, DATE 2022. 
+ 
+ Ph.D. Forum:  Palash Das  and Hemangee K. Kapoor. "Near-Memory Architectures for CNNs while Exploiting Parallelism, Sparsity, and Redundancy".  Design Automation Conference (DAC), 2022. (accepted) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Students 
+   Ph.D. 
+ Akshansh Yadav (Ongoing) 
+ Saksham Maheshwari (Ongoing) 
+ Anand Saxena (Ongoing) 
+ Deepraj Majumdar (Ongoing) 
+ 
+   M.Tech. 
+ Deepraj Majumdar (Completed) 
+ Satyaswaroop Nayak, Co-supervisor Dr. Dip Sankar Banerjee, (Completed) 
+ Sunirban Sarkar (Co-supervisor), Supervisor Dr. Angshuman Paul, (Completed) 
+ Aman Saini (Ongoing) 
+ Dhiraj Raj (Ongoing) 
+ Saurav Kumar (Ongoing) 
+ 
+   B.Tech. Prjoects 
+ Anadi Goyal (Completed) 
+ Gaurav Sangwan (Completed) 
+ Pratul Singh (Completed) 
+ Anshu Raj (Completed) 
+ Aditya Dhaduk (Completed) 
+ Rohan Lambture (Ongoing) 
+ Aniket Singh  (Ongoing) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Projects 
+ 
+ Enhancing Hardware Security and Throughput in Vision Tasks, Funding agency - ANRF, GOI (Ongoing) 
+ Sustainable and Robust Near-Memory Accelerator for Vision Transformer-based Models, Funding agency - SERB, GOI (Ongoing) 
+ Domain Adaptation for Detection, Funding agency - Vehant Technologies (Ongoing) 
+ Improving Hardware Security and Efficiency in CNN Accelerators, Funding agency - IIT Jodhpur (Ongoing) 
+ ALAMNI: Adaptive LookAside Memory based Near-data Inference engine for eliminating multiplications in real-time, Funding agency - Intel (Completed) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Recent News 
+ 
+ Akshansh and Deepraj got fellowship from IEEE-iSES 2025. Congratulations! 
+ Aman and Saurav got fellowship from VLSID 2026. Congratulations! 
+ Our paper got accepted at Integration: The VLSI Journal (2025). Congratulations and thanks to the collaborators. 
+ Our paper got accepted at JSA 2025. Congratulations and thanks to the collaborators. 
+ Our paper got accepted at VLSID 2026. Congratulations to Om, Anmol, and Vihan. 
+ Our paper got accepted at IEEE–iSES 2025. Congratulations to Deepraj, Akshansh, and Dhiraj. 
+ Our paper got accepted at ACM TACO 2025. Congratulations to Anadi, Gaurav, and Aradhya. 
+ Our paper got accepted at ESL 2025. Congratulations to Satya and Anadi. 
+ Our paper got accepted at DATE 2025. Congratulations to Akshansh and Anadi. 
+ Anadi got travel grant from CEDA for DATE 2025. 
+ Anadi, Akshansh, and Deepraj got fellowship from VLSID 2025. 
+ The project titled 'Enhancing Hardware Security and Throughput in Vision Tasks' has been accepted for funding by ANRF (2025). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Experience 
+ 
+ 
+ Assistant Professor 
+ Department of CSE, IIT Jodhpur  
+ I am an instructor of undergraduate (UG) and postgraduate (PG) courses. I am also involved in research under the broad domain of Computer Architecture. 
+ 
+ August 2022 - Till Date 
+ 
+ 
+ 
+ Research Scholar and Teaching Assistant 
+ Department of CSE, IIT Guwahati, India 
+ 
+ Parallel Computer Architecture(CS527: UG+PG) 
+ Introduction to VLSI Design, Verification and Test (CS524: UG+PG) 
+ Computer Organisation and Architecture (CS222: UG) 
+ Digital Design(CS221: UG) 
+ Introduction to Computing(CS101: UG) 
+ Hardware Laboratory(CS223: UG) 
+ Digital Design(CS221: UG) 
+ 
+ 
+ July 2015 - April 2022 
+ 
+ 
+ 
+ Assistant Professor 
+ Department of CSE, Dumkal Institute of Engg. & Tech, W.B.U.T., India  
+ During this period, I was the instructor of several undergraduate (UG) courses like introduction to programming, object-oriented technology (C++, Java), and operating systems. I have guided several UG final year projects as well. I have been awarded the  "Certificate of Appreciation for Quality teaching and Academic performance"  by the institute. I feel glad to see my students contribute generously to their respective fields in various reputed industries and academia. 
+ 
+ August 2009 - June 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ Education 
+ 
+ 
+ Indian Institute of Technology (I.I.T), Guwahati 
+ Doctor of Philosophy (Ph.D.) 
+ Computer Science & Engineering (C.S.E) 
+ 
+ July 2015 - April 2022 
+ 
+ 
+ 
+ Indian Institute of Engineering Science and Technology, Shibpur (I.I.E.S.T, Formerly known
+as B.E.S.U) 
+ Master of Engineering (M.E.) 
+ Computer Science & Engineering (C.S.E) 
+ 
+ May 2011 - April 2013 
+ 
+ 
+ 
+ West Bengal University of Technology (W.B.U.T) 
+ Bachalor of Technology (B.Tech) 
+ Computer Science & Engineering (C.S.E) 
+ 
+ September 2005 - August 2009 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skills 
+ Programming Languages 
+ 
+ 
+ 
+                            C, C++, Python
+                         
+ 
+ 
+                            JAVA, JSP, JDBC, SWING
+                         
+ 
+ 
+                            Verilog HDL language 
+                         
+ 
+ 
+                            CUDA programming language 
+                         
+ 
+ Tools and Simulators 
+ 
+ 
+ 
+                            High level synthesis with Vivado
+                         
+ 
+ 
+                            Deep learning framework - PyTorch
+                         
+ 
+ 
+                            Xilinx ISE
+                         
+ 
+ 
+                            Gem5 Full system simulator
+                         
+ 
+ 
+                            Cadence Toolset
+                         
+ 
+ 
+                            McPAT
+                         
+ 
+ 
+                            CACTI
+                         
+ 
+ 
+                            Multi2Sim
+                         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Teaching 
+ 
+ Operating System Lab (CSL3030) 
+ Python Programming for Data Engineering (AIL7430) 
+ Principles of Computer Systems - II (CSL2090) 
+ Introduction to Computer Science (CSL1010) 
+ Operating System (CSL3030) 
+ Computer Architecture (CSL7070) 
+ Principles of Computer Systems - I (CSL2110) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Honors, Achievements, & Fellowships 
+ 
+ 
+ 
+                            Teaching Excellence Award, IIT Jodhpur, 2023
+                         
+ 
+ 
+                            Intel Fellow, 2020-2021
+                         
+ 
+ 
+                            MHRD Fellow, 2015-2020
+                         
+ 
+ 
+                             Net Qualified for the post of Assistant Professor [CBSE-UGC NET, June, 2015]
+                         
+ 
+ 
+                            Gate Qualified, 2015.
+                         
+ 
+ 
+                            Certificate of Appreciation for Quality teaching and Academic performance in Dumkal Institute of Engineering and Technology (Under W.B.U.T)
+                         
+ 
+ 
+                            National scholarships merit certificate holder (From Govt. of West Bengal)
+                         
+ 
+ 
+                            1
+                             st 
+                            Place - in the merit list of Ph.D. entrance of IIT Guwahati
+                         
+ 
+ 
+                            Resource Person in the workshop under the strengthening component of DBT-STAR College Scheme, Ministry of Science and Technology, Govt. of India.
+                         
+ 
+ 
+                            Received ACM India-IARCS travel grant for DATE 2022 conference. 
+                         
+ 
+ 
+                            Accepted travel grant for DAC 2022 conference.  
+                         
+ 
+ 
+                            Received fellowship and student travel grant support for presenting a full paper in 31st International Conference on VLSI Design (VLSID).   
+                         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Professional Services and Memberships 
+ 
+ 
+ 
+ Member of IEEE-India Council Industry Academia Young Professionals Committee [IAYPC] for the year 2024.
+                             
+ Program Committee Member of "Data Science - Scalable Algorithms and Analytics" Track of International Conference on High Performance Computing, Data, and Analytics (HiPC), 2023. 
+                             
+ Session Chair at IEEE-iSES 2024 Conference.
+                             
+ Session Chair at 2nd Workshop on “Present and Future Computing Systems” IISc Bangalore.
+                             
+ 
+ Reviewer of IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS), March 2024.
+                             
+ Reviewer of IEEE Transactions on Parallel and Distributed Systems (TPDS), December 2021.
+                             
+ Resource Person in the workshop under the strengthening component of DBT-STAR College Scheme, Ministry of Science and Technology, GOI, 2021. 
+							 
+ Talk on Near-memory processing in TEQIP-III sponsored short term course on Advanced Computer Architecture, Department of CSE, IIT Guwahati, 2018.
+							 
+ Member, IEEE.
+							 
+ Member, ACM.
+							 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Panel Discussion @IITJ 2024 
+ 
+ 
+ 
+ Chairing Session @IISC 2024 
+ 
+ 
+ 
+  Teaching Excellence Award @IITJ 2023 
+ 
+ 
+ 
+ 
+ Talk @VLSID 2018 
+ 
+ 
+ 
+ Talk @GLSVLSI 2018 
+ 
+ 
+ 
+  Receiving the Doctorate Degree @IITG 
+ 
+ 
+ 
+ 
+ Chaired Session @iSES 2024 
+ 
+ 
+ 
+ Team Susma @IIT Guwahati 
+ 
+ 
+ 
+ Performance with my supervisor 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Office 
+ Room No 307, Department of CSE, IIT Jodhpur,
+                       N.H. 62, Nagaur Road, Karwar, 
+                       Pin 342030, Office Number (91 291) 280 1256,
+                       Email palashdas[at]iitj[dot]ac[dot]in
+                     
+ Residence Address 
+ Papia Villa, Birnagar,
+                       Mahamayasthan, Raiganj, Uttar Dinajpur,
+                       West Bengal, India, Pin 733134.
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FREE Hit Counters   
+ 
+ 
+ 

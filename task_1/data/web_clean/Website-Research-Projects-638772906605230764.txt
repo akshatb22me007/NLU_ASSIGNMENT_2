@@ -1,0 +1,3120 @@
+Sanctioned Amount
+Sl. No. Project Title Sponsoring Agency Category of Project Principal Investigator Department
+(Rs.)
+Creation of Virtual Class-Rooms at IITs over National
+1 National Informatics Centre Consultancy Gaurav Harit Computer Science & Engineering 1,51,79,860
+Knowledge Network
+2 Low Cost Access-cum-Computing Devices (akash Tablet) MHRD Sponsored Research Project Sandeep Kumar Yadav Electrical Engineering 47,63,61,448
+The Village Community Network: Technology Development
+3 and Pilot Roll out Plan for Low Cost Opportunistic MHRD Sponsored Research Project P K Kalra, Dr. K S Daya Director 3,00,00,000
+Communication Networks for Rural Areas of India
+E-Books on Introduction to High Energy Physics, Introduction
+4 to Astroparticle Physics and Instrumentation Methods in MHRD Sponsored Research Project P K Kalra, Dr. S Bhatnagar Director 14,00,000
+Astroparticle Physics
+Development of Low Cost Mobile Robots - Robotics for
+5 MHRD Sponsored Research Project Deepak Fulwani Electrical Engineering 1,55,80,000
+Education
+Development of Analysis and Indexing Tools for Harnessing
+6 MHRD Sponsored Research Project Gaurav Harit Computer Science & Engineering 32,45,000
+Educational Videos
+NI Systems (I) Pvt. Ltd.,
+7 NI-SENSOR & NETWORKS LAB Sponsored Research Project Sandeep Kumar Yadav Electrical Engineering 5,00,000
+Bangalore
+NI Systems (I) Pvt. Ltd.,
+8 Cross MAC & PHY Layer Research Consultancy Sandeep Kumar Yadav Electrical Engineering 5,00,000
+Bangalore
+Indian Council of Philosophical
+9 Language, Cognition & the Human Mind Sponsored Research Project Hari Narayanan V. School of Liberal Arts 50,000
+Research, MHRD
+Conceptualization and Design Study for Freespace Material
+10 DRDO, Jodhpur Consultancy Akhilesh Mohan Electrical Engineering 5,69,000
+Characterization Facility
+Chhattisgarh Infotech &
+11 One Stop Educational Portal Consultancy Sandeep Kumar Yadav Electrical Engineering 67,41,600
+Bio-tech Promotion Society
+Identification, assessment and Characterization of E3
+Department of Science &
+12 Ubiquitin Ligases and Molecular Chaperones Implicated in Sponsored Research Project Amit Mishra Bioscience and Bioengineering 5,56,000
+Technology
+Neurogenerative Diseases
+Establishment of the Centre of Excellence in Solar Thermal Ministry of New & Renewable
+13 Sponsored Research Project Laltu Chandra Mechanical Engineering 40,00,00,000
+Research and Education Energy
+Study of Aligned CNT/Polymer Nanocomposites for
+14 SERB Sponsored Research Project Balram Tripathi Physics 25,92,000
+Hydrogen Storage
+Development of Intelligent Instrumentation and Cellular NI Systems (I) Pvt. Ltd.,
+15 Consultancy Sandeep Kumar Yadav Electrical Engineering 5,00,000
+Communication Courses Bangalore
+NI Systems (I) Pvt. Ltd.,
+16 Development of DRM/DRM+ Standards Consultancy Sandeep Kumar Yadav Electrical Engineering 25,00,000
+Bangalore
+Department of Science &
+17 Generation, Storage and Distribution of Solar Hydrogen Sponsored Research Project Rakesh Sharma Chemistry 39,63,600
+Technology
+18 Advancement in Nuclear Reactor Design Pertaining to NRFCC Department of Atomic Energy Sponsored Research Project Vivek Vijay Mathematics 4,30,000
+Sponsored/Conf/WS/Semi
+Workshop on Smart Grid Technologies for Renewable Energy Asian Development Bank,
+19 nar/Symposia Laltu Chandra Mechanical Engineering 68,73,369
+Sources Manila
+20 Reproductive Child Health UNICEF, Jaipur Branch Sponsored Research Project Sandeep Kumar Yadav Electrical Engineering 57,50,034
+21 Molecular Sensors: Synthesis and Anion Recognition Studies SERB Sponsored Research Project Rakesh Sharma Chemistry 27,00,000
+22 IOCL-BHEL-IITJ CSP Plant Indian Oil Corpn. Ltd. Sponsored Research Project Laltu Chandra Mechanical Engineering 1,50,00,000
+Rajasthan State Government
+23 Innovation and Incubation Centre Sponsored Research Project Arun Kumar Singh Electrical Engineering 3,50,00,000
+with IIT Rajasthan
+Development of Programmable Emulator for Photovoltaic
+24 SERB Sponsored Research Project Deepak Fulwani Electrical Engineering 9,48,000
+Plant to Facilitate Complex Testing Requirements
+Development of Porous Chiralmetal - Organic Frameworks
+25 SERB Sponsored Research Project C M Nagaraja Chemistry 25,80,000
+(CMOFs) for Heterogeneous Asymmetric Catalysis
+Department of Science &
+26 Asymmetric Hydrogenation on Carbon Nanotube Surface Sponsored Research Project Rakesh Sharma Chemistry 25,25,800
+Technology
+27 Development of Prototype of Microbial Fuel cells Panasonic R&D Center of India Consultancy S Harinipriya System Science 20,00,000
+28 new generation tablet computer, Barmer World BPO Forum, US Consultancy Sandeep Kumar Yadav Electrical Engineering 29,97,482
+29 Energy Efficiency Investigations in Shree Cement Plant Shree Cement Ltd., Kolkata Consultancy Rajiv Shekhar Mechanical Engineering 40,000
+30 Hunting of New Physics Through b-> S Transitions CSIR Sponsored Research Project Ashutosh K Alok Physics 11,92,000
+Developing Dielectric Semiconductor Combinations and
+31 SERB Sponsored Research Project Shree Prakash Tiwari Electrical Engineering 12,84,000
+Processes for Flexible Organic Electronics
+Performance of Solar Power Plants in India-Data Collection, Shakti Sustainable Energy
+32 Consultancy S Harinipriya System Science 24,96,639
+Analysis and Interpretation Foundation, New Delhi
+Design Of Circular Waveguide To Coaxial Transition And
+33 DRDO, Jodhpur Consultancy Akhilesh Mohan Electrical Engineering 6,88,205
+Dipole Probe For E-Field Measurement
+Weapons & Electronics
+Systems Engineering
+34 Link Budget Estimator Project Consultancy Sandeep Kumar Yadav Electrical Engineering 8,98,880
+Establishment, Ministry of
+Defence
+Synchrony Based Evolution of Various Biological and
+35 Artificial Systems to Understand Complex Computational DST-Inspire Faculty Sponsored Research Project Satyajit Sahu Physics 35,00,000
+Aspects
+Development of III-Nitrides thin film(s) for high frequency
+36 ISRO Sponsored Research Project Ambesh Dixit Physics 22,62,000
+saw device applications
+37 Heritage Erasmus Mundus Programme A.C. DEL, ECOLE, GERMANY Sponsored Research Project Kiran kumar Hiremath Mathematics 1,94,648
+38 SiC Coatings on Graphite BRNS Sponsored Research Project S Harinipriya System Science 17,12,050
+Theory and Numerical Algorithms for Interval Linear System
+39 BRNS Sponsored Research Project Bibhas Adhikari Mathematics 21,87,200
+and Interval Eigen-Value Problem
+Bioremediation of low level wastes including denirtrification
+40 BRNS Sponsored Research Project Meenu Chhabra Bioscience and Bioengineering 22,73,750
+using microbial fuel cells
+Graph Theoretical Aspects in Quantum Information
+41 CSIR Sponsored Research Project Subhashish Banerjee Physics 9,92,000
+processing
+Identification, assessment and characterization of E3 ubiquitin Ramalingaswami Fellowship
+42 Sponsored Research Project Amit Mishra Bioscience and Bioengineering 74,50,000
+ligases implicated in the neurodegenerative diseases Project
+Understanding the Molecular Function of MGRNI in
+43 DBT Sponsored Research Project Amit Mishra Bioscience and Bioengineering 41,19,000
+Chaperone Mediated Autophagy
+Uneven Growth and Inequality: Exploring the Inter-linkages Centre De Science Humaines,
+44 Consultancy Mainak Mazumdar School of Liberal Arts 2,31,742
+at Sectoral and Household level for India'. New Delhi
+45 Edux Solutionns Pvt. Ltd IIC IIC Vivek Vijay Mathematics 10,00,000
+46 Kuber IIC IIC Vivek Dixit Mathematics 10,00,000
+47 Freedu Solutions Private Ltd. IIC IIC Mainak Mazumdar School of Liberal Arts 10,00,000
+48 Nadi Parikshan Using Digital Signal Processing IIC IIC Ganesh Bagler Bioscience and Bioengineering 10,00,000
+49 Bhardwaj Infotech Group (B.I.G.) IIC IIC Abhishek Mishra Computer Science & Engineering 2,00,000
+50 EASYAD IIC IIC Laltu Chandra Mechanical Engineering 40,000
+51 Agriculture Water Resource Management IIC IIC Venkta Ramanna Badarla Computer Science & Engineering 40,000
+52 Wireless patient monitoring system IIC IIC V. Narayanan Physics 10,00,000
+Development of Ferroelectric and their composite with
+53 DRDO, Jodhpur Sponsored Research Project Ambesh Dixit Physics 9,55,000
+hexaferrites for microwave absoption applications.
+How AMFR gene regulates cell division and cancer after stress
+54 BRNS Sponsored Research Project Amit Mishra Bioscience and Bioengineering 23,90,000
+exposure?
+Enabling Technologies for Integlligent Wireless Sensor
+55 DST Sponsored Research Project Anil Kumar Tiwari Electrical Engineering 75,00,000
+Network for Health and Environment Monitoring
+Ultrafast charging cathode and anode nanomaterials for
+56 DST(SERB) Sponsored Research Project S Harinipriya System Science 18,00,000
+aqueous flexible lithium ion batteries
+Investigation of maguetoelectric coupling in Cil-
+57 BRNS,Mumbai Sponsored Research Project Ambesh Dixit Physics 23,42,500
+xTMxOMultiferroic System
+58 RF/DC Sputtering System IIT Jodhpur Institute/Seed Grant Mahesh Kumar Electrical Engineering 45,00,000
+59 Experimental Hydrodynamics IIT Jodhpur Institute/Seed Grant Anand K. Plapally Mechanical Engineering 15,38,775
+An Integrative Network Biology Framework for Identification
+60 IIT Jodhpur Institute/Seed Grant Ganesh Bagler Bioscience and Bioengineering 50,00,000
+of Targets and Control Mechanisms of Complex Diseases
+61 Development of Biophysics Pesearch Laboratory IIT Jodhpur IIT Jodhpur Institute/Seed Grant Karunakar Kar Bioscience and Bioengineering 50,00,000
+Technical Consultancy onDesignVerificationandValidationof
+Ministry of Defence, WESSE,
+62 Higher Layers ( Transport, Network, and Data Link Layers) of Consultancy Venkta Ramanna Badarla Computer Science & Engineering 9,49,442
+Govt, of India
+2 Mbps and 2-6 MBPS WAVEFORMS
+63 Deposition of Particulate Matter in Lungs BRNS/DAE Sponsored Research Project Sushmita Jha Bioscience and Bioengineering 24,79,350
+Ministry of Defence, WESSE,
+64 Signal Detection and Frequency Tracking Algorithm Project Consultancy Sandeep Kumar Yadav Electrical Engineering 2,55,000
+Govt, of India
+Development of Metal doped Tio2 Low- Dimension Structures
+65 BRNS Sponsored Research Project Mahesh Kumar Electrical Engineering 17,46,250
+by Suputtering for gas sensing applicaion
+66 Role of inflemmasome Associated Proteins in Glioma SERB Sponsored Research Project Sushmita Jha Bioscience and Bioengineering 22,30,000
+Solid State High Energy Density Lithium Ion Rechrgeable &
+67 DST(IPRC) Sponsored Research Project Rakesh Sharma Chemistry 6,45,000
+Tecnlogy
+Functionalized Calixarene Appended Resing Synthesis and
+68 DST Sponsored Research Project Pragati R Sharma Chemistry 29,00,000
+Application in Water Treatment
+Bifurcation and stability assessment of a highly lightweight
+69 SERB Sponsored Research Project Barun Pratiher Mechanical Engineering 21,80,000
+rotor-bearing system with moving platfrom
+Chemical Dynamics Simulations of Computer Organics
+70 DST Sponsored Research Project Manikandan Paranjothy Chemistry 18,70,000
+Reactions
+71 Dual scale simulations of surfactant co-surfactant water system SERB Sponsored Research Project Ananya Debanath Chemistry 21,70,000
+72 Seed Grant IIT JODHPUR Institute/Seed Grant Gaurav Bhatnagar Mathematics 6,00,000
+Inflence of hydrogen bond dynamic on aggregation of
+73 IIT Jodhpur Institute/Seed Grant Ananya Debanath Chemistry 7,00,000
+chlorophyll molecule in lipid membrane
+Classical chemical dynamic simulation reaction mechanism
+74 IIT Jodhpur Institute/Seed Grant Manikandan Paranjothy Chemistry 7,00,000
+and intra molecular dynamics
+Self – assembly of collagen peptides as foundational
+75 BRNS/DAE Sponsored Research Project Karunakar Kar Bioscience and Bioengineering 18,43,750
+knowledge for cardiovascular disease
+Where the Bougaincillea Blooms: Stories of Place from a
+76 INSA Sponsored Research Project Vidya Sarveswaran School of Liberal Arts 50,000
+Resillient Landscape
+Sstudy of Various graph domination problems on restricted
+77 SERB Sponsored Research Project Deenabandhu Pradhan Physics 19,60,000
+graph classes
+78 Multimedia security based on biometrics for copyright SERB Sponsored Research Project Gaurav Bhatnagar Mathematics 13,44,000
+protection and authentication
+79 Transforming Healthcare Through Tech-dinor IBM Award Money Sandeep Kumar Yadav Electrical Engineering 14,25,000
+80 Towards the development of low-cost water quality sensors Panasonic R&D Center of India Consultancy Rakesh Sharma Chemistry 2,35,563
+Development of low cost Microbial Carbon capture (MCC)
+81 DBT Sponsored Research Project Meenu Chhabra Bioscience and Bioengineering 77,59,923
+cells for algae cultivation and powers generation
+82 Catalytic Upgrading of Bio-Oil to Transport Fuel DBT Sponsored Research Project Rakesh Sharma Chemistry 94,79,277
+Development of Plasmonic metal hybrid electrode system for
+83 II-VI quamtum dot sensitized solar cellls (QDSSCs) realization DST Sponsored Research Project Ambesh Dixit Physics 20,34,000
+of cerriet multiplication for better efficiency
+Design and Development of High power density single phase
+84 IIT JODHPUR Institute/Seed Grant Dhavel C Patel Physics 25,00,000
+inverter
+Visvesvaraya PhD Scholarship scheme for Electronics & IT
+85 Media lab Asia Fellowship project Anil Kumar Tiwari Electrical Engineering 2,16,34,188
+(Part-1)
+86 Towards the development of low-cost water quality sensors Panasonic R&D Center of India Consultancy Rakesh Sharma Chemistry 64,37,502
+Molecular Beam Epitaxy of InAs-based Nanostructures for
+87 INSA-DFG Travel Mahesh Kumar Electrical Engineering 17,00,000
+Scanning Tunned Microscopy Studies
+Wisdom as Cognitive and motivational-emotional heuristics
+88 DST Sponsored Research Project Ankita Sharma School of Liberal Arts 22,30,200
+in ecologically rational decision making
+Sponsored/Conf/WS/Semi
+Ninth National Frontiers of Engineering Institute and Outside
+89 HDFC&BOI nar/Symposia Arun Kumar Singh Electrical Engineering 6,90,000
+Agency
+90 Algorithms for Blind Signal Detection and Demodulation DRDO, Jodhpur Sponsored Research Project Sandeep Kumar Yadav Electrical Engineering 55,24,480
+Ion-Beam Synthesis and Characterization of Gallium Nitride
+91 based Nanocrystals embedded in Si based Matrices for New- DST-International Division Sponsored Research Project Mahesh Kumar Electrical Engineering 55,72,200
+Generation Photodetector and Light-Emitter Applications.
+Development of high thermal conductivity PCM composites
+92 DRDO, Jodhpur Sponsored Research Project Ambesh Dixit Physics 9,83,710
+for thermal management
+Design and development of high capacity and low cost
+93 DST-International Division Sponsored Research Project Ambesh Dixit Physics 23,88,320
+Li2TMSio4(TM=transition metals) silicate materials for future
+rechargeable lithium ion battery.
+Development of a holistic transition prediction tool for high
+94 IIT Jodhpur Institute/Seed Grant Akshay Prakash Physics 20,00,700
+speed flows
+SpecialManpowerdevelopmentProgramforChipstoSystem
+Design (SMDP-C2SD)/ Design of a Sensor Signal
+95 DeitY Sponsored Research Project Shree Prakash Tiwari Electrical Engineering 10,43,000
+Conditioning System (I) & Multiprocessor Scheduling
+Alogrithms using Control Theoretic Approach (II)
+Development of mems based gas sensors using RF sputtered
+96 SERB Sponsored Research Project Mahesh Kumar Electrical Engineering 24,17,000
+transition metal doped ZnO nanostructures
+Technology computer aided design for Novel Metal Oxide
+97 IIT Jodhpur Institute/Seed Grant Suresh Gundapanani Physics 25,00,000
+semiconductor devices.
+Encapsulation of Organic devices by atomic layer
+98 DRDO, Jodhpur Sponsored Research Project Shree Prakash Tiwari Electrical Engineering 9,60,000
+deposition(DRDO CAR Proposal)
+99 Thermal Design of PCM Cool and Warm Vest DRDO, Jodhpur Sponsored Research Project Prodyut Ranjan Chakraborty Mechanical Engineering 9,96,000
+Sponsored/Conf/WS/Semi
+100 9th India-Trento Programme for Advance Research DST, International Division nar/Symposia Anil Kumar Tiwari Electrical Engineering 10,70,000
+Sponsored/Conf/WS/Semi
+101 Ishaan Vikas Program MHRD nar/Symposia Barun Pratiher Mechanical Engineering 2,40,000
+Sponsored/Conf/WS/Semi
+102 workshop for NIFT Students NIFT nar/Symposia Rahul Chhibber Mechanical Engineering 20,000
+Sponsored/Conf/WS/Semi
+nar/Symposia
+103 GIAN-CHEMICAL & MATERIAL SCIENCE MHRD Ritu Gupta Chemistry 5,44,000
+Sponsored/Conf/WS/Semi
+104 GIAN-ROBOTICS MHRD Suril V. Shah Mechanical Engineering 5,44,000
+nar/Symposia
+Computationally efficient fixed complexity sphere decodes for
+105 SERB Sponsored Research Project Arun Kumar Singh Electrical Engineering 22,82,000
+multiuser MIMO communications
+Development of computer vision techniques for image content
+106 IIT Jodhpur Institute/Seed Grant Chiranjoy Chattopadhayay Computer Science & Engineering 17,80,000
+analysis and Retrieval
+Sponsored/Conf/WS/Semi
+107 GIAN-Vehicle Dynamics MHRD nar/Symposia B. Ravindra Mechanical Engineering 8,16,000
+Thermal analysis of direct steam generation from single and
+108 IIT Jodhpur Institute/Seed Grant Prodyut Ranjan Chakraborty Mechanical Engineering 25,00,000
+binary PCM heat storage device.
+Hybrid reactionless manipulation and visual serving of a
+109 DST-Inspire Faculty Sponsored Research Project Suril V. Shah Mechanical Engineering 35,00,000
+satellite mounted robot for autonomus on orbit services
+Singularity free reactionless manipulation of a satellite
+110 mounted dual-arm robot for capture of tumbling orbiting DST Sponsored Research Project Suril V. Shah Mechanical Engineering 24,77,000
+object
+Sponsored/Conf/WS/Semi
+111 GIAN-Advanced Digital VLSI Circuit Design MHRD nar/Symposia Suresh Gundapanani Physics 8,16,000
+Visvesvaraya PhD Scholarship scheme for Electronics & IT
+112 Media lab Asia Fellowship project Anil Kumar Tiwari Electrical Engineering 1,51,70,876
+(Part-2)
+113 Energy Efficient Technologis for Smart Building IUSSTF (DST) Sponsored Research Project Deepak Fulwani Electrical Engineering 1,30,50,000
+Development of Tunable RF Filter Based on Ferroelectric Thin
+114 INSA Sponsored Research Project Mahesh Kumar Electrical Engineering 5,00,000
+Film by Sputtering
+Probing Magnetic Structures and Spin Flop transition in bulk
+115 DST Sponsored Research Project Ambesh Dixit Physics 6,60,573
+and nanostrutured FeVo4 Multoferroic System
+116 Energy Efficient Smart Window Material IIT Jodhpur Institute/Seed Grant Ritu Gupta Chemistry 24,90,000
+117 Under the sky IIT Jodhpur Institute/Seed Grant Vidya Sarveswaran School of Liberal Arts 19,98,000
+118 Climate change and social crisis in the anthropocene MHRD Sponsored Research Project Vidya Sarveswaran School of Liberal Arts 8,16,000
+Sponsored/Conf/WS/Semi
+nar/Symposia
+119 Earthquake Behaviour of Building IIT Jodhpur N M Bhandari Structural Engg (Civil) 1,60,000
+Sponsored/Conf/WS/Semi
+120 Ishaan Vikas Program 2016 IIT Guwahati/ MHRD nar/Symposia Barun Pratiher Mechanical Engineering 2,57,000
+Minimizing deflection induced surface errors in end milling of
+121 SERB Sponsored Research Project KaushaL A. Desai Mechanical Engineering 15,34,049
+thin walled components
+Local Composite geotextile mats for soil and water
+122 DST Sponsored Research Project Anand K. Plapally Mechanical Engineering 19,80,000
+conservation in western Rajasthan
+A Study of quantum correlations : Squeezing and its various
+123 CSIR Sponsored Research Project Subhashish Banerjee Physics 5,10,000
+facets
+How LRASM1 gene regulates cellular protein quality control
+124 SERB Sponsored Research Project Amit Mishra Bioscience and Bioengineering 23,10,000
+functions? Implications in neurodegeneration and ageing
+125 home owners guide for earthquake and cyclone safety NDMA Consultancy C.V.R.Murty Director 3,82,200
+Design of efficient algorirthms for multiple choice resource
+126 SERB Sponsored Research Project Aritra Banik Computer Science & Engineering 9,78,450
+allocation problem
+Preparation of the Roadmap/Guidelines for Regulating Government of Himachal
+127 Consultancy C.V.R.Murty Director 1,00,000
+Development Construction including Licensing of Engineers Pradesh
+Analysis of miRNA and mRNA expression data to understand
+128 IIT Jodhpur Institute/Seed Grant Sushmita Paul Bioscience and Bioengineering 18,00,000
+etiology of cervical cancer
+Sponsored/Conf/WS/Semi
+129 Sustainable Urban Water Management INAE nar/Symposia C.V.R.Murty Director 10,00,000
+130 Unnat Bhart Abhiyan MHRD Sponsored Research Project Ananya Debanath Chemistry 3,77,000
+Short term course on Helicopter dynamics and handling
+131 DRDO Consultancy Suril V. Shah Mechanical Engineering 3,72,125
+qualities
+Development of electrochemical energy storage from carbon
+132 SERB Sponsored Research Project Ritu Gupta Chemistry 37,17,700
+rich waste
+Noise-enhanced Edge-preserving Image Denoising using
+133 SERB Sponsored Research Project Rajlaxmi Chouhan Electrical Engineering 26,64,580
+Stochastic Resonance
+Application specialty optical fibers and towards 1D random
+134 DST-Inspire Faculty Sponsored Research Project Somnath Ghosh Physics 35,00,000
+lasers in disordered lattices
+Development of nanostructured Cu2ZnSn(S/Se)4 thin films
+135 and their electronic properties for next generation solar DST Sponsored Research Project Ambesh Dixit Physics 37,22,000
+photovoltaic applications
+Integrative Approach for Identification of Disease Genes of
+136 SERB Sponsored Research Project Sushmita Paul Bioscience and Bioengineering 26,76,520
+Type II Diabetes
+Development of Multimodal Search Framework For
+137 SERB Sponsored Research Project Chiranjoy Chattopadhayay Computer Science & Engineering 24,58,500
+Architeetural Floor Plan
+138 Automorphism Groups of Induced Symbolic Systems NBHM Sponsored Research Project Puneet Sharma Mathematics 3,32,500
+Ligand based 19F NMR methods with selective pulses to
+139 IIT Jodhpur Institute/Seed Grant Samanwita Pal Chemistry 17,00,000
+probe small-molecule protein interaction
+Probing the Foundations of Quantum Mechanics in Neutrino
+140 DST Sponsored Research Project Subhashish Banerjee Physics 10,08,500
+Oscillations
+141 Design and development of NavIC Receiver MeitY Sponsored Research Project Arun Kumar Singh Electrical Engineering 64,55,000
+Experimental and Numerical Investigation of Jatropha Fueled
+142 IIT Jodhpur Institute/Seed Grant Sudipto Mukhopadhyay Mechanical Engineering 24,99,500
+Compression Ignition Engine
+143 EEG Neurofeedback Training for Optimal Performance IIT Jodhpur Institute/Seed Grant Ankita Sharma School of Liberal Arts 10,00,000
+Molecular mechanisms of Polo-Like Kinase,PLK4,Recruitment
+144 IIT Jodhpur Institute/Seed Grant Priyanka Singh Bioscience and Bioengineering 25,00,000
+and Functioning during Centriole Duplication
+Oxidative Transition Metal Catalysis: A Unifying Approach
+145 IIT Jodhpur Institute/Seed Grant Sandip Murarka Chemistry 25,00,000
+Towards Diverse Small Molecules
+Synthesis of Soluble Heterometallic Phosphates and
+Phosphonates : Conversion to
+146 IIT Jodhpur Institute/Seed Grant Ramesh K.Matre Chemistry 24,80,280
+LiMPO4(M=FeII,CoII,NiII,MnII) Phases for Applications in
+Cathode Materials for Li-ion Battery
+Solid state Nuclear Magnetic Resonance (NMR) assessment of
+147 SERB (DST) Sponsored Research Project Samanwita Pal Chemistry 34,45,520
+zinc oxide (ZnO) nanomaterial based drug delivery systems
+Expression analysis of inflammasome-forming NLRs in
+148 DBT Sponsored Research Project Sushmita Jha Bioscience and Bioengineering 42,15,000
+gliomas for identification of novel therapeutic interventions
+Visual Servoing of Mobile Manipulator with application to
+149 Tata Consultancy Limited Consultancy Suril V. Shah Mechanical Engineering 10,12,440
+smart warehouse and smart factory
+New Single Source Precursors for Potential Nanostructured
+150 SERB Sponsored Research Project Ramesh K.Matre Chemistry 32,12,000
+Bi2Te3/sb2Te3 System Based Thermoelectric Materials
+Substrate Integrated Coaxial Line (SICL) based Circuits and
+151 DST-Inspire Faculty Sponsored Research Project Soumava Mukherjee Electrical Engineering 35,00,000
+Systems for millimeter wave application
+Delivery of high-power ultra-short optical pulses in mid-
+152 IIT Jodhpur Institute/Seed Grant Somnath Ghosh Physics 24,38,083
+infrared wavelength range
+153 No-reference Image Quality Assessment and Aplication IIT Jodhpur Institute/Seed Grant Rajlaxmi Chouhan Electrical Engineering 20,25,000
+Convergence of Degital and Reproductivs Healthcare as
+154 IIT Jodhpur Institute/Seed Grant Mayurakshi Choudhuri School of Liberal Arts 14,85,000
+Sociotechnical Ensembles:A Case-Study of Rajasthan,India
+Compensation of Cutting Force Induced and Fixture
+155 IIT Jodhpur Institute/Seed Grant KaushaL A. Desai Mechanical Engineering 25,00,000
+Dependant Errors in CNC End Milling
+Design and Fabrication of Germanium on Silicon near infrared NPDF-Saravanan Rajamani
+156 DST Sponsored Research Project Electrical Engineering 19,20,000
+photodetectors Mentor-Mahesh Kumar
+The Rachel Carson Center for
+Environment and
+157 Public Outreach Grant Sponsored Research Project Vidya Sarveswaran School of Liberal Arts 1,06,920
+Society,Manich,
+Germany
+GIAN-Advanced Materials and Future Technologies for Solar Sponsored/Conf/WS/Semi
+158 MHRD Ritu Gupta Chemistry 5,44,000
+Energy Conversion nar/Symposia
+Information Access from Document Images of Indian
+159 MHRD & Meity Sponsored Research Project Gaurav Harit (as a Co PI) Computer Science & Engineering 80,00,000
+Languages
+Design and Development of Tunable RF Filters based on
+160 DRDO Sponsored Research Project Mahesh Kumar Electrical Engineering 20,00,000
+Ferroelectric Thin Films by Sputtering
+161 Direct-To-Home Project,MHRD MHRD Sponsored Research Project Mayurakshi Choudhuri School of Liberal Arts 2,00,000
+162 Bridging the Innovation Gap INTEL/FICE Sponsored Research Project B. Ravindra Mechanical Engineering 2,50,000
+Modification of electron and hole transport layers for High
+163 IUSSTF Fellowship project Mahesh Kumar Electrical Engineering 5,90,500
+Efficiency Perovskite Solar Cells
+DST(International Bilateral Sponsored/Conf/WS/Semi
+164 Indo-Italian Joint Workshop C.V.R.Murty Director 7,90,000
+Coorperation Division) nar/Symposia
+165 Vigyan Jyoti Pilot Project of DST DST-Kiran Division Sponsored Research Project Priyanka Singh Bioscience and Bioengineering 16,57,900
+Hospital-associated ESKAPE pathogens:Unraveling novel The Wellcome Trust/DBT
+166 Award Money Shankar Manoharan Bioscience and Bioengineering 1,64,88,993
+regulatory layers controlling virulence and persistence India Alliance
+167 Magnetars with superfluid core SERB Sponsored Research Project Monika Sinha Physics 20,60,082
+Catalytic Stereodivergent Reactions for the Synthesis of Multi-
+168 substituted Cyclohexanes:Application in the Synthesis of IIT JODHPUR Institute/Seed Grant Nirmal Kumar Rana Chemistry 24,44,977
+Family of Hapalindoles and Lycorane Natural Products
+Impact of Rainwater Harvesting on Groundwater Quality in
+169 DST Sponsored Research Project Rakesh Sharma Chemistry 75,27,600
+India with Specific Reference to Fluoride and Mircropollutants
+Possibilities and Device Applications of Degenerate Optical
+170 SERB Sponsored Research Project Somnath Ghosh Physics 34,89,308
+Microcavities
+Molecular studies to delineate the role of nitric oxide/nitric
+171 oxide synthase in neutrophil maturation,survival and SERB Sponsored Research Project Madhu Dixit Bioscience and Bioengineering 88,40,000
+functions
+Tandem Annulations Involving Metallocarbenes: Towards
+172 SERB Sponsored Research Project Sandip Murarka Chemistry 33,00,000
+Diverse Molecular Architectures
+Development of Highly Efficient Low Cost Insulation for
+173 MHRD Sponsored Research Project Sudipto Mukhopadhyay Mechanical Engineering 93,47,000
+power plants
+Young Faculty Research Fellowship (YFRF) of Visvesvaraya
+174 MeitY Fellowship project Shree Prakash Tiwari Electrical Engineering 37,00,000
+PhD Scheme
+Young Faculty Research Fellowship (YFRF) of Visvesvaraya
+175 MeitY Fellowship project Deepak Fulwani Electrical Engineering 37,00,000
+PhD Scheme
+Young Faculty Research Fellowship (YFRF) of Visvesvarya
+176 MeitY Fellowship project Gaurav Harit Computer Science & Engineering 22,20,000
+PhD Scheme
+Development of Catalytic Diastereo and Enantiodivergent
+177 DST-Inspire Faculty Sponsored Research Project Nirmal Kumar Rana Chemistry 35,00,000
+Tandem Reactions
+Cascaded Latent Heat Storage (CLHS) for high temperature
+178 CSP applications material development and characterization DST Sponsored Research Project Prodyut Ranjan Chakraborty Mechanical Engineering 58,44,520
+to lab-scale setup
+Investigation on Planar Horn Antenna using Substrate
+179 IIT Jodhpur Institute/Seed Grant Soumava Mukherjee Electrical Engineering 24,41,100
+Integrated Waveguide (SIW) Technology
+High Performance Low Voltage Flexible Organic Field-Effect
+180 SERB Sponsored Research Project Shree Prakash Tiwari Electrical Engineering 51,70,000
+Transistors for Circuit and Sensing Applications
+Hub and Spoke Consortia for e2W and e3W Electric Drives-
+Design Development of Prototyping of Advanced IM and
+181 DHI(NFTDC) Sponsored Research Project Deepak Fulwani Electrical Engineering 24,40,000
+Synchronous Reluctance Drives and Vehicle Integration for
+e2W and e3W Applications
+182 Helicopter Dynamics and Handling Quality ASTE Bangalore Consultancy C.Venkatesan Mechanical Engineering 3,42,495
+Synthesis and study of properties of electrochemically active
+composites based on lithium intercalated silicates of iron,
+183 DST Sponsored Research Project Ambesh Dixit Physics 23,31,200
+manganese,cobalt and having high electron conductivity
+corbosilicides of transition metal
+Sponsored/Conf/WS/Semi
+184 GIAN-Topological Solitons and their applications MHRD Subhashish Banerjee Physics 5,44,000
+nar/Symposia
+Role of Centriole Protein,CPAP in neurodevelopmental
+185 SERB Sponsored Research Project Priyanka Singh Bioscience and Bioengineering 38,74,312
+disorder
+Design of Vortex flow Generator to optimize the heat transfer
+186 IIT Jodhpur Institute/Seed Grant Hardik Kothadia Mechanical Engineering 24,40,000
+enhancement in a straight tube
+Design and Development of Midrange(≥10 km) RF
+187 DRDO, Jodhpur Sponsored Research Project Arpit Khandelwal Electrical Engineering 9,60,000
+Transceiver system to transmit Nuclear Radiation Sensor Data
+Sponsored/Conf/WS/Semi
+188 DST Subject Expert Committee (SEC)- Life Science Meeting DST Priyanka Singh Bioscience and Bioengineering 12,30,000
+nar/Symposia
+Optimal Motion Planning of Multiple Mobile Manipulators for
+189 IIT Jodhpur Institute/Seed Grant Suril V. Shah Mechanical Engineering 25,00,000
+Transporting a payload Through Tight Spaces
+Outreach Workshop-Prime Minister's Fellowship for Doctoral Sponsored/Conf/WS/Semi
+190 SERB Samanwita Pal Chemistry 2,37,000
+Research nar/Symposia
+191 Netapp Faculty Fellowship:Edge Computing NETAPP Sponsored Research Project Subhajit Sidhanta Computer Science & Engineering 5,00,000
+Sponsored/Conf/WS/Semi
+192 KVPY Interview 2019 IISc Banglore Sampat Raj Vadera Physics 2,00,000
+nar/Symposia
+Indian Heritage in Digital Space of Interdisciplinary cyber
+193 DST Sponsored Research Project Santanu Chaudhury Computer Science & Engineering 12,75,55,100
+physical Systems
+Software as a service for OCR system for Odia Documents
+194 Meity Sponsored Research Project Santanu Chaudhury Computer Science & Engineering 20,16,000
+Images
+Digital Representation Generation for Efficient Retrieval of
+195 IIT K, MHRD Sponsored Research Project Santanu Chaudhury Computer Science & Engineering 76,00,000
+Bangla Document Images in Digital Libraries
+Performance Testing of ACC Tube Bundles Along With Thermax SPX Energy
+196 Sponsored Research Project Hardik Kothadia Mechanical Engineering 29,15,000
+Establishing Their Theoretical Correlation Technologies Limited
+Multiparticle Entanglement, Nonlocality and Quantum
+197 Information processing- Analysing the role and applications SERB Sponsored Research Project Atul Kumar Chemistry 19,50,877
+of statistical correlations
+Thermoelectric Performance Study Using First-Principles
+198 SERB Sponsored Research Project Appala Naidu Gandi Metallurgical & Materials Engineering 22,59,420
+Calculations Based Methods
+199 Unnat Bhart Abhiyan (RCI) IIT Delhi Sponsored Research Project Vivek Vijay CETSD 5,00,000
+Generation of Entangled Photons and its application to
+200 DST Sponsored Research Project V. Narayanan Physics 2,08,92,000
+Quantum Computation and Information Processing
+Experimental Investigation and Performance Evaluation of
+201 HARQ Technique for Free-Space Optical Communication SERB Sponsored Research Project Aashish Mathur Electrical Engineering 42,84,100
+Systems
+Development of lead free piezoelectric based Nano-generator:
+202 SERB Sponsored Research Project Barun Pratiher Mechanical Engineering 53,53,832
+Modeling, Simulator and Experimental Realization
+Sponsored/Conf/WS/Semi
+203 Workshop on Computational Biology and Bioinformatics SERB-IITJ Sushmita Paul Bioscience and Bioengineering 2,70,000
+nar/Symposia
+Design and Development of Metal Oxide Hole Transporting
+Phd Student-Abhijeet Kale
+204 Material (HTM) based Inverted Perovskite Solar Cell (iPSC) DST-Inspire (Phd Student) Sponsored Research Project Physics 21,18,400
+Mentor-Ambesh Dixit
+Under Ambient Conditions
+Development of Paired Neck Chamber Device for Assessment
+205 DST Sponsored Research Project KaushaL A. Desai Mechanical Engineering 26,32,344
+of Baroreflex Sensitivity
+Samsung India Electronics Pvt.
+206 Strengthening Handwriting Recognition & Smart Annotation Consultancy Gaurav Harit Computer Science & Engineering 13,82,800
+Ltd.
+Sponsored/Conf/WS/Semi
+207 64th DAE Solid Stte Physics Symposium Department of Atomic Energy Mahesh Kumar Electrical Engineering 20,00,000
+nar/Symposia
+Design and Fabrication of Indigenous Powder Fed Metal
+208 DST Sponsored Research Project Ravi K R Metallurgical & Materials Engineering 2,15,50,720
+Additive Manufacturing Machine
+Secure Vehicular Communication and Routing in future
+209 SERB Sponsored Research Project Debasis Das Computer Science & Engineering 19,81,100
+Intelligent Transportation Systems (ITS)
+Design Vetting of 01 MW Micro grid based Solar power plant
+210 RAMA Refelection Pvt.Ltd. Consultancy Deepak Fulwani Electrical Engineering 53,100
+at Militry Station Brichgunj
+Quantitative assessment of Hot tearing characteristics of
+211 DRDO-ARDB Sponsored Research Project Ravi K R Metallurgical & Materials Engineering 5,77,500
+Aerospace Magnesium Alloys
+Modulation of a-Synuclein Amyloid Assemblt by Human
+212 SERB Sponsored Research Project Neha Jain Bioscience and Bioengineering 41,00,026
+Chaperone-like Proteins
+Implementation of host protein as novel antibacterial agent to
+213 IIT Jodhpur Institute/Seed Grant Neha Jain Bioscience and Bioengineering 25,00,000
+combat Antimicrobial Resistance
+01 mw Micro grid based solar power plant at Militry Station
+214 Brichgunj (Portblair) under Militry engineering services RAMA Refelection Pvt.Ltd. Consultancy Barun Pratiher Mechanical Engineering 70,880
+portblair
+In-House Development of Pulse ElectroForming Set-Up To
+215 Fabricate High Surface Area Structures And Subsequent IIT Jodhpur Institute/Seed Grant Ankur Gupta Mechanical Engineering 25,00,000
+Application in Waste Water Treatment
+Unified Approach to the Potent Indole Diterpeniods:
+216 Streamlined Total Synthesis of Shearilicine, paspaline-13-ene, IIT Jodhpur Institute/Seed Grant Rohan D Erande Chemistry 25,00,000
+Paspalinine and Paspalicine natural Products
+217 Fluorescence Probes for Detection of Amyloid Plaque IIT Jodhpur Institute/Seed Grant Surajit Ghosh Bioscience and Bioengineering 25,00,000
+Asymmetric Expansion in High-Speed confined Jets and
+218 Novel control Strategies for Fluid Actuation and Supersonic IIT Jodhpur Institute/Seed Grant Arun Kumar R Mechanical Engineering 25,00,000
+Mixing
+Evaluation of the effect of salicylate on capsule synthesis by
+219 IIT Jodhpur Institute/Seed Grant Shankar Manoharan Bioscience and Bioengineering 25,00,000
+virulent klebsiella Pneunoniae
+Faculty Development Program on Quantum Science and Sponsored/Conf/WS/Semi
+220 DST Subhashish Banerjee Physics 1,80,000
+Technology nar/Symposia
+Development of anti-alzheimer peptide from taxol pocket of β-
+221 SERB Sponsored Research Project Surajit Ghosh Bioscience and Bioengineering 57,24,000
+tubulin
+222 Chiral Calix-crowns for asymmetric phase transfer catalyst DST Sponsored Research Project Pragati R Sharma Chemistry 34,68,800
+Sulphur nanoparticles Reinforced Hieratchical Assemblies of
+223 DST Sponsored Research Project Shahab Ahmad Physics 86,86,828
+Carbon nanotubes for Efficient Lithium-Sulphur Batteries
+Muc-1 receptor targeted nano-liposome containing peptide-
+224 DBT Sponsored Research Project Surajit Ghosh Bioscience and Bioengineering 17,54,942
+drug-nanocage for breast cancer and cancer stem cell
+Design and Analysis of Indigenous Autopilot System for
+225 DRDO Sponsored Research Project C.Venkatesan Mechanical Engineering 9,96,000
+Quadrotor
+Predictive Maintenance and Quality Control in industries
+226 SERB Sponsored Research Project Sumit Kalra Computer Science & Engineering 54,54,065
+under Industry 4.0
+Development of low cost sensors for monitoring of odours in
+227 SERB Sponsored Research Project Mahesh Kumar Electrical Engineering 94,75,664
+ambient air
+Development of low cost sensors for monitoring of odours in Envirotech Instruments Pvt.
+228 Sponsored Research Project Mahesh Kumar Electrical Engineering 13,00,000
+ambient air Ltd.
+Understanding Semantic Association Between Visual and
+229 DST-Inspire Faculty Sponsored Research Project Yashashwi Verma Computer Science & Engineering 35,00,000
+Textual Data: What lies ahead
+Photo-Rechargeable Organo-Halide Perovskite-Transition
+230 SERB Sponsored Research Project Shahab Ahmad Physics 48,98,476
+Metal Dichalcogenide Batteries
+Development of Light-weight and Flexible Multi-link Robotic
+231 Manipulator Mounted on Mobile Platform: Modelling, SERB Sponsored Research Project Barun Pratiher Mechanical Engineering 39,64,240
+Simulation and Physical Realization
+Validation of Jodhpur Instrumented Kursi Against Dual
+232 Energy X-Ray Absorptiometry to Diagnose Sarcopenia in ICMR Sponsored Research Project Vivek Vijay Mathematics 11,01,710
+Older Indians
+Chemical Reactions and Energy Transfer in Atmospheric
+233 N2/O2/Ar-Boron Nitride Surface Collisions : Applications in DST Sponsored Research Project Moumita Majumder Metallurgical & Materials Engineering 33,63,984
+Modelling Spacecraft Materials
+Study of the Effects of Stress-State and Strain-Rate on
+234 Constitutive Response of Polymer Gels via Experiments and SERB Sponsored Research Project Abir Bhattacharyya Metallurgical & Materials Engineering 30,60,480
+Continuum Mechanics Modeling
+Mitigation of weldability issues and residual stresses in
+235 SERB Sponsored Research Project Chandan Pandey Mechanical Engineering 25,26,980
+dissimilar welded joints of ultra-supercritical power plants
+Large area synthesis of 2DMoS2structures for low power and
+236 SERB Sponsored Research Project Mahesh Kumar Electrical Engineering 40,81,000
+fast NO2 Gas Sensor
+237 Utilization of hydrogen as fuel in cement production Ultratech Cement Consultancy Rakesh Sharma Chemistry 10,00,000
+Sponsored/Conf/WS/Semi
+Multiple Agencies (DRDO and
+238 Quantum Information and Computation 2019 nar/Symposia Subhashish Banerjee Physics 1,45,000
+other Pvt Agency)
+Sponsored/Conf/WS/Semi
+239 KVPY Interview 2019 IISc Banglore Sampat Raj Vadera Physics 4,50,000
+nar/Symposia
+240 Text and Image Semantic Graphic MHRD Sponsored Research Project Gaurav Harit Computer Science & Engineering 44,67,775
+Design And analysis of multi-channel incoherent beam
+241 DRDO Sponsored Research Project Arpit Khandelwal Electrical Engineering 9,60,000
+combination system
+Investigating asymmetric mixed surfactant bilayers using dual-
+242 scale simulations to correlate bilayer properties with SERB Sponsored Research Project Ananya Debanath Chemistry 44,36,420
+thermodynamics of asymmetry
+Pincer Ligand based Transition Metal Catalysts Design for
+243 IIT JODHPUR Institute/Seed Grant Subrata Chakraborty Chemistry 23,60,000
+Carbon dioxide activation and catalytic utilization
+Modeling Organic and Biochemical phenomena via direct
+244 SERB Sponsored Research Project Manikandan Paranjothy Chemistry 51,88,820
+chemical dynamics simulations
+Eigenvalue type problems related to linear and quasi-linear
+245 DST Sponsored Research Project Abhishek Sarkar Mathematics 35,00,000
+operators
+246 Genomelndia: Cataloguing the genetic Variation in Indians DBT Sponsored Research Project Pankaj Yadav Bioscience and Bioengineering 1,15,00,000
+Design and Development of Substrate Integrated Waveguide
+247 (SIW) and Empty SIW (ESIW) Based RF-Microwave SERB Sponsored Research Project Arani Ali Khan Electrical Engineering 25,43,210
+Components
+Elucidating the role of centrosome protein CEP152 in primary
+248 DBT Award Money Priyanka Singh Bioscience and Bioengineering 59,50,240
+microcephaly
+Development of System to Mitigate Second Order Harmonic
+249 Ripple in AC/DCMicrogrid using Advanced Control SERB-CRG Sponsored Research Project Deepak Fulwani Electrical Engineering 41,47,121
+Techniques
+Multimodal Approach for Repairing of Brain Damage: Small
+Molecule Mediated Neurogenesis from Stem Cells and
+250 SERB Sponsored Research Project Surajit Ghosh Bioscience and Bioengineering 2,79,57,120
+Transplantation of Regenerated Neurons through Novel
+Scaffolds
+DETECTING SPOOFING AND DIGITAL ATTACKS ON
+251 Meity Sponsored Research Project Richa Singh Computer Science & Engineering 72,15,000
+FACE IMAGES
+Detection and Prevention of Forged Obscene Images/Videos
+in the Social Networks using Machine Learning (A Social
+252 MHA Sponsored Research Project Mayank Vatsa Computer Science & Engineering 1,97,28,000
+Media Engine for Discovering Doctoring in Obscene
+Multimedia)
+253 Development of An AI platform for Human Health MEity Sponsored Research Project Santanu Chaudhury IDRP 3,86,54,000
+254 Shock Wave Interation with Various Interfaces DST-Inspire Faculty Sponsored Research Project Arun Kumar R Mechanical Engineering 35,00,000
+255 On Graph Induced Symbolic Dynamics DST SERB Sponsored Research Project Puneet Sharma Mathematics 6,60,000
+Reactionless Maneuvering and Visual Servoing for Space
+256 ISRO Sponsored Research Project Suril V. Shah Mechanical Engineering 43,86,000
+Flying Robot and Half Humanoid
+257 Dynamic Studies for Half-humanoid and Spaceflying Robot ISRO Sponsored Research Project Suril V. Shah Mechanical Engineering 16,84,000
+258 Fundamentals of Photovoltaics MHRD Sponsored Research Project Mahesh Kumar Electrical Engineering 5,68,000
+259 Functional Materials MHRD Sponsored Research Project Mahesh Kumar Electrical Engineering 5,68,000
+Multiphysics Modeling & Analysis of Energy Technologies &
+260 MHRD Sponsored Research Project Shobhana Singh Mechanical Engineering 5,68,000
+Systems
+Systems Biology and Network Analysis for Enabling Research
+261 MHRD Sponsored Research Project Sucharita Dey Bioscience and Bioengineering 5,68,000
+in Personalized Genomics
+Design and Development of Indigenous On-board Autopilot
+262 and Vision-based Navigation Systems for Autonomous Flight SERB Sponsored Research Project Suril V. Shah Mechanical Engineering 46,22,200
+of Hover Capable Rotary-wing Vehicles
+Sponsored/Conf/WS/Semi
+nar/Symposia
+263 ICSSP Conference ICSSP Ravi K R Metallurgical & Materials Engineering 3,19,916
+Spearation of fine iron partials from organic powders to less
+264 Uma Laxmi Organics Pvt. Ltd. Consultancy Pradip Kumar Tewari Chemical Engineering 33,134
+than 10 ppm
+265 Travel Grant for Anchal Gahlaut CSIR Travel P. Manikandan Chemistry 1,76,448
+266 iHub Drishti DST Sponsored Research Project Mayank Vatsa Computer Science & Engineering 7,25,00,000
+Institute Online Executive
+267 Online Education Consultancy Anand Mishra Computer Science & Engineering 2,87,91,250
+Programme
+Plasma Based Sterilizing System for Indoor Air Quality to
+268 IIT Jodhpur Institute/Seed Grant Ram Prakash Physics 23,50,000
+fight Covid-19
+Synthesis and characterization of ferrite materials with high
+269 IIT Jodhpur Institute/Seed Grant Durgamadhab Mishra Physics 24,50,000
+anisotropic properties for permanent magnet application
+Structure Based Functional Characterzation of Staphylococcal
+270 Thiol Peroxidase Enzymes: A new Hunch for Anti- IIT Jodhpur Institute/Seed Grant Sudipta Bhattachrayya Bioscience and Bioengineering 23,50,000
+Staphylococcal Drug Discovery
+Personal Use facial fit trails of reusable ceramic respirators
+271 being manufactured at Bhopalgarh for use towards MHRD Sponsored Research Project Anand K. Plapally Mechanical Engineering 89,500
+preventing spread of air borne diseases.
+Angel-resolved photoelectron (ARPES) studies of doped
+272 UGC-DAE Sponsored Research Project Mahesh Kumar Electrical Engineering 1,35,000
+2DMoS2
+Multimodal Approaches to Develop Potential
+Therapeutic Leads Targeting Molecular Hot Spots of
+273 SERB Sponsored Research Project Surajit Ghosh Bioscience and Bioengineering 4,79,00,910
+Duchenne Muscular Dystrophy for Clinical Trial
+(DMD Centre)
+Electronic and thermoelectric properties of Bi2Te3-XSX and
+Sb2Te3-xSX: A density functional theory approach and
+274 DRDO Sponsored Research Project Satyajit Sahu Physics 9,80,000
+scanning tunneling microscopy study of surface states for
+enhancement of thermoelectric efficiency
+275 Resource Constrained AI. Meity Sponsored Research Project Deepak Mishra Computer Science & Engineering 39,82,000
+276 Photo-Rechargeable Perovskite Batteries for Future Mobility DST Sponsored Research Project Shahab Ahmad Physics 27,65,140
+277 Rakshak Project iHub Drishti Sponsored Research Project Santanu Chaudhury Computer Science & Engineering 1,00,00,000
+Phimetrics Telecom VAS
+278 Voice and Video Analytics Consultancy Himanshu Kumar Electrical Engineering 2,00,000
+Pvt.Ltd.
+Design of ice freezing type heat exchanger and optimization of
+279 DRDO Sponsored Research Project Hardik Kothadia Mechanical Engineering 9,88,800
+size, weight and power of heat exchanger
+280 Cold Plasma Detergent in the environment to fight COVID-19 Porte Automations Pvt Ltd Sponsored Research Project Ram Prakash Physics 23,60,000
+Management of TBIOM and Newsletter (Transferred from IIIT
+281 IEEE Biometrics Council Consultancy Mayank Vatsa Computer Science & Engineering 40,91,228
+Delhi)
+282 Swaranajayanti Fellowship:Mitigating DST-Swaranajayanti Fellowship Sponsored Research Project Mayank Vatsa Computer Science & Engineering 63,33,337
+Smart Health Solutions for Rapid Mass Diagnosis for COVID-
+283 DST-RAKSHAK Sponsored Research Project Sumit Kalra Computer Science & Engineering 5,00,000
+19
+Knowledge Discovery from Images containing Text and its
+284 Accenture Sponsored Research Project Anand Mishra Computer Science & Engineering 14,64,633
+application to Audio-Visual Dialogue
+Biomimetic Nanoscale Metal Organic Frameworks for
+DBT-Ramalingaswami
+285 Targeted Near Infrared Fluorescence Imaging and Fellowship project Raviraj Vankayala Bioscience and Bioengineering 42,50,000
+Fellowship
+Phototherapeutic Destruction of Intraperitioneal
+286 Cross Flows Flapping Jets for Supersonic Mixing Enhancement DRDO-ARDB Sponsored Research Project Arun Kumar R IDRP 24,89,000
+Social Distance Alert and Monitoring System Using
+287 DST-RAKSHAK Sponsored Research Project Suman Kundu Computer Science & Engineering 7,50,000
+Smartphone,IOT and AI
+Aerodynamic Investigation of A Dynamically Scaled Flapping
+288 IIT Jodhpur Institute/Seed Grant Nipun Arora Mechanical Engineering 25,00,000
+Wing Micro Air Vehicle
+Experimental Investigation and Performance Evaluation of
+289 IIT Jodhpur Institute/Seed Grant Aashish Mathur Electrical Engineering 24,00,000
+Visible Light Communication Systems
+290 Compact Modeling and Simulation of Nano-Scale Devices IIT Jodhpur Institute/Seed Grant Harshit Agarwal Electrical Engineering 25,00,000
+291 Modeling of Laser Ignition of Coal GE India Industrial Pvt. Ltd Consultancy Sudipto Mukhopadhyay Mechanical Engineering 1,53,400
+AI Driven Estimation of COVID-19 Prognosis using
+292 DST-RAKSHAK Sponsored Research Project Deepak Mishra Computer Science & Engineering 10,00,000
+Multimodal Data
+Non-Invasive Estimation of Care-Body Temperature, Heart-
+Rate, SPO2 for Classification of subject AS Healthy or Non-
+293 DST-RAKSHAK Sponsored Research Project Romi Banerjee Computer Science & Engineering 10,00,000
+Healthy (Symptoms of concern: fever
+despite ambient temperatures; silent hypoxia-COVID-19)
+Establishment of A1-Based Platform to Monitor and Identify
+294 DST-RAKSHAK Sponsored Research Project Amandeep Kaur Electrical Engineering 10,00,000
+Smell,Taste and Key COVID 19 Therapeutic Hotspots
+Design and Implementation of Vehicular Network for Future
+295 IIT Jodhpur Institute/Seed Grant Debasis Das Computer Science & Engineering 15,00,000
+Intelligent Transportation Systems(ITS)
+296 Jodhpur City Knowledge and Innovation Cluster Office of PSA Sponsored Research Project Santanu Chaudhury Institute (JCKIC) 9,49,70,000
+Real-Time Imaging of Dynamic Instability of TCR-pMHC
+297 Bond for Probing Serial Engagement Using Single-Molecule IIT Jodhpur Institute/Seed Grant Dibyendu Kumar Sasmal Chemistry 25,00,000
+FRET and Biomembrane Force Probe in Live T cell
+Global Existence of Solutions to Coupled Reaction Diffusion
+298 IIT Jodhpur Institute/Seed Grant Vandana Sharma Mathematics 23,50,000
+Systems on Growing Domain
+Understanding The Molecular Specific Scales of Tumor
+299 Suppressor Gene 101 (tsg101) enclosed LRSAM1 E3 Ubiquitin BRNS Sponsored Research Project Amit Mishra Bioscience and Bioengineering 26,34,000
+Ligase In The Elimination of Polyglutamine Proteins
+Investigation of genome-wide gene-environment interactions
+300 IIT Jodhpur Institute/Seed Grant Pankaj Yadav Bioscience and Bioengineering 10,00,000
+in relation to complex diseases following case-only approach
+301 FIST Project DST-FIST Program-2019 Sponsored Research Project Rohan D Erande Chemistry 2,16,00,000
+Capturing and Real-Time Monitoring of Dynamic Instability
+of TCR-PMHC Bond for Probing Serial Engagement Using
+302 SERB Sponsored Research Project Dibyendu Kumar Sasmal Chemistry 28,05,000
+Single-Molecule FRET and Biomembrane Force Probe in Live
+T Cell
+Mechanical response of sedimentary rocks under extreme
+303 DST-Inspire Faculty Sponsored Research Project Debanjan Guha Roy Civil & Infrastructure Engineering 35,00,000
+conditions:implications for cryogenic fracking
+Visioning for Imagining the future of DSM in post pandemic School of Management &
+304 Park Life Invocations Consultancy Sankalp Pratap 4,50,000
+world Entrepreneurship
+Novel in-situ volume contractible metal halide negative
+305 SERB-CRG Sponsored Research Project Srijan Sengupta Metallurgical & Materials Engineering 31,07,150
+electrodes for high performance lithium-ion batteries
+Understanding The Deformation Mechanisms Under In-Plane
+306 Shear and Role of Pre-Twining on Formability Behavior of SERB Sponsored Research Project Jaiveer Singh Metallurgical & Materials Engineering 32,98,570
+AZ31-Xca Mg Alloy Sheets
+Controlled morphologies via phase-separation in epoxy
+307 SERB Sponsored Research Project Deepak Arora Chemical Engineering 31,39,400
+blends for electronic sensor & device packaging
+308 Source code similarity Growth Pond Consultancy Sumit Kalra Computer Science & Engineering 1,00,000
+309 AI-driven diagnosis of COVID-19 using X-ray images DST-RAKSHAK Sponsored Research Project Richa Singh Computer Science & Engineering 7,00,000
+Owl-inspired aerodynamic noise reduction of a flapping wing
+310 SERB Sponsored Research Project Nipun Arora Mechanical Engineering 29,48,000
+unmanned aerial vehicle
+Input Shaping Control Strategies for Mitigating Residual
+311 Vibrations and Viscoelastic Creep in Electrically Driven DST-Inspire Faculty Sponsored Research Project Atul Kumar Sharma Mechanical Engineering 35,00,000
+Dielectric Elastomer Actuators
+Sustainable Non-Noble Transition Metal Based Pincer
+312 SERB-SRG Sponsored Research Project Subrata Chakraborty Chemistry 29,26,000
+Catalytic Design for High-Value Chemical Transformations
+Sponsored/Conf/WS/Semi
+313 TEW on Linear Algebra & Its Application NCM Dilpreet Kaur Mathematics 1,45,800
+nar/Symposia
+Sponsored/Conf/WS/Semi
+Popular Talk on Bernstein Polynomials,Computer-Aided
+314 NCM nar/Symposia Dilpreet Kaur Mathematics 9,937
+Geomet Design and Real Algebraic Applications
+Highly conductive nanocomposite fibers for flexible
+315 SERB-SRG Sponsored Research Project Shrutidhara Sarma Mechanical Engineering 27,60,340
+temperature sensors(Flextem)
+Tandem Reactions Utilizing Nitrogen Ylides: Unified
+316 SERB-CRG Sponsored Research Project Nirmal Kumar Rana Chemistry 58,48,832
+Approach for Asymmetric Synthesis of Diverse Heterocycles
+Deciphering Molecular Mechanism of Action and Electron
+Acceptor Specificity Through structure based functional
+317 SERB-SRG Sponsored Research Project Sudipta Bhattachrayya Bioscience and Bioengineering 30,78,460
+characterization of staphylococcal glutathione peroxidase
+enzymes
+Vetting of hydraulic designs related to Rajeev Gandhi Lift
+318 PHED-Rajasthan Consultancy Pradip Kumar Tewari Chemical Engineering 50,000
+Canal (RGLC) System
+Mitigation Bias in face recognition for vast reginoal diversity Facebook India Online Services
+319 Award Money Richa Singh Computer Science & Engineering 21,26,191
+in India Pvt Ltd
+320 Lab-On-Paper for inexpensive point of care diagnostics SERB-SRG Sponsored Research Project Ankur Gupta Mechanical Engineering 32,37,810
+Reconstitution of Microenvironment of Brain using Advanced
+Prototype-based Microfluidic
+321 SERB- STAR Award Money Surajit Ghosh Bioscience and Bioengineering 38,50,000
+System for Neuro-organoid Culture and Monitoring the
+Synapse Formation
+Wastewater treatment and Electricity generation using
+Phd Student-Arti Sharma
+322 Microbial Fuel Cell and Simultaneous production of Beta DST-Inspire (Phd Student) Fellowship project Bioscience and Bioengineering 24,64,720
+Mentor-Meenu Chhabra
+carotene from genetically engineered Chlamydomonas sp.
+Main-Group Organornetallic complexes Based Molecular
+323 SERB-EEQ Sponsored Research Project Ramesh K.Matre Chemistry 36,82,940
+Materials For Applications in Molecular Electronics
+A Programmable CMOS image sensor for high speed, low
+324 SERB-SRG Sponsored Research Project Amandeep Kaur Electrical Engineering 27,22,060
+power and low noise applications
+Registration Fees & Sponsored/Conf/WS/Semi
+325 ICVGIP 2020 Conference Gaurav Harit Computer Science & Engineering 30,600
+Sponsorship nar/Symposia
+Development of Functionalized Metal Oxides and Layered
+326 SERB-CRG Sponsored Research Project Ritu Gupta Chemistry 73,45,096
+Materials for Environmental Sensors
+Nanostructured Metal Oxides for Efficient Detection of Breast
+327 SERB-SRS Sponsored Research Project Saakshi Dhanekar Electrical Engineering 10,60,007
+Cancer
+Uniquely Identifying Lorentz Structure of New Physics in
+328 SERB-CRG Sponsored Research Project Ashutosh K Alok Physics 22,18,612
+Semi-Leptonic B-Decays
+Secure and Robust Coordination and Control of Autonomous
+329 SERB Sponsored Research Project Anoop Jain Electrical Engineering 29,84,870
+Multi-Vehicle Systems with Desired Constraints
+Object Based Spatial 3D Audio Rendering for Augmented and
+330 SERB Sponsored Research Project Manish Narwaria Electrical Engineering 25,84,280
+Virtual Reality Applications
+Design,fabrication and characterization of all-fiber Multimode
+331 Interference (MMI) device for generating highly pure SERB Sponsored Research Project Nitin Bhatia Electrical Engineering 28,72,820
+Laguerre-Gaussian (LG) mode in free-space
+Palladium-catalyzed synthesis of novel heterocycles for the NPDF-Moumita Jash Mentor-
+332 SERB-NPDF Sponsored Research Project Bioscience and Bioengineering 20,25,600
+developmment of potent tubulin polymerization inhibitors. Surajit Ghosh
+Designing of Potential Adsorbents via Molecular Modelling
+333 and Simulations for the High Temperature Carbon Dioxide SERB Sponsored Research Project Angansen Gupta Chemical Engineering 21,95,220
+Capture
+Natural clay-plasma catalysed hydrogenation of carbon-
+334 SERB-CRG Sponsored Research Project Rakesh Sharma Chemistry 28,73,200
+dioxide for methanol production under ambient conditions
+Study of Very High Energy Gamma-Rays from Galactic
+335 SERB-SRG Sponsored Research Project Reetanjali Mohrana Physics 26,07,044
+sources by Grapes-3 observatory
+Data-driven Haptic Modeling and Rendering of Normal
+336 Interaction on Inhomogeneous Viscoelastic Deformable SERB-SRG Sponsored Research Project Amit Bhardwaj Electrical Engineering 33,00,000
+Objects
+Perception-Theorectic Approach for Quantifying Robustness
+337 SERB-Matrics Sponsored Research Project Manish Narwaria Electrical Engineering 6,60,000
+of Machine Learning Models
+Biomimetic Nanoscale Metal Organic Frameworks for
+338 Targeted Bimodal NIRF and MR Imaging and Phototherapy of IIT Jodhpur Institute/Seed Grant Raviraj Vankayala Bioscience and Bioengineering 24,20,000
+Ovarian Cancer Cells
+Design of damage tolerant high entropy alloys(HEAs) for Jaiveer Singh(PI-1) Saurabh
+339 IIT Jodhpur Institute/Seed Grant Metallurgical & Materials Engineering 47,70,000
+structural applications Nane (PI-2)
+Molecular-Designing of Polymer Electrolyte Membranes
+340 Using Computational Approach to Reduce Methanol IIT Jodhpur Institute/Seed Grant Angansen Gupta Chemical Engineering 22,05,000
+Crossover in Direct Methanol Fuel Cell
+Development of High Performance Soft Strain/Pressure
+341 Sensors Based on Nanocomposites with Hierarchical IIT Jodhpur Institute/Seed Grant Shrutidhara Sarma Mechanical Engineering 23,61,400
+Microstructures
+Design of High strength,High Toughness, and Self-healable
+342 IIT Jodhpur Institute/Seed Grant Abir Bhattacharyya Metallurgical & Materials Engineering 24,42,350
+Hydrogels and Development of their Constitutive Response
+School of Management &
+343 Goal Pursuit:The Role of Monitoring,Feedback,and Affect IIT Jodhpur Institute/Seed Grant G Venkat Ram Reddy 23,50,000
+Entrepreneurship
+Design and Development of Dielectric Barrier Discharge
+344 Based Flat VUV/UV Excimer Light Sources for Advanced SERB-CRG Sponsored Research Project Ram Prakash Physics 62,13,399
+Applications in Health and Medicine
+Achieving Collaborative Missions via Distributed
+345 Coordination and Control of Autonomous Multi-Vechicle IIT Jodhpur Institute/Seed Grant Anoop Jain Electrical Engineering 23,50,000
+Systems
+346 A Robust Visual Positioning System SERB-SRG Sponsored Research Project Himanshu Kumar Electrical Engineering 25,80,670
+High voltage(~5V) ultrafast charging/discharging cathode
+347 materials in bulk and nano geometries for high power Li ione SERB-CRG Sponsored Research Project Ambesh Dixit Physics 40,26,000
+rechargeable batteries
+348 Engineering the interface of perovskites and 2D materials DST-Inspire Faculty Outside Sponsored Research Project Lakshya Daukiya Physics 1,10,00,000
+Ga2O3-based nanomaterials with controlled defect and
+349 DST-BRICS Sponsored Research Project Mahesh Kumar Electrical Engineering 41,98,528
+impurity composition for advanced electronic devices
+350 Quantum Cryptanalysis SERB Sponsored Research Project Somitra Kumar Sanadhya Computer Science & Engineering 6,60,000
+Utilization of the Inferior Quality Aggregate in Hot,Warm and
+351 NHAI Sponsored Research Project Bhupendra Singh Civil & Infrastructure Engineering 20,76,514
+Cold Mix Asphalt
+Sponsored/Conf/WS/Semi
+IITJ-SICI Golden Jublee conference and lecture series SHASTRI INDO-CANADIAN
+352 nar/Symposia Farhat Naz School of Liberal Arts 20,000
+grant(GJCLSG) INSTITUTE (SICI)
+Fabrication of Atomically Thin,Ultrafast and Ultrasensitive
+353 Photodetectors Based on 2D-2D van der Waals (vdW) DST-Inspire Faculty Outside Sponsored Research Project Vijay Kumar Singh Physics 1,10,00,000
+Heterostructures of Graphene with W Based TMDs
+Spanidea Systems Private
+354 Research Advisory Consultancy Sandeep Kumar Yadav Electrical Engineering 11,04,480
+Limited
+Design of Zn Anode and Non-native Structured MnO2
+355 DST-Inspire Faculty Sponsored Research Project Prashant Kumar Gupta Chemical Engineering 35,00,000
+Cathode for Stationary Grid Energy Storage Devices
+Energy Efficient Communication and Data Flow in Smart City
+356 DST-Indo-Uzbek Sponsored Research Project Debasis Das Computer Science & Engineering 17,80,200
+using CRN based IoT Framework
+Development of Microelectrode Array for Real-Time
+357 SERB women Excellence Award Award Money Ritu Gupta Chemistry 18,00,000
+Electrochemical Sensing
+Sponsored/Conf/WS/Semi
+358 Bioengineering Solution for healthcare, food, Energy Registration Fee nar/Symposia Meenu Chhabra Bioscience and Bioengineering 75,000
+359 Analysis of Fiber Glass Mast Tower due to Wind Load Ercon Composites Jodhpur Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 1,65,000
+Design and Development of Multiferroic Materials for Phd Student-Priyambada
+360 DST-Inspire (Phd Student) Fellowship project Physics 24,24,640
+Photovoltaic and Energy Harvesting Application Sahoo Mentor- Ambesh Dixit
+Phd Student-Surbhi
+Lead free perovskite based semiconducting materials and
+361 DST-Inspire (Phd Student) Fellowship project Ramawat Mentor- Physics 24,24,640
+devices for photovoltaic and photodetector applications
+Dr.Ambesh Dixit
+Two-dimensional TMDC and QD based hybrid Phd Student-Chayan Das
+362 DST-Inspire (Phd Student) Fellowship project Physics 24,24,640
+phototransistor with high sensitivity and mobility Mentor-Satyajit Sahu
+Role of functional amyloidgenic protein Tly A in biofilm Phd Student-Ambar Ish
+363 DST-Inspire (Phd Student) Fellowship project Bioscience and Bioengineering 24,24,640
+formation and severity of diseases caused by H.pylori Mentor-Neha Jain
+Phd Student-Deepak Kumar
+A Study on Fractional Laplacian Operator with Hardy Type Mahanta Mentor-
+364 DST-Inspire (Phd Student) Fellowship project Mathematics 24,24,640
+Potentials Abhishek Sarkar &Tuhina
+Mukherjee
+Design and development of small scale milk disinfaction
+365 system using mercury-free plasma (MFP) UV Lamp MSME Sponsored Research Project Ram Prakash Physics 15,00,000
+technology
+Film cooling for Ejector diffuser system in High Altitute
+366 ISRO Sponsored Research Project Arun Kumar R IDRP 27,34,000
+Testing Facility
+367 Development of low-cost portable vent MHRD Sponsored Research Project Mahesh Kumar Electrical Engineering 1,00,000
+368 Quantum heat engines DST-QITPD-ICPS Sponsored Research Project Subhashish Banerjee Physics 15,59,000
+Lightweight Anonymous Authentication and Communication
+369 DST-TWN-MOST Sponsored Research Project Debasis Das Computer Science & Engineering 42,22,000
+Protocol for Internet of Vehicles
+Sponsored/Conf/WS/Semi
+370 Nano-Sensors AICTE-ATAL nar/Symposia Mahesh Kumar Electrical Engineering 93,000
+Cascade Annulations Involving Higher-valent Organometallic
+371 CSIR Sponsored Research Project Sandip Murarka Chemistry 24,13,698
+Compounds: Towards Diverse Molecular Frameworks
+Development of Transparent, Durable superhydrophobic-
+372 MSME Sponsored Research Project Ravi K R Metallurgical & Materials Engineering 15,00,000
+coating for self-cleaning of Endoscope
+A Wellness Device for Real-time Non-contact Blood Oxygen
+373 MSME Sponsored Research Project Deepak Mishra Computer Science & Engineering 15,00,000
+Saturation Measurements
+Human perception driven on-chip compression for power
+374 MSME Sponsored Research Project Amandeep Kaur Electrical Engineering 15,00,000
+efficient CMOS image sensors
+375 Role of Centrosome Protein STIL in Cancer BRNS Sponsored Research Project Priyanka Singh Bioscience and Bioengineering 21,88,900
+Measurement of particle Size: A Laser-based forward
+376 BMW Steels Pvt.Ltd Sponsored Research Project V. Narayanan Physics 6,00,000
+scattering approach
+Spectral Methods for derivative dependent integral equations
+377 NBHM, DAE Sponsored Research Project Moumita Mandal Mathematics 15,14,800
+and integro-differential equations
+378 Algorithms for Facial Recognition System Under Disguise DRDO Sponsored Research Project Mayank Vatsa Computer Science & Engineering 40,52,576
+Dual Targeted Chemical Modulator Inhibits Nmda Receptor
+379 And Promotes Ngf Mediated Neuroprotection: Towards CSIR Sponsored Research Project Surajit Ghosh Bioscience and Bioengineering 15,14,000
+Development Of Potent Antialzheimers's Therapeutics
+Development of AlGaN/GaN high electron mobility
+380 SERB Sponsored Research Project Mahesh Kumar Electrical Engineering 24,92,192
+transistor based robust air pollution sensors
+Sponsored/Conf/WS/Semi
+381 Recent Advances in Pavement Analysis,Design and Evaluation AICTE-ATAL nar/Symposia Bhupendra Singh Civil & Infrastructure Engineering 93,000
+Design and development of a micro turbine combustor Petroleum Conservation
+382 Sponsored Research Project Sudipto Mukhopadhyay Mechanical Engineering 24,98,000
+working on biogas Research Association (PCRA)
+Institute Online Executive
+383 Online Education Consultancy Deepak Mishra Computer Science & Engineering 2,47,28,750
+Programme
+Social Isolation and Cognition: Interventions to reduce social
+384 ICSSR (MHRD) Sponsored Research Project Suman Dhaka School of Liberal Arts 2,03,139
+isolation and Loneliness amongst the Elderly
+Direct Approaches to γ- and δ-Lactones Under Continuous
+385 CSIR Sponsored Research Project Nirmal Kumar Rana Chemistry 19,00,000
+Flow Conditions Using Packed-bed Immobilized Catalysts
+Sand dune mitigation measures for the proposed Haphasar SBSR Power Cleantech Eleven
+386 Consultancy Pradeep Kumar Dammala Civil & Infrastructure Engineering 9,99,999
+Solar ark Pvt.Ltd
+Superconvergence Results for Integro-Differential Initial and
+387 IIT Jodhpur-IRMG Institute Project Moumita Mandal Mathematics 10,00,000
+Boundary Value Problems by Spectral Projection Methods
+Near Infrared Light Activatable Erythrocyte Membrane
+388 Coated Black Phosphorous Nanosheets for Targeted IIT Jodhpur-IRMG Institute Project Raviraj Vankayala Bioscience and Bioengineering 10,00,000
+Bioimaging and Photo-Chemotherapy of Breast Cancer Cells
+Role of Passive Deformation on the Aerodynamic
+389 IIT Jodhpur-IRMG Institute Project Nipun Arora Mechanical Engineering 9,35,000
+Performance of a Flexible Flapping Wing
+Secure Communication and Searching System for Vehicular
+390 IIT Jodhpur-IRMG Institute Project Debasis Das Computer Science & Engineering 10,00,000
+Cloud Computing
+Molecular level design and development of water in ionic
+391 IIT Jodhpur Institute/Seed Grant Praveen Kumar Sappidi Chemical Engineering 10,00,400
+liquids (WILLs) based electrolytes for the Na-ion batteries
+Development of novel, reliable and cost effective aluminium-
+392 nickel high-capacity intermetallic batteries for stationery large- IIT Jodhpur Institute/Seed Grant Srijan Sengupta Metallurgical & Materials Engineering 23,63,229
+scale energy storage applications
+Design and characterization of RF-microwave power
+393 IIT Jodhpur Institute/Seed Grant Arani Ali Khan Electrical Engineering 23,65,001
+amplifiers
+Seawater Electrolysis using non-precious metal oxides as an
+394 IIT Jodhpur Institute/Seed Grant Prashant Kumar Gupta Chemical Engineering 23,81,500
+Anode for the selective conversion
+Fracture-mechanical response of rocks subjected to freeze-
+395 IIT Jodhpur Institute/Seed Grant Debanjan Guha Roy Civil & Infrastructure Engineering 23,77,138
+thaw cycles
+Inference and Reasoning over Web-Scale Multimodal
+396 Microsoft R&D Ltd,Hyderabad Consultancy Anand Mishra Computer Science & Engineering 14,16,000
+Knowledge Graph
+Development of advanced designs of automotive
+397 thermoelectric power generators: Application to exhaust IIT Jodhpur Institute/Seed Grant Shobhana Singh Mechanical Engineering 25,00,000
+energy recovery
+Black Carbon - Quantification and Real-time contribution of
+398 IIT Jodhpur Institute/Seed Grant Deepika Bhattu Civil & Infrastructure Engineering 25,00,000
+Key Sources (BC-QuaRKS)
+Water security and climate change adaptation to
+desertification and de-risking agriculture: An attempt towards
+399 IIT Jodhpur Institute/Seed Grant Farhat Naz School of Liberal Arts 16,74,700
+sustainable food system through the nature-based solution
+pathway.
+Johari Digital Healthcare
+400 Photometry based Biomedical Analyzers Consultancy Arpit Khandelwal Electrical Engineering 9,20,000
+Pvt.Ltd.
+Structural proof checking,supervision consultancy and regular Rajasthan State Warehousing
+401 Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 9,42,260
+inspections of warehouse construction at Anoopgarh Corporation (RSWC)
+Structural proof checking,supervision consultancy and regular Rajasthan State Warehousing
+402 Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 10,55,009
+inspections of warehouse construction at Ramgarh Corporation (RSWC)
+Structural proof checking,supervision consultancy and regular Rajasthan State Warehousing
+403 Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 9,42,260
+inspections of warehouse construction at Mohangarh Corporation (RSWC)
+Structural proof checking,supervision consultancy and regular Rajasthan State Warehousing
+404 Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 8,13,404
+inspections of warehouse construction at Dantaur Corporation (RSWC)
+Johari Digital Healthcare
+405 Design of cuffless BP monitoring device Consultancy Dip Sankar Banerjee Computer Science & Engineering 9,20,400
+Pvt.Ltd.
+Investigation of Spatial Audio for enhanced immersive
+406 IIT Jodhpur Institute/Seed Grant Manish Narwaria Electrical Engineering 20,00,000
+experience.
+Improving the efficiency of water removal from water-in-oil
+407 emulsion: Electrocoalescence of surfactant/polymeric IIT Jodhpur Institute/Seed Grant Vikky Anand Chemical Engineering 23,81,000
+emulsion
+Design and development of low cost, fiber based optical
+408 power splitters for deployment in 5G fronthaul passive optical IIT Jodhpur Institute/Seed Grant Nitin Bhatia Electrical Engineering 23,78,860
+networks
+EEKI Automation Private
+409 Growing chambers used in hydroponic farming Consultancy Deepak Arora Chemical Engineering 6,11,400
+Limited
+Scale up, technological optimization and development of DBT PAN IIT Center for
+410 Sponsored Research Project Rakesh Sharma Chemistry 1,48,41,360
+catalysts for Algal Biomass to Biodiesel and Bio-Jet Fuel Bioenergy:Phase II
+411 FIST Project DST-FIST Program-2020 Sponsored Research Project Sampat Raj Vadera Physics 1,01,00,000
+Query Focused Multi-lingual Multi-document Summarization
+412 IIT Jodhpur Institute/Seed Grant Suman Kundu Computer Science & Engineering 18,50,000
+Towards Information Retrieval in Indian Language
+413 Sentinel-Bias Detection and Mitigation in Face Analysis Facebook International Sponsored Research Project Richa Singh Computer Science & Engineering 1,11,63,804
+UF Membrane assisted sorption based water purification
+414 HEFA CSR Grant Sponsored Research Project Anand K. Plapally CETSD 40,00,000
+system in rural village schools of jodhpur district,Rajasthan
+Multiphysics simulations to design efficient heat exchangers
+415 DRDO, Jodhpur Sponsored Research Project Shobhana Singh Mechanical Engineering 15,18,000
+for automative thermoelectric generators
+Telepresence and Teleaction System for Robot Assisted
+416 IHFC,IIT Delhi Sponsored Research Project Amit Bhardwaj Electrical Engineering 1,83,53,720
+Dentistry
+Harnessing protein quaternary structure to unveil new Ramalingaswami Re-entry
+417 Fellowship project Sucharita Dey Bioscience and Bioengineering 42,50,000
+principles of mutational robustness and allostery fellowship DBT
+Wage discrimination acros sectors amidst covid-19 pandemics-
+National Commission for School of Management &
+418 A gendered perspective from the selected Northern Indian Sponsored Research Project Devi Prasad Dash 18,64,500
+Women Entrepreneurship
+states
+Sponsored/Conf/WS/Semi
+419 FG 2021 IEEE Biometrics Council Richa Singh Computer Science & Engineering 8,07,525
+nar/Symposia
+420 Preparation of Carbon Foam using a Blowing Agent DRDO, Jodhpur Sponsored Research Project Ritu Gupta Chemistry 9,90,150
+Development of Cognitive Cyber-Physical System(C2PS) IHUB NTIHAC Foundation,IIT
+421 Sponsored Research Project Sandeep Kumar Yadav Electrical Engineering 26,50,240
+testbed Kanpur
+Institute Seed Grant Project (For procurement of laptop &
+422 IIT Jodhpur Institute/Seed Grant Richa Singh Computer Science & Engineering 2,50,000
+Printer
+Institute Seed Grant Project (For procurement of laptop &
+423 IIT Jodhpur Institute/Seed Grant Mayank Vatsa Computer Science & Engineering 2,50,000
+Printer
+Animatable Human 3D surface reconstruction from Partial 3D
+424 IIT Jodhpur Institute/Seed Grant Rajendra Nagar Electrical Engineering 16,56,789
+Scans
+Department of
+425 DoT 5G Hackathon Award Money Arun Kumar Singh Electrical Engineering 1,00,000
+Telecommunication (DoT)
+426 GAMING OF CULTURAL HERITAGE SITES OF ASI ASI Sponsored Research Project Santanu Chaudhury Computer Science & Engineering 48,50,000
+Design of Cost-effective, Ultralight High Entropy Alloys with
+427 SERB-SRG Sponsored Research Project Saurabh Nene Metallurgical & Materials Engineering 32,99,750
+Transformation Induced Plasticity
+Sponsored/Conf/WS/Semi
+428 Multi-omics Data Science AICTE-ATAL nar/Symposia Pankaj Yadav Bioscience and Bioengineering 93,000
+National Centre for Biological
+429 Seeing The Unseen:The Microbial Community Award Money Neha Jain Bioscience and Bioengineering 70,000
+Sciences
+Thar-DESIGNS (Desert EcoSystem Innovations Guided by Jodhpur City Knowledge And
+430 Sponsored Research Project Mitali Mukerji Bioscience and Bioengineering 30,00,000
+Nature and Selection) Innovation Cluster (JCKIC)
+Numerical Modeling and Experimental Characterization of
+431 Dynamic Behavior of Soft Dielectric Elastomer Minimum SERB-SRG Sponsored Research Project Atul Kumar Sharma Mechanical Engineering 32,29,897
+Energy Structures
+Dynamic Traffic Assignment Model for Multi-Class Traffic
+432 SERB-SRG Sponsored Research Project Ranju Mohan Civil & Infrastructure Engineering 29,92,240
+Lacking Lane Discipline
+Radiation hard Gallium Nitride transistor for IoT enabled
+433 DRDO, Jodhpur Sponsored Research Project Mahesh Kumar IDRP 92,08,000
+dosimeter
+Electrodesalting of water-in-oil emulsion: an experiment,
+434 SERB-SRG Sponsored Research Project Vikky Anand Chemical Engineering 32,98,900
+design and scale-up to smart electrocoalescer
+Reflection Symmetry Based 3D Surface Reconstruction and
+435 SERB-SRG Sponsored Research Project Rajendra Nagar Electrical Engineering 29,71,190
+Restoration from Partial Point Cloud
+Unified Compact Modeling and Design of High Voltage
+436 SERB-SRG Sponsored Research Project Harshit Agarwal Electrical Engineering 32,01,000
+MOS Transistors
+Biocompatible and water dispersible silanized reduced
+graphene oxide derivatives: Near infrared responsive bimodal
+437 SERB-CRG Sponsored Research Project Indranil Banerjee Bioscience and Bioengineering 54,82,400
+phototherapeutic agents for the disruption of bacterial
+bioftlms
+438 Multimodal Query-guided Natural Scene Retrieval SERB-SRG Sponsored Research Project Anand Mishra Computer Science & Engineering 29,64,110
+Cellulose nanocrystal reinforced pH-responsive PVA-gum
+439 tragacanth based proangiogenic smart wound dressings for DST-Indo-Thailand Sponsored Research Project Indranil Banerjee Bioscience and Bioengineering 7,30,000
+diabetic foot care
+Random verification of Annual Investory on Hazardous waste
+440 Central Pollution control Board Consultancy Pradip Kumar Tewari Chemical Engineering 5,31,000
+management
+Indian Oil Corpn.
+Data pipeline build-up and ML model deployment for Heat
+441 Ltd.(Refineries division head Consultancy Pradip Kumar Tewari Chemical Engineering 1,04,65,000
+Exchangers
+quarters)
+Department of Archaeology
+Design and Development of the Virtual Museums of Rajasthan
+442 and Museum,Jaipur Gov.of Sponsored Research Project Rajendra Nagar Electrical Engineering 81,12,000
+(Alwar,Bundi,Baran,Chittorgarh and Bharatpur)
+Rajasthan
+Development of a two-way interactive driving simulator for
+443 IIT Jodhpur Institute/Seed Grant Ranju Mohan Civil & Infrastructure Engineering 23,62,200
+Indian traffic
+Design of power delivery networks using efficient selection
+444 and placement of decoupling capacitors based on a large scale SERB-SRG Sponsored Research Project Jai Naryan Tripathi Electrical Engineering 22,91,760
+component database
+Scanning tunneling microscopic study of single organic
+445 SERB-CRG Sponsored Research Project Satyajit Sahu Physics 49,14,525
+molecule for memristive devices in neuromorphic application
+446 TCS-ION Consultancy Tata Consultancy Limited Consultancy Gaurav Harit Computer Science & Engineering 29,05,199
+447 Multimodel bias extimation and mitigation Verisk analytics india pvt ltd Award Money Mayank Vatsa Computer Science & Engineering 18,30,508
+Towards more realistic delta-shock models and their
+448 SERB-SRG Sponsored Research Project Nil Kamal Hazra Mathematics 13,89,344
+applications
+Mathematical Framework of secondary and nonlinear
+449 SERB-SRG Sponsored Research Project Sukhendu Ghosh Mathematics 15,26,844
+instabilities for complex flow systems
+Analysis/Verification and Validation of design for read
+construction works using CTB layers between KM 0.0 to KM
+450 TARU Enterprises Pvt.Ltd Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 1,18,000
+29.0 HANLE-CHUMAR and KM 36.0 to KM 58.0 MAHE-
+DEBRING roads under Project Himank,BRO
+451 Suitablity Checking of Cracked Isolated Footing DEE VEE Project Ltd Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 1,18,000
+Roboust operational space control of a waist assistive powered
+452 DRDO-CAIR-CARS Sponsored Research Project Jayant Kumar Mohanta IDRP 14,85,202
+exoskeleton
+Reconfigurable Intelligent Surface based mixed FSO-RF NPDF-Aman Sikri Mentor-
+453 SERB-NPDF Sponsored Research Project Electrical Engineering 19,20,000
+Systems for beyond 5G/6G Networks Aashish Mathur
+Source apportionment study,Emission Inventory and
+454 RSPCB,Jaipur Sponsored Research Project Deepika Bhattu Civil & Infrastructure Engineering 1,15,27,600
+Carrying Capacity for Kota city,Rajasthan
+455 Study of Some Important Problems on Information Measures SERB-Matrics Sponsored Research Project Nil Kamal Hazra Mathematics 6,60,000
+Mathematical Modelling of infectious diseases using
+456 SERB-Matrics Sponsored Research Project Sukhendu Ghosh Mathematics 6,60,000
+surfactant dynamics
+Centre of Excellence in "Ayurtech for Integrative precision
+457 Ministry of AYUSH Sponsored Research Project Mitali Mukerji, Ajay Agarwal School of AIDE 10,00,00,000
+Health and Medicine"
+GPS Survey of WAQF properties updation in an online WAQF
+458 Central Waqf Council Sponsored Research Project Anand K. Plapally CETSD 1,10,62,000
+assets management system of india(WAMSI)
+Gate All Around Nanosheet Steep-Slope Transistors for Sub-
+2nm Technology Nodes: Physical Investigation, Compact
+459 DST-Nanomission Sponsored Research Project Harshit Agarwal Electrical Engineering 45,09,633
+Modeling and Device-Circuit Co-Optimization
+460 Organization of Heckathon during IISF2021 Director NCPOR Consultancy Somitra Kumar Sanadhya School of AIDE 2,95,000
+Center for Rechargeable Energy storage systems for
+461 SERB(DST) Sponsored Research Project Ambesh Dixit Physics 65,21,200
+Augmenting Transportation and Electrification (CREATE)
+DigitID Technologies Private
+462 DigitID Consulting Consultancy Mayank Vatsa Computer Science & Engineering 44,48,330
+Ltd.
+Molecular Exploration of Designer Solvents for the Low
+463 DST-SERB-EMEQ Sponsored Research Project Praveen Kumar Sappidi Chemical Engineering 36,55,344
+Temperature Directional Solvent Extractive Desalination
+Indian Council of Social Sponsored/Conf/WS/Semi
+464 Workshop on Creativity Natasa Thoudam School of Liberal Arts 1,40,000
+Science Research (ICSSR) nar/Symposia
+Scalable coating of metal oxides on hybrid transparent DST-TDT-Advance
+465 Sponsored Research Project Ritu Gupta Chemistry 29,86,800
+electrodes and fabrication of smart window devices manufacturing scheme
+466 OCR's an Application in Indian Languages Meity Sponsored Research Project Anand Mishra Computer Science & Engineering 1,83,90,000
+Setting up of JJM-Professor Chair on "Centre for Sustainability Ministry of Jal Shakti-National
+467 Sponsored Research Project Pradip Kumar Tewari Chemical Engineering 6,02,37,076
+of drinking water sources at IIT, Jodhpur Jal Jeevan Mission
+Cellular self-assembly based angiogenic micromodule for
+468 IIT Jodhpur Institute/Seed Grant Indranil Banerjee Bioscience and Bioengineering 25,00,000
+tissue engineering application
+469 Interactive Pathogenesis of Liver Disease IIT Jodhpur Institute/Seed Grant Sumit Kalra Computer Science & Engineering 21,50,000
+Developing Interference Techniques for Web-scale
+470 IIT Jodhpur Institute/Seed Grant Anand Mishra Computer Science & Engineering 16,50,000
+Multimodal Knowledge Graph
+Parameterized Complexity of Manipulating Multiwinner
+471 IIT Jodhpur Institute/Seed Grant Pallavi Jain Computer Science & Engineering 16,49,899
+Election
+472 AI Driven ASIC for Real-time Medical Imaging Application IIT Jodhpur Institute/Seed Grant Deepak Mishra Computer Science & Engineering 24,92,000
+Transport behavior of selected nanoparticles in the porous
+473 media for long duration under natural groundwater IIT Jodhpur Institute/Seed Grant Trishikhi Raychoudhury Civil & Infrastructure Engineering 25,00,000
+conditions
+Haptic Camera: Inter-relationship between Different Sensing
+474 IIT Jodhpur Institute/Seed Grant Amit Bhardwaj Electrical Engineering 21,43,100
+Modalities for Textured Surfaces
+Fabrication and Characterization of sensors towards
+475 IIT Jodhpur Institute/Seed Grant Saakshi Dhanekar Electrical Engineering 25,00,000
+Electronic nose application
+A new model of nephron formation from nephron progenitor
+476 cells tested through mathematical modeling of Wnt and Notch IIT Jodhpur Institute/Seed Grant Prasenjit Sarkar Chemical Engineering 25,00,000
+signaling pathways and experimental data
+477 Quantum Security of Cryptographic Hash Function DRDO-CAIR Sponsored Research Project Somitra Kumar Sanadhya School of AIDE 26,40,000
+Sponsored/Conf/WS/Semi
+478 IUMRS ICA 2022 IITJ & MRSI co-organized Mahesh Kumar Electrical Engineering 6,52,251
+nar/Symposia
+479 Imaging with SPAD:Application IIT Jodhpur Institute/Seed Grant Himanshu Kumar Electrical Engineering 22,39,902
+480 Development of Smart Mobility Lab IIT Jodhpur Institute/Seed Grant Niladri Sekhar Tripathy Electrical Engineering 25,00,000
+The Life and After-life of Crime: A Sociological Study of Law,
+481 IIT Jodhpur Institute/Seed Grant Prasenjeet Tribhuvan School of Liberal Arts 6,73,345
+Society and Human Life
+Study of Weldability issues, diffusable hydrogen and residual
+482 stresses in dissimmilar welds joint of Ni-based super alloy IIT Jodhpur Institute/Seed Grant Chandan Pandey Mechanical Engineering 17,80,000
+(IN617) and ferritic/martensitic grade P92 steel
+Dialogue(s) beyond words:Histories of Visual and Aural
+483 Avant-garde Encounters between Indian, Europe and Latin IIT Jodhpur Institute/Seed Grant Parichay Patra School of Liberal Arts 11,44,850
+America
+484 AI Driven Power efficient CMOS image sensor IIT Jodhpur Institute/Seed Grant Amandeep Kaur Electrical Engineering 23,42,000
+Institute Online Executive
+485 M. Tech Executive DCS Program Consultancy Gaurav Bhatnagar Mathematics 4,13,55,000
+Programme
+Virtually connecting village to nearby doctors including PHC
+486 IIT Delhi Sponsored Research Project Vivek Vijay Mathematics 80,000
+through Videoconferencing
+Siemens-supported Pre-incubation incentive program for
+487 Siemens India Pvt Ltd Sponsored Research Project Sushmita Jha Bioscience and Bioengineering 21,00,000
+Medical Technology Students
+Development of optical based in-situ monitoring techniques
+488 for porosity detection during laser cladding and additive SERB Sponsored Research Project Ravi K R Metallurgical & Materials Engineering 50,42,400
+manufacturing of stainless steel
+Higher Order Exceptional Points and Midgap Zero Modes in NPDF-Samit Kumar Gupta
+489 SERB-NPDF Sponsored Research Project Physics 21,31,200
+Integrated Synthetic Non-Hermitian Optical Lattices Mentor-Somnath Ghosh
+Centre for Advanced Security Technology Development in
+490 Meity Sponsored Research Project Somitra Kumar Sanadhya School of AIDE 5,91,22,000
+Cyber Physical Systems
+Modelling and comparative analysis of approaches , protocols,
+491 atmospheric effects and components of LEO satellite based DRDO Sponsored Research Project Subhashish Banerjee IDRP 3,00,000
+Quantum key Distribution
+Understanding the roots of child health inequities in India
+492 using Google India Pvt Ltd Award Money Dweepobotee Brahma School of AIDE 14,99,600
+Machine Learning.
+Institute Online Executive
+493 Online Education Consultancy Angshuman Paul Computer Science & Engineering 1,02,57,000
+Programme
+494 FIST Program - 2021(TPN-70315) DST-FIST Program-2021 Sponsored Research Project Richa Singh Computer Science & Engineering 1,28,00,000
+Construction of GPS Station in IIT Jodhpur by National
+495 NGRI Sponsored Research Project Debanjan Guha Roy Civil & Infrastructure Engineering 89,100
+Geophysical Research Institute (NGRI), Hyderabad
+Sponsored/Conf/WS/Semi
+496 AISTDF Secretariate Meet SERB Surajit Ghosh Bioscience and Bioengineering 2,21,000
+nar/Symposia
+Sponsored/Conf/WS/Semi
+497 Empowering S&T with Women -A Step towards a New Era SERB Ritu Gupta Chemistry 3,50,000
+nar/Symposia
+Sponsored/Conf/WS/Semi
+nar/Symposia
+International Conference on Recent Advances in Mechanical
+498 Registration Fee Ankur Gupta Mechanical Engineering 4,02,040
+Engineering
+Design and Development of Smart Chaff using low profile
+499 DRDO Sponsored Research Project Soumava Mukherjee Electrical Engineering 9,99,600
+microwave circuit
+500 IHC (TSCHE-Python Prg., FDP) TCS Consultancy Debasis Das Computer Science & Engineering 46,020
+Unique Infra Engg. India Pvt.
+501 Investigation of Tor Steel for New Medical College,Nagaur Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 53,100
+Ltd.
+Analysis/Verification and Validation of design for road
+502 construction works using CTB layers between 149.50 to KM TARU Enterprises Pvt.Ltd Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 1,18,000
+162.50 LEH-LOMA road under Project Himank, BRO
+Training Program in current trend in R&D modern scientific
+Sponsored/Conf/WS/Semi
+503 advances & technology for scientific understanding & Ministry of Ayush Mitali Mukerji Bioscience and Bioengineering 9,00,000
+nar/Symposia
+promotion of Ayush Systems for Ayush Doctors/ Scientists
+SERB-Ramanujan Faculty
+504 Functional Quantum Heterostructures: Multiscale Modelling Fellowship project Appalakondaiah Samudrala Physics 1,19,00,000
+Scheme
+An interdisciplinary study of Technologically Manipulated Indian Council of Social
+505 Sponsored Research Project Anikta Sharma School of Liberal Arts 18,00,000
+information: its ecosystem and its psycho-social impact Science Research (ICSSR)
+Feasibility Study of Organic Field Effect Transistors for
+506 DRDO, Jodhpur Sponsored Research Project Shree Prakash Tiwari Electrical Engineering 9,96,000
+Radiation Detection (RAD-OFETs)
+Optical Emission Spectroscopy(OES) Test /Analysis of 40mm Larsen & Turbo Ltd. L&T
+507 Consultancy P. Ravi Prakash Civil & Infrastructure Engineering 17,700
+TMT Rebar Energy Hydrocarbon
+Synergistic Training program Utilizing the Scientific and Sponsored/Conf/WS/Semi
+508 DST Mahesh Kumar Center for Advanced Scientific Equipment 8,83,500
+Technological Infrastructure (STUTI) Program nar/Symposia
+Development of a platform for Arabidopsis functional
+genomics to study plant responses to dehydration, heat and
+509 IIT Jodhpur Institute/Seed Grant Ayan Sadhukhan Bioscience and Bioengineering 25,00,000
+micronutrient deficiency stress conditions prevalent in the
+Thar desert
+Theoretical and Computational Study of Plastic Deformation
+510 IIT Jodhpur Institute/Seed Grant Prabhat Kumar Jaiswal Physics 15,34,000
+and Mechanical Yielding of Amorphous Polymers
+511 INAE Youth Conclave-2022 (IIT Jodhpur Event) INAE Sponsored/Conf/WS/Semi C.Venkatesan Mechanical Engineering 35,00,000
+nar/Symposia
+Design and development of lightweight steels for structural
+512 IIT Jodhpur Institute/Seed Grant Nitin Kumar Sharma Metallurgical & Materials Engineering 25,00,000
+applications
+Point-of-use and in-line coliforms sensors for smart water Ministry of Jal Shakti-National
+513 Sponsored Research Project Meenu Chhabra IDRP 72,51,200
+management. Jal Jeevan Mission
+Plasmon-induced photocatalysis for hydrogen production via
+514 IIT Jodhpur Institute/Seed Grant Ramesh Asapu Chemical Engineering 25,00,000
+methanol reforming
+Phd Student- Nihar Ranjan
+515 High Dimensional Quantum Information Processing DST-Inspire (Phd Student) Fellowship project Das Mentor-Subhashish Physics 24,64,720
+Banerjee
+Development of 2D Transition Metal Dichalcogenides (TMDs)
+Phd Student-Biswajit Pal
+516 and Metal Oxide Thin Film based Perovskite Solar Cells(PSCs) DST-Inspire (Phd Student) Fellowship project Physics 24,64,720
+Mentor-Ambesh Dixit
+and Photodetectors
+Wate Resource Zone Jodhpur,
+517 Capacity Enhancement of Sei Dam Tunnel Project Consultancy Saran Aadhar Civil & Infrastructure Engineering 19,48,947
+Govt. of Rajasthan
+Technical Viability of Use of Raw Petroleum Coke in the
+518 NOC Foundation Consultancy Ankur Gupta Mechanical Engineering 25,000
+manufacturing of ECP /Soderberg Paste
+519 Development of Hardware Trojan Testing Methodology DRDO-CARS Sponsored Research Project Binod Kumar Electrical Engineering 24,92,000
+Deep-Tech Biodesign Centre: A Multi-disciplinary centre to
+train, nurture and transform clinicians and engineers into the
+520 DBT Sponsored Research Project Ravi K R Metallurgical & Materials Engineering 2,99,91,320
+Deep-Tech innovators in the field of Medical/Health
+Technology
+Sensepod: An AIoT based testbed to promote Sensing as a
+521 IIT Jodhpur Institute/Seed Grant Suchetana Chakraborty IDRP 41,90,000
+service for ambient living
+Energy utilization in glass and food processing Rajasthan Renewable Energy
+522 Consultancy Sudipto Mukhopadhyay Mechanical Engineering 14,95,000
+industry Corporation Ltd.
+Unique Infra Engg. India Pvt.
+523 Investigation of Tor Steel for New Medical College-Nagaur P2 Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 35,400
+Ltd.
+Design and analysis of mild steel corrugated sheet-based
+524 containers for holding water/sewage for sewage treatment KSP Hydro Engineers Pvt. Ltd. Consultancy Jaiveer Singh Metallurgical & Materials Engineering 1,61,070
+plants in RUIDP hospitals
+Development of a wind Tunnel Facility for Aeolian Soil
+525 IIT Jodhpur Institute/Seed Grant Pradeep Kumar Dammala Civil & Infrastructure Engineering 32,60,000
+Migration and Mitigation Studies
+Role of fungal and bacterial amyloids in polymicrobial biofilm
+526 IIT Jodhpur-IRMG Institute Project Neha Jain Bioscience and Bioengineering 9,95,000
+assembly
+527 Choice environments and bounded rationality IIT Jodhpur-IRMG Institute Project Ruhi Sonal School of Liberal Arts 8,73,000
+Essential dimension and the least degree of faithful
+528 IIT Jodhpur-IRMG Institute Project Dilpreet Kaur Mathematics 10,00,000
+representation of a finite group
+Dy CE/C-1/UDZ/Q/2022-23/11 Proof Checking of Structural
+Design of Tunnel-1, T-2 & T-3 of KRCD-JYM Section from
+529 North western Railway Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 5,31,531
+NIT/IIT in Connection with UDZ-HMT Gauge Conversion
+Project.
+530 Reimbursement of travel for attending IEEE ISCAS 2022 SERB-ITS Travel Jai Naryan Tripathi Electrical Engineering 2,13,847
+531 Lab on Paper for Sensing Application SERB-SIRE Fellowship project Ankur Gupta Mechanical Engineering 8,81,478
+Unique Infra Engg. India Pvt.
+532 Determination of OPC Parameters for NMC-P1 Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 73,160
+Ltd.
+Validation of synthesis route for the production of 2-
+533 Eastar Chemical India Pvt. Ltd. Consultancy Sumit Kamal Chemical Engineering 1,52,958
+aminopropanol
+Pranay Ranjan, Devendra
+Phase Specific Synthesis of Borophene for Lightwave
+534 IIT Jodhpur Institute/Seed Grant Singh Negi, Amitava Metallurgical & Materials Engineering 84,18,190
+Electronics & Energy Devices
+Banerjee
+Provn of Taxiway for Modification of Four Double Entry Blast
+535 Jeet Construction Consultancy Bhupendra Singh Civil & Infrastructure Engineering 1,00,300
+Pens at AF Station Jaisalmer
+Experimental and Numerical Analysis for stabilization of
+536 SERB-SRG Sponsored Research Project Tarachand Kumawat Chemical Engineering 25,33,970
+Antinbubbles
+M(atching)A(uction)C(ontract): Parameterized Algorithms for
+537 SERB-SUPRA Sponsored Research Project Pallavi Jain Computer Science & Engineering 28,86,260
+Economics and Computation
+Thermal Performance Prediction of Multi-Layered Ensembles
+538 DRDO-ARB Sponsored Research Project P. Ravi Prakash Civil & Infrastructure Engineering 17,06,840
+Subjected to Fire Exposure using ANSYS
+Indian National Academy of
+IoT enabled 2D Materials functionalized Engineering-Abdul Kalam
+539 Fellowship project Mahesh kumar Electrical Engineering 57,00,000
+AlGaN/GaNtransistor for water quality monitoring Technology Innovation
+National Fellowship
+540 IBM PhD Fellowship IBM-PhD Fellowship Fellowship project Richa Singh Computer Science & Engineering 9,40,168
+Large Scale Synthesis of Freestanding 2D Borophene Atomic
+541 SERB-SRG Sponsored Research Project Pranay Ranjan Metallurgical & Materials Engineering 28,57,960
+Sheets and its Hybrids for Conducting Tapes
+Sustainable Geopolymer Based Solutions for Mitigating
+542 SERB-SIRE Fellowship project Pradeep Kumar Dammala Civil & Infrastructure Engineering 15,78,500
+Aeolian Soil Erosion in Rajasthan, India
+To Study potential protocols for satellite based secure
+543 ISRO Sponsored Research Project Subhashish Banerjee IDRP 24,94,000
+communication under ambient conditions
+Computational Investigation of the influence of
+544 biomacromolecules on ion transport characteristics of Lithium- SERB-SIRE Fellowship project Santosh Mogurampelly Physics 10,80,770
+ion battery electrolytes
+AI enabled identification of organic honey using ultrasensitive Jodhpur City Knowledge And
+545 Sponsored Research Project Ajay Agarwal IDRP 3,50,000
+and selective nano -sensing platforms Innovation Foundation (JCKIF)
+Jodhpur City Knowledge And
+546 Fabric based wearable sensors Sponsored Research Project Ajay Agarwal IDRP 3,00,000
+Innovation Foundation (JCKIF)
+Noval Point of care device for diagnosing sepsis:Developing Jodhpur City Knowledge And
+547 Sponsored Research Project Ajay Agarwal IDRP 8,75,000
+Proof-of-Concept Innovation Foundation (JCKIF)
+Differential Phase Contrast in Electron Magnetic Circular
+548 SERB-SRG Sponsored Research Project Devendra Singh Negi Metallurgical & Materials Engineering 18,70,000
+Dichroism in Transmission Electron Microscopy
+Grain boundary engineering for improvement of high
+549 temperature strength and ductility in FCC alloys for structural SERB-SRG Sponsored Research Project Nitin Kumar Sharma Metallurgical & Materials Engineering 32,78,000
+applications.
+Climate sensitivity to anthropogenic aerosol loading over
+550 SERB-SRG Sponsored Research Project Amit Sharma Civil & Infrastructure Engineering 23,33,056
+western India
+Third Party Inspection for construction work of Four lane BT Muncipal Council Pali,
+551 Consultancy Bhupendra Singh Civil & Infrastructure Engineering 7,08,000
+road at Pali under Cm Budget announcement 2021-22 Rajasthan
+Development of a partitioned fluid-structure interaction
+552 ABC Transformers Pvt. Ltd Consultancy Nipun Arora Mechanical Engineering 7,00,041
+solver with moving boundaries and turbulent flows
+Genome-wide association study (GWAS) in Arabidopsis to
+553 identify the genetic basis of drought stress memory in plants SERB-SRG Sponsored Research Project Ayan Sadhukhan Bioscience and Bioengineering 32,98,707
+under conditions mimicking the Thar desert environment
+Specification-guided Design of Intelligent, Secure and
+554 Dependable Hardware Architectures for Edge Computing SERB-SRG Sponsored Research Project Binod Kumar Electrical Engineering 27,53,870
+Applications
+Short term course by Department of Chemical Engineering Institute Online Executive
+555 Consultancy Abhilasha Maheswari Chemical Engineering 64,000
+Through (CEP) Programme
+Institute Online Executive
+556 Consultancy Service for Use Case Analysis of IIT Jodhpur ERP Consultancy Suman Kundu Computer Centre 7,50,000
+Programme
+Institute Online Executive
+557 M.Tech Executive RMS Program AY 2022-23 Consultancy Niladri Sekhar Tripathy IDRP 69,30,000
+Programme
+Institute Online Executive
+558 M.Tech Executive DCS Program AY 2022-23 Consultancy Gaurav Bhatnagar School of AIDE 4,23,00,000
+Programme
+Computationally Lightweight Convolutional Neural Network
+559 SERB-SRG Sponsored Research Project Angshuman Paul Computer Science & Engineering 28,72,820
+for Generalizable Chest X-ray Diagnosis
+Investigation of weldability and hydrogen embrittlement
+560 SERB-SRG Sponsored Research Project Sk. Md. Hasan Metallurgical & Materials Engineering 32,49,760
+phenomenon in high-strength bainitic steel
+Post Graduation Diploma in Data Engineering & Cloud Institute Online Executive
+561 Consultancy Gaurav Bhatnagar School of AIDE 1,44,66,000
+Computing Programme
+Analogy Based Visual Relationship Interpretation from Cross-
+562 Accenture Sponsored Research Project Anand Mishra Computer Science & Engineering 16,32,792
+Task Videos and Standard Operating Procedures
+Wind Analysis and Design Check of Solar Module Mounting
+563 Deziniks Private Ltd. Consultancy P. Ravi Prakash Civil & Infrastructure Engineering 1,94,700
+Structure
+A High-Throughput Structure-Sensitive Designing of
+564 Electrocatalysts for Next-generation Alternative Fuel- "Green SERB-SRG Sponsored Research Project Amitava Banerjee Metallurgical & Materials Engineering 33,09,440
+Ammonia"-Synthesis"
+Arsenic immobilization by in-situ synthesis of iron-based
+565 DST-WTI Sponsored Research Project Trishikhi Raychoudhury Civil & Infrastructure Engineering 47,62,800
+adsorbent under reducing environmentwithin porous media
+Numerical Analysis and Design to raise the Height of Existing Rajasthan State Warehousing
+566 Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 7,00,655
+Rawatsar Warehouses along with Technical Report Corporation (RSWC)
+567 Hosting the Annual Foundation School-I at IIT Jodhpur NCM Dilpreet Kaur Mathematics 10,62,500
+Sponsored/Conf/WS/Semi
+nar/Symposia
+Sponsored/Conf/WS/Semi
+568 Next Gen-AI:Inspiration from Brain Science IIT Jodhpur Suman Dhaka School of AIDE 9,68,000
+nar/Symposia
+Theoretical investigations on the unimolecular decomposition NPDF Fellow-Saptarshi
+569 of various oxygenated biofuels as potentially efficient source SERB-NPDF Fellowship project Sarkar Mentor- Manikandan Chemistry 20,25,600
+of alternative fuels Paranjothy
+Design and Development of Electro-Mechanically Tunable
+570 Wide Band Gap Soft Phononic Structures using Topology IIT Jodhpur Institute/Seed Grant Atul Kumar Sharma Mechanical Engineering 25,00,000
+Optimization
+High Performance Algorithms and Applications for large
+571 IIT Jodhpur Institute/Seed Grant Dip Sankar Banerjee Computer Science & Engineering 23,40,000
+Streaming Data
+Discontinuum numerical modelling of confined masonry
+572 IIT Jodhpur Institute/Seed Grant P. Ravi Prakash Civil & Infrastructure Engineering 25,00,000
+structures under in-plane and out-of-plane loading scenarios
+Detecting Behavioral Health Disorders of Older Adults using
+573 IDEAS-TIH ISI Kolkata Sponsored Research Project Suchetana Chakraborty Computer Science & Engineering 22,96,800
+Self- supervised Learning and Casual Reasoning
+Technical Evaluation of DRPs along with Structural Designs Neuros Intelligent
+574 and Drawings of AI-Based Smart Parking, Manual Parking Management System(NIMS) Consultancy Jaiveer Singh Metallurgical & Materials Engineering 9,49,605
+and Vendors Market at Naharlagun, Arunachal Pradesh Indai Pvt Ltd.
+Sponsored/Conf/WS/Semi
+575 Prometeo IIT Jodhpur IIT Jodhpur Hirshikesh Office of Students 25,00,000
+nar/Symposia
+AIC NCORE Developmental
+576 Ashirwad Water Challenge Consultancy Akanksha Choudhary School of Liberal Arts 19,94,047
+Impact Foundation
+Process Development for the continuous production of
+577 IIT Jodhpur Institute/Seed Grant Sumit Kamal Chemical Engineering 25,00,000
+anethole: Application of flow chemistry for cascading reactions
+Desertification mapping over Indian mainland under the
+changing climate,High-resolution climate-chemistry Mayank Suman, Amit
+578 IIT Jodhpur Institute/Seed Grant Civil & Infrastructure Engineering 75,00,000
+modelling over the Indo-Gangetic Plain (IGP) and Western Sharma, Saran Aadhar
+India, Risk of Hydroclimatic extremes on major dams in India
+Determination of Physical & chemical Parameters of OPC and
+579 JK Cement Ltd. Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 74,340
+PPC
+Development of Flexible Sensors for Diagnostics and
+580 SERB-SIRE Fellowship project Ritu Gupta Chemistry 16,35,680
+Healthcare
+Non local variational problems with Dirichlet-Neumann
+581 SERB-SRG Sponsored Research Project Tuhina Mukherjee Mathematics 12,45,030
+mixed boundary conditions
+Large-scale Multi-label Learning with Limited Compute
+582 SERB-CRG Sponsored Research Project Yashashwi Verma Computer Science & Engineering 27,87,290
+Resources
+Joint program in Medical Sponsored/Conf/WS/Semi
+583 Indian Conference on Med Tech Innovation 2023 (ICMI 2023) Sushmita Jha IDRP 14,11,540
+Technology nar/Symposia
+Photoinduced Aryl Transfer Strategies involving Hypervalent
+584 Iodine(III) Reagents: Towards Cascade Annulations and Late- SERB-CRG Sponsored Research Project Sandip Murarka Chemistry 50,42,062
+Stage Functionalizations
+Investigating Analogy between Polynomial Chaos and
+585 SERB- MATRICS Sponsored Research Project Jai Naryan Tripathi Electrical Engineering 6,60,000
+Orthogonal Experiments for Uncertainty Quantification
+Indo-German Science &
+586 Award of "IGSTC-CONNECT Plus Travel Grant" Travel Shree Prakash Tiwari Electrical Engineering 75,000
+Technology Centre (IGSTC)
+Phd Student-Hemant Kumar
+587 CSIR Foreign Travel Grant for Hemant Kumar CSIR Travel Mantor-Dr. Abdul Gafoor Electrical Engineering 79,511
+Shaik
+Applications to Computational Chemistry in the realms of
+588 SERB-CRG Sponsored Research Project Atul Kumar Chemistry 21,19,832
+Quantum Computation
+Crafting Potential Broad Spectrum Antimicrobial Leads from
+589 Pyrophosphate Moiety of Lipid-II Precursor of Bacterial Cell SERB-CRG Sponsored Research Project Jayita Sarkar CRDSI 58,59,832
+Wall Peptidoglycan
+AI-driven Robot-assisted Cardiac Ultrasound System to
+590 SERB-CRG Sponsored Research Project Deepak Mishra Computer Science & Engineering 57,15,293
+Acquire Clinically Useful Standard Echocardiographic Views
+Silicon Phthalocyanine Based Low Power Memristive Device
+591 SERB-SIRE Fellowship project Satyajit Sahu Physics 7,18,058
+for Neuromorphic Application
+Structure-based functional elucidation of ligand protein
+Phd Student-Midhuna K
+592 interactions important for disease pathogenesis and rational ICMR-JRF Fellowship project IDRP 3,24,161
+Mentor-Samanwita Pal
+drug discovery
+Indo-German Science &
+593 Award Money Shrutidhara Sarma Mechanical Engineering 39,00,000
+Towards development of ultrasensitive strain measurement Technology Centre (IGSTC)
+system using laminated nanocomposites (TESSLA)
+Renormalization of Multimodal maps V.V.M.S.
+594 SERB-MATRICS Sponsored Research Project Mathematics 6,60,000
+with low smoothness Chandramouli
+Low Profile Compact Antenna System for Millimeterwave
+595 SERB-CRG Sponsored Research Project Soumava Mukherjee Electrical Engineering 52,87,832
+Communication and Sensing Application
+Multifunctional Flexible Devices for Eco-Sustainable E-Textile
+596 SERB-CRG Sponsored Research Project Shree Prakash Tiwari Electrical Engineering 60,44,093
+Applications
+ConSenseHAR: Decentralized collaborative context sensing
+597 SERB-CRG Sponsored Research Project Suchetana Chakraborty Computer Science & Engineering 28,62,679
+towards pervasive Human Activity Recognition
+Registration fee, sponsorship, Sponsored/Conf/WS/Semi
+598 IITJ-JJM Capacity Building Vikky Anand Chemical Engineering 79,008
+Sample testing fee nar/Symposia
+Smart Radio Environments: Implementation and deployment
+599 IIITB COMET Sponsored Research Project Soumava Mukherjee Electrical Engineering 53,46,722
+for targeted use-cases
+600 Computations in wreath Products of groups SERB-MATRICS Sponsored Research Project Dilpreet Kaur Mathematics 6,60,000
+Larsen & Turbo Ltd. L&T
+601 Chemical Test on 40 mm TMT Rebar Consultancy Tekcham Gishan Singh Civil & Infrastructure Engineering 11,800
+Energy Hydrocarbon
+Institute Online Executive
+602 M.Tech Executive AR/VR Programme AY 2022-23 Consultancy Amit Bhardwaj School of AIDE 1,15,15,000
+Programme
+Theoretical and Computational Study of Phase Separation in
+603 SERB-CRG Sponsored Research Project Prabhat Kumar Jaiswal Physics 28,34,590
+Binary Mixtures in the presence of Surface Fields
+Development of Autonomous Wireless Charging
+604 Infrastructure to Extend the Flight Range of Unmanned Ariel IIT Jodhpur Institute/Seed Grant Kunwar Aditya Electrical Engineering 25,00,000
+Vehicle (UAV)
+Understanding Size Focusing: A Methodology for
+605 IIT Jodhpur Institute/Seed Grant Nirmalya Bachhar Chemical Engineering 25,00,000
+Synthesizing monodisperse Metal Nanoparticles
+Studying the nexus of poverty and health expenditure using
+606 IIT Jodhpur Institute/Seed Grant Dweepobotee Brahma School of AIDE 25,00,000
+Machine Learning
+Novel 2-D nanostructures involving borophene and clay, their
+organic:inorganic hybrids, and heterostructures for
+Amitava Banerjee Pranay
+607 optoelectronics,magneto-optics photo/electrocatalysis, and IIT Jodhpur-UB Institute/Seed Grant Metallurgical & Materials Engineering 18,00,000
+Ranjan, Devendra Singh Negi
+water
+purification
+Multi-omic profiling of native and migrant populations for
+608 elucidating molecular response s to exposomes in the Thar IIT Jodhpur Institute/Seed Grant Mitali Mukerji Bioscience and Bioengineering 37,00,000
+Ecoregion
+Sponsored/Conf/WS/Semi
+609 Graduate Research Meet March 2023 Registration Fee Ruhi Sonal School of Liberal Arts 17,300
+nar/Symposia
+Development of AI-Enabled High Power Converters for
+610 IIT Jodhpur Institute/Seed Grant Nishant Kumar Electrical Engineering 25,00,000
+Reliable Grid Integration and Vehicle Technologies
+Phd Student-Bikram
+Global Descent Methods for Nonlinear Multi-objective
+611 DST-Inspire (Phd Student) Fellowship project Adhikary Mentor -Md Abu Mathematics 24,64,720
+Optimization Problems
+Talhamainuddin Ansary
+612 Science Technology and Innovation Hub in IIT Jodhpur DST Sponsored Research Project Anand K. Plapally CETSD 2,10,41,500
+Phd Student-
+Unraveling the role of NLRP1 in glioblastoma
+613 DST-Inspire (Phd Student) Fellowship project Shalini Chhipa Mentor- Bioscience and Bioengineering 24,64,720
+pathophysiology
+Sushmita Jha
+Hybrid organic-inorganic membranes with tunable pore sizes
+614 and physio-chemical properties for energy-efficient separation DST-Inspire Faculty Fellowship project Kirti Sankhala CETSD 1,10,00,000
+technologies
+Design Development of Nanostructured Cathode material for
+Phd Student-Bharti Rani
+615 high energy density Sodium-ion Batteries and Phase Change DST-Inspire (Phd Student) Fellowship project Physics 24,64,720
+Mentor -Ambesh Dixit
+Material for efficient Thermal Energy Storage
+Density Function of Some Invariants in prime characterstic
+616 DST-Inspire Faculty Outside Fellowship project Mandira Mondal Mathematics 1,10,00,000
+and Hilbert Kunz Density Function for Schubert Varieties
+Harnessing Radiative Excitons in 2D-TMD’s for Ultracompact
+617 SERB-CRG Sponsored Research Project B. M. Krishna Mariserla Physics 49,98,397
+Nanolaser and On-chip Photonic devices
+Returning expert fellowship in the framework of the Deutsche Gesellschaft für
+618 programme Migration & Diaspora Internationale Sponsored Research Project Pankaj Yadav Bioscience and Bioengineering 19,17,422
+Zusammenarbeit (GIZ) GmbH
+Exploring an Ingenious Hybrid Additive-Subtractive
+Manufacturing Route for Producing Biomedical Implants by
+619 DST-Inspire Faculty Fellowship project Gourhari Ghosh Mechanical Engineering 35,00,000
+combining Laser Directed Energy Deposition, Laser Polishing
+and Magnetorheological Finishing Techniques
+Phd Student-Saloni Gupta
+620 Spectral Method for Integral Equation DST-Inspire (Phd Student) Fellowship project Mathematics 24,64,720
+Mentor-Moumita Mandal
+Sponsored/Conf/WS/Semi School of Management &
+621 1st Online Management Doctoral Colloquium Registration Fee Devi Prasad Dash 42,438
+nar/Symposia Entrepreneurship
+Experimental realization of Quantum Key Distribution using Phd Student-Ravikant
+622 DST-Inspire (Phd Student) Fellowship project Physics 24,64,720
+Entangled Photons and Single Photons Mentor- V Narayanan
+Development of functional materials for energy storage Phd Student-Neha Patel
+623 DST-Inspire (Phd Student) Fellowship project Chemistry 24,64,720
+applications Mentor-Rakesh Sharma
+Studies of Dielectric Barrier Discharge based Plasma Activated
+Phd Student-Shikha Pandey
+624 Water with special emphasis on Biochemical properties of DST-Inspire (Phd Student) Fellowship project Physics 24,64,720
+Mentor-Ram Prakash
+plasma-treated liquids
+Mercatus Center-Emergent School of Management &
+625 Unwrapping Structure and Functioning of Labour Addas Travel G Venkat Ram Reddy 6,50,793
+Ventures Grant Entrepreneurship
+International Travel Grant: American Geophysical Union Fall
+626 SERB-ITS Travel Saran Aadhar Civil & Infrastructure Engineering 2,09,642
+Meeting 2022, USA
+Concept to realization: Combined thermal wave heat and
+627 mass recovery cycle based compact and efficient solar SERB-CRG Sponsored Research Project Prodyut Ranjan Chakraborty Mechanical Engineering 37,49,076
+adsorption cooling/heating system
+BUNDL TECHNOLOGIES
+628 Swiggy Face Recognition Sponsored Research Project Mayank Vatsa Computer Science & Engineering 18,45,000
+PRIVATE LIMITED
+Electronic nose system based Asthma detection through
+629 SERB-CRG Sponsored Research Project Saakshi Dhanekar Electrical Engineering 69,55,586
+exhaled breath
+630 IEEE Delhi Section Sensors Council Chapter - Rajasthan IEEE Outreach Project Saakshi Dhanekar Electrical Engineering 1,65,420
+Unrestricted Academic Grant from Meta Platforms Meta Platforms Technologies,
+631 Award Money Mayank Vatsa & Richa Singh Computer Science & Engineering 1,13,74,763
+Technologies, LLC LLC
+High Throughput, Robust Processing in Memory (PiM)
+632 Heterogeneous Architectures for Neuromorphic Computing SERB-SIRE Fellowship project Bhupendra Singh Reniwal Electrical Engineering 17,37,364
+(Neural Networks Engines)"
+Heat resistant weld joints of Inconel 617 superalloy and
+633 austenitic grade SS304H steel for Indian Advanced Ultra- SERB-CRG Sponsored Research Project Chandan Pandey Mechanical Engineering 33,66,000
+Supercritical (AUSC) boiler program
+Design and Fabrication of Energy Efficient In-Memory
+Computing Design Framework for Analog Neural Processor
+634 SERB-CRG Sponsored Research Project Bhupendra Singh Reniwal Electrical Engineering 30,99,932
+with Improved Linearity for Neuromorphic Computing
+Applications
+Deep Learning based Structural Condition Assessment and
+635 IIT Jodhpur Institute/Seed Grant Amit Kumar Rathi Civil & Infrastructure Engineering 25,00,000
+Health Monitoring
+Non–Destructive Evaluation of RCC Box Culvert Bridge No. KK SORATHIA MMC
+636 Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 2,30,100
+73 and 76, between Banar and Jodhpur Cantt Railway Line PROJECTS JV
+Johari Digital Healthcare
+637 Automating the delivery of therapy through robot Consultancy Suril V. Shah Mechanical Engineering 4,56,317
+Pvt.Ltd.
+Developing Endoscope socket to provide uninterpreted
+638 endoscopic visual field to ENT doctor for diagnosing patients MSME Sponsored Research Project Ravi K R Metallurgical & Materials Engineering 15,00,000
+with minimal discomfort
+639 XR for education and technology TIH iHub Drishti, IIT Jodhpur Sponsored Research Project Amit Bhardwaj Electrical Engineering 1,70,00,000
+640 Data Annotation and Marketplace TIH iHub Drishti, IIT Jodhpur Sponsored Research Project Suman Kundu Computer Science & Engineering 1,70,00,000
+641 Realtime Computer Vision and Sensing TIH iHub Drishti, IIT Jodhpur Sponsored Research Project Deepak Mishra Computer Science & Engineering 1,33,00,000
+642 Experimental study of flow mixing in RPV Plena Ministry of Defence Sponsored Research Project Hardik Kothadia Mechanical Engineering 48,43,133
+IIT Guwahati Technology
+Development of multi-ink spatial manipulator mounted on a
+643 Innovation and Development Sponsored Research Project Barun Pratiher Mechanical Engineering 10,00,000
+moving body for underwater exploration
+Foundation
+DEVELOPMENT OF LOW-COST HYBRID
+Gangawane Krunal
+644 NANOPARTICLES BASED PHASE CHANGE MATERIALS SERB-EEQ Sponsored Research Project Chemical Engineering 43,18,764
+Madhukar
+FOR EFFICIENT THERMAL ENERGY STORAGE
+645 Table detection and Layout Analysis on Clinical Documents HealthCareNLP Softtech LLP Consultancy Anand Mishra Computer Science & Engineering 13,19,914
+Pranay Ranjan, Devendra
+Development of High Capacity Advanced Borophene Oxide
+646 Tata Steel limited Consultancy Singh Negi, Amitava Metallurgical & Materials Engineering 64,900
+based Supercapacitor
+Banerjee
+Borophene - A Promising Anode Material and Redox-active
+647 Tata Steel limited Consultancy Srijan Sengupta Metallurgical & Materials Engineering 76,700
+Molecular complexes as Cathode for Sodium-ion Batteries
+648 Fellowship to MDes XR Design Students TIH iHub Drishti, IIT Jodhpur Fellowship project Nimish Vohra School of Liberal Arts 29,50,000
+Study of Quantum Attacks on Block Ciphers and Its Counter-
+649 DRDO-CAIR Sponsored Research Project Bimal Mandal Mathematics 25,03,556
+Measures
+Analysis of soil samples of Jawai Dam for submergence Office of Executive Engineer,
+650 Consultancy Pradeep Kumar Dammala Civil & Infrastructure Engineering 28,114
+concern Jawai Canal Division
+Eco-Friendly Wearable Device for Real Time Health
+651 TIH-IIT Bombay Fellowship project Shree Prakash Tiwari Electrical Engineering 22,93,360
+Monitoring
+A novel hybrid solar thermal power and desalination plant for
+652 DST-TMD Sponsored Research Project Hardik Kothadia Mechanical Engineering 3,17,49,504
+remote areas
+Engaging Youth to Fight Against Antimicrobial Resistance National Centre for Biological
+653 Award Money Neha Jain Bioscience and Bioengineering 1,50,000
+(AMR) Sciences
+Mapping Heritage Language Structure Through Indian Council of Social
+654 Sponsored Research Project Gurujegan M School of Liberal Arts 22,57,500
+Sociolinguistic Cues: A Case Study of Swiss Tamil Science Research (ICSSR)
+Student- Ms. Shalu Saini
+7th IEEE Electron Devices Technology & Manufacturing
+655 SERB-ITS Travel Mentor Dr. Shree Prakash Electrical Engineering 1,20,928
+Conference (EDTM)
+Tiwari
+Development of Bias Mitigation Approaches for Fair Deep
+656 DST-Inspire Faculty Fellowship project Pratik Mazumder Computer Science & Engineering 35,00,000
+Learning
+Structural Audit of Bldg No P-157 (A Mess), P-162 (Adm
+Commander Works Engineer
+657 Block), P-125 (OR line), P-766 (Adm Block), P-56 (Officer Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 9,47,092
+(Army) Jodhpur
+Mess), P-920 (OR line) and APS
+658 Proof-checking of Single Storey RCC Room Design JEET RDS JV Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 59,000
+Development and Maintenance of Project Management Central Wool Development
+659 Consultancy Sumit Kalra Computer Science & Engineering 57,88,000
+Information System Board
+Behaviour and design of circular steel hollow sections having
+660 IIT Jodhpur Institute/Seed Grant Tekcham Gishan Singh Civil & Infrastructure Engineering 33,49,600
+perforations – An experimental and numerical investigation
+Use of Nanomaterials to improve the performance of Cold
+661 IIT Jodhpur Institute/Seed Grant Bhupendra Singh Civil & Infrastructure Engineering 24,98,902
+Bituminous Emulsion Mix
+Development of High Performance Photo-Rechargeable
+662 IIT Jodhpur Institute/Seed Grant Shahab Ahmad Physics 25,00,000
+Batteries
+Dense matter inside the astrophysical compact objects
+663 SERB- CRG Sponsored Research Project Monika Sinha Physics 26,64,992
+consistent with gravitational-wave observations
+Third order nonlinear optical studies on 2D based materials
+664 IIT Jodhpur Institute/Seed Grant B. M. Krishna Mariserla Physics 25,00,000
+for optical switches and limiters
+665 Solid Catalyst for Biomass conversion DST( Indo Slovenia) Travel Rakesh Sharma Chemistry 13,50,240
+666 Dynamics of Non-Autonomous Schmidt Games NBHM, DAE Sponsored Research Project Puneet Sharma Mathematics 16,46,900
+Student- Bikash Pattanayak
+667 The 11th International Conference on Multiphase Flow SERB-ITS Travel Mechanical Engineering 1,47,800
+Mentor-Hardik Kothadia
+Fully Verifiable Hardware Architecture Design and
+668 IIT Jodhpur Institute/Seed Grant Binod Kumar Electrical Engineering 24,98,545
+Development for Efficient and Reconfigurable Edge AI
+669 CSIR Foreign Travel Grant for Gargi Konwar CSIR Travel Student- Ms. Gargi Konwar Electrical Engineering 93,451
+Genome wide transcriptome profiling to study the impact of Pankaj Yadav &
+670 Ved Vignan Maha Vidya Peeth Consultancy Bioscience and Bioengineering 15,11,910
+breathe and meditation based Sudarshan Kriya Yoga Mitali Mukerji
+Design and processing of non-corrosive and cost-effective
+671 complex concentrated alloys (CCAs) for biomedical DST Sponsored Research Project Debasmita Pani Metallurgical & Materials Engineering 26,09,031
+applications
+Sponsored/Conf/WS/Semi
+672 NCVPRIPG’23 Conference Google India Pvt Ltd Anand Mishra Computer Science & Engineering 98,000
+nar/Symposia
+School of Management &
+673 Mulli-Sensory Experience and Consumption IIT Jodhpur Institute/Seed Grant Anuj Pal Kapoor 23,42,320
+Entrepreneurship
+Development of an in-house experimental and computational
+674 facility to understand blood crack dynamics for disease IIT Jodhpur Institute/Seed Grant Hirshikesh Mechanical Engineering 24,99,000
+diagnosis
+Quality Healthcare Access
+675 Health financing by urban and rural local bodies in Rajasthan Sponsored Research Project Alok Ranjan School of Liberal Arts 6,45,781
+Private Limited
+Response of high-rise building structures under fire:
+676 SERB-SIRE Fellowship project P. Ravi Prakash Civil & Infrastructure Engineering 15,49,566
+Advanced simulations and design strategies
+Modulation of the speed of Intrinsic Alpha Frequency (IAF)
+677 SERB-CRG Sponsored Research Project Dipanjan Roy School of AIDE 57,65,760
+with tACS modulates variability of illusory speech perception
+MESHLESS LOCAL PETROV-GALERKIN (MLPG)
+FORMULATION BASED LATTICE BOLTZMANN METHOD Gangawane Krunal
+678 SERB-CRG Sponsored Research Project Chemical Engineering 27,21,400
+MAGNETOHYDRODYNAMICS BASED SOLUTAL Madhukar
+CONVECTION PROBLEMS
+Oxidation, CHF and quenching studies of Zr-4 clad material
+679 BRNS Sponsored Research Project Ravi K R Metallurgical & Materials Engineering 49,30,000
+with and without coating
+Development of Ultra-precision Finishing Process for
+680 IIT Jodhpur Institute/Seed Grant Gourhari Ghosh Mechanical Engineering 25,00,000
+Nanofinishing of Complex Shaped Surfaces
+Commander Works Engineer
+681 Sewage Water Management at Jodhpur Military Station Consultancy Vikky Anand CETSD 8,18,236
+Jodhpur
+Active noise control for a noise generating equipment in a
+682 DRDO-NRB Sponsored Research Project Amrita Puri Mechanical Engineering 89,31,566
+compartment
+Non-invasive brain stimulation methods to improve Sleep and
+683 IIT Jodhpur Institute/Seed Grant Suman Dhaka School of Liberal Arts 25,83,367
+Cognition
+Influence of waste fillers on moisture susceptibility of asphalt
+684 SERB-SIRE Fellowship project Bhupendra Singh Civil & Infrastructure Engineering 17,69,304
+mixtures
+Role of Ayushman Bharat in progress towards universal
+685 IIT Jodhpur Institute/Seed Grant Alok Ranjan School of Liberal Arts 16,38,498
+health coverage in India.
+Single Image Super-resolution of X-ray and
+686 IIT Jodhpur Institute/Seed Grant Angshuman paul Computer Science & Engineering 25,00,000
+CT Images for Improved Radiology Diagnosis
+DRDO Industry Academia-Center of Excellence (DIA-CoE), Director DIA -CoE (
+687 DRDO Sponsored Research Project DIA-CoE, IITJ 1,49,22,000
+IITJ Ravindra Kumar)
+Modeling progressive silicosis with induced pluripotent stem
+688 IIT Jodhpur Institute/Seed Grant Dinesh K Ahirwar Bioscience and Bioengineering 25,00,000
+cells-derived lung organoids
+689 Advanced Robotic Manipulation of Deformable Objects IIT Jodhpur Institute/Seed Grant Jayant Kumar Mohanta Mechanical Engineering 24,99,770
+690 Self-supervised learning of dynamic clothed avatars Google Asia Pacific Pte. Ltd Award Money Avinash Sharma Computer Science & Engineering 8,09,300
+691 Automated Counting of Pipes from Camera Images Alluvium Consultancy Angshuman paul Computer Science & Engineering 4,38,075
+Driving behaviour and traffic flow modelling framework
+692 IIT Jodhpur-IRMG Institute Project Ranju Mohan Civil & Infrastructure Engineering 10,00,000
+under connected and autonomous traffic environment in India
+Tata Consultancy Services
+693 Nano Sensing for Healthcare Consultancy Ajay Agarwal IDRP 6,60,800
+Limited
+Multi-Model Exploration of Neuroplastic and Oscillatory
+694 IIT Jodhpur-IRMG Institute Project Suman Dhaka School of Liberal Arts 10,00,000
+alteration related to Emotion Regulation
+Digital Twins: negotiating identity and translocated heritage Indian Council of Social
+695 Sponsored Research Project Ankita Sharma School of Liberal Arts 22,03,750
+in the global age Science Research (ICSSR)
+696 Writing Religious Practices and Drawing Comics Culture IIT Jodhpur Institute/Seed Grant Natasa Thoudam School of Liberal Arts 6,00,000
+Applications of Lie group analysis and topological methods to
+697 IIT Jodhpur-IRMG Institute Project Sukhendu Ghosh Mathematics 10,00,000
+solve complex flow problems
+Government Intervention to Build Electric Vehicle Charging
+Infrastructure or Expand Adoption of Electric Vehicle: School of Management &
+698 IIT Jodhpur-IRMG Institute Project Mithu Rani Kuiti 10,00,000
+Strategic decision, Competition, Product proliferation under Entrepreneurship
+stochastic usage rate environment.
+Context mining at the edge for multimodal sensor driven
+699 IIT Jodhpur-IRMG Institute Project Suchetana Chakraborty Computer Science & Engineering 10,00,000
+ubiquitous human sensing applications
+Coordinated Cyber-attacks on Critical Power
+700 System Applications: Scenario-Driven- IIT Jodhpur Institute/Seed Grant Ravi Yadav Electrical Engineering 25,00,000
+Solutions
+Determination of physical and chemical parameters of cement Unique Infra Engg. India Pvt.
+701 Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 53,100
+concrete aggregates - NMC Ltd.
+Evaluation of Physical Properties of Fast Setting Repair Natural Cemeco Private
+702 Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 94,400
+Concrete Limited
+Microsoft Research Travel Student- Rishab Ranjan
+703 Microsoft Travel Grant for(Rishab Ranjan (MP19AI004) Travel Computer Science & Engineering 1,62,000
+Grant Mentor- Prof. Mayank Vatsa
+Microsoft Research Travel Student-Yasmeena Akhter
+704 Microsoft IJCAI Grant (Yasmeena Akhter) Travel Computer Science & Engineering 1,62,000
+Grant Mentor- Prof. Richa SIngh
+Online course delivery - loT and its Applications using Tata Consultancy Services
+705 Consultancy Sumit Kalra IDRP 1,87,500
+Raspberry Pi Limited
+Student-Devanshu Verma
+GWAS for genetic identification of fluoride toxicity in
+706 DBT (JRF Fellowship) Fellowship project Mentor- Dr. Ayan Bioscience and Bioengineering 5,07,903
+Arabidopsis thaliana
+Sadhukhan
+North American Manufacturing Research Conference
+707 SERB-ITS Travel Gourhari Ghosh Mechanical Engineering 1,86,235
+(NAMRC 51), USA (12 June, 2023 To 16 June, 2023)
+Noble Metal free High entropy alloy (HEA) as bifunctional Student-Chandra Prakash
+708 SERB OVDF Fellowship project Physics 23,45,798
+electrocatalysts for overall electrochemical water splitting Mentor- Dr. Ambesh Dixit
+Exploring ‘Smart’ Pedagogy through the End to End
+709 Development of a Technology-Enhanced Learning (TEL) ICSSR Sponsored Research Project Rachel Philip IDRP 13,43,750
+system
+Mix Design of M25, M30 and M35 Grade Concrete at BHKT Hyt Engineering Company Pvt.
+710 Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 2,83,200
+Station Ltd.
+Institute Online Executive
+711 Executive Programs in AI Programs of 2022 batch Consultancy Pallavi Jain Computer Science & Engineering 40,05,000
+Programme
+Development of a coupled damage-plasticity discrete element
+712 framework for unreinforced masonry subjected to monotonic SERB-SRG Sponsored Research Project P. Ravi Prakash Civil & Infrastructure Engineering 22,14,340
+and cyclic loading
+Institute Online Executive
+713 Executive M.Tech in Intelligent VLSI Systems (IVS) 2022-2023 Consultancy Binod Kumar Electrical Engineering 27,24,000
+Programme
+Proof-checking of Structural Design of Bridge No. 22 and 30 in
+714 Phulera – Nawa City Section in Connection with Phulera – North Western Railway Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 2,89,100
+Degana Doubling Project
+Conversion of Twin Span Sheds into Single Ridge Godowns at
+715 Food Corporation of India Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 3,71,700
+FSD BGKT Jodhpur
+Microsoft Research Travel Student-Kshitij Mentor-
+716 Microsoft Travel Grant - Kshitij Travel Computer Science & Engineering 1,62,000
+Grant Richa SIngh
+Self-Supervised Learning for Open-set Very-Large-Scale Video
+717 Microsoft India R&D Pvt Ltd Consultancy Anand Mishra Computer Science & Engineering 17,70,000
+Retrieval
+Developing a Framework for Smart and Sustainable
+718 SERB-SIRE Fellowship project Jai Naryan Tripathi Electrical Engineering 12,70,994
+Agriculture for Arid-Zone Crops of India
+Institute Online Executive
+719 FDP on Pedagogy and Technology-enabled Learning Consultancy Rajlaxmi Chouhan CETE 93,000
+Programme
+Microsoft Research Travel Student- Abhirama Mentor-
+720 MSR Travel Grant (Abhirama-IJCAI2023) Travel Computer Science & Engineering 1,77,000
+Grant Anand Mishra
+Vetting of Process Design Engineering: 65 KLD Effluent
+S R Paryavaran Engineers
+721 Treatment-cum-sewage Treatment Plant based on MBR Consultancy Vikky Anand Chemical Engineering 25,488
+Private Limited
+Technology
+722 Project Umang JSW Cement Ltd. Sponsored Research Project Rachel Philip CETSD 12,06,700
+Investigation of film rupture and dewetting dynamics during
+723 surfactant-driven spreading on thin films IIT Jodhpur Institute/Seed Grant Vignesh T.G Mechanical Engineering 25,00,000
+Understanding Millet Crop Patterns, Productivity,
+Consumption, and Farmers' Income in Jodhpur and School of Management &
+724 ICSSR Sponsored Research Project Venkatesha Murthy R 5,50,000
+Jhunjhunu Districts of Rajasthan: A Study on the Year of Entrepreneurship
+Millets 2023 Scheme
+NPDF- Ankit Kumar
+Accurate Monitoring of Harmonics/Interharmonics in
+725 SERB-NPDF Fellowship project Srivastava Mentor- Bharat Electrical Engineering 20,25,600
+Modern Power System with Low Cost Hardware
+Singh Rajpurohit
+Sponsored/Conf/WS/Semi
+726 Climate Change: A Socio-geological Perspective Registration Fee Farhat Naz School of Liberal Arts 33,040
+nar/Symposia
+10th International Conference on Heat Transfer and Fluid Student- Arvind Kumar
+727 SERB-ITS Travel Mechanical Engineering 1,44,601
+Flow (HTFF-23) Mentor- Hardik Kothadia
+Institute Online Executive
+728 M.Tech Online AR/VR A.Y. 2023-24 Consultancy Rajendra Nagar School of AIDE 71,40,000
+Programme
+Understanding the impacts of Pre-Monsoon heat stress on
+729 Indian Summer Monsoon Precipitation in Arid regions of MOE-STARS Sponsored Research Project Saran Aadhar Civil & Infrastructure Engineering 31,14,000
+India under changing and anthropogenic climate
+Development of Integrated Photonic Devices incorporating
+730 Silicon plus Photonics for Next Generation Optical DST-Inspire Faculty Outside Fellowship project Swati Rajput Electrical Engineering 1,12,40,000
+Communication
+Development of near-infrared light absorbing metal-
+semiconductor heterostructure for efficient water oxidation
+731 IIT Jodhpur Institute/Seed Grant Suresh Sarkar Chemistry 25,00,000
+and carbon dioxide reduction; An effort to fulfil the rising
+demand of renewable energy
+Flood Mechanisms in Arid and Semi-Arid Regions amidst
+732 SERB-SRG Sponsored Research Project Saran Aadhar Civil & Infrastructure Engineering 21,70,040
+Shifting Climate Patterns and Human Influence
+Are we ready for the adverse effects of climate migration? A JP Narayan National Centre of
+733 study on climate change-induced internal migration in India Excellence in the Humanities, Sponsored Research Project Anugya Shukla CETSD 5,00,000
+for 2040 IIT Indore
+Student- Satish Kumar Adari
+Development Of Constitutive Model For Partially Liquefied
+734 SERB OVDF Fellowship project Mentor-Pradeep Kumar Civil & Infrastructure Engineering 21,88,536
+Soils And Implications On Dynamic Ssi Of Pile Foundations
+Dammala
+76th Annual Meeting of the APS Division of Fluid Dynamics,
+735 SERB-ITS Travel Vikky Anand Chemical Engineering 2,06,324
+USA
+International Conference on Phenomena in Ionized Gases Student- Kiran
+736 SERB-ITS Travel Physics 85,983
+(ICPIG) XXXV, Netherlands Mentor- Prof. Ram Prakash
+Microsoft Research Travel Student-Misaal Khan
+737 Microsoft Travel Award to Misaal Khan Travel Computer Science & Engineering 1,62,000
+Grant Mentor-Mayank Vatsa
+Assessing the impact of marble slurry landfill site on regional
+738 groundwater quality and selection of a suitable landfill liner SERB-Power Sponsored Research Project Trishikhi Raychoudhury Civil & Infrastructure Engineering 49,50,000
+material
+Institute Online Executive
+739 M.Tech Online (Data and Computational Science) A.Y. 2023-24 Consultancy Gaurav Bhatnagar School of AIDE 1,22,40,000
+Programme
+Institute Online Executive
+740 M.Tech Online RMS Program AY 2023-2024 Consultancy Suril V. Shah IDRP 30,60,000
+Programme
+Dolcas Botanosys Private Sponsored/Conf/WS/Semi
+741 Ayurveda For One Health Mitali Mukerji Center of Excellence-AyurTech 20,000
+Limited nar/Symposia
+Student- Sunidhi Dayam
+Mentor-Kaushal A. Desai
+742 CSIR Foreign Travel Grant CSIR Travel Mechanical Engineering 86,735
+On-chip intelligence in CMOS image sensors with power
+743 SERB Sponsored Research Project Amandeep Kaur Electrical Engineering 49,39,264
+efficient readout
+Sponsored/Conf/WS/Semi
+744 Leveraging UBA for Localization of SDGs UNICEF Vivek Vijay UBA RCI,CETSD 8,39,104
+nar/Symposia
+Tata Consultancy Services
+745 Nano Sensing for Healthcare Consultancy Ajay Agarwal Electrical Engineering 11,32,800
+Limited
+Single-molecule FRET Imaging for Real-time DNA
+746 MOE-STARS Sponsored Research Project Dibyendu Kumar Sasmal Chemistry 40,00,000
+Fingerprinting Analysis
+Phd Student-Nikita
+Quantum Broadcast Encryption with Classical
+747 DST-Inspire (Phd Student) Fellowship project Srivastava Mathematics 29,32,000
+Communication Channel
+Mentor-Mriganka Mandal
+Ion transport dynamics in nanostructured cathode materials
+748 for Lithium and Sodium battery materials: Application of MOE-STARS Sponsored Research Project Samanwita Pal Chemistry 60,00,000
+solid state MAS NMR and electrochemical methods
+Technology Information,
+Workshop on Technology Needs Assessment for Green Sponsored/Conf/WS/Semi Centre for Technology Foresight and
+749 Forecasting and Assessment Krishna Kumar Balaraman 2,77,200
+Hydrogen and CCUS nar/Symposia Policy
+Council (TIFAC)
+Study of Generalized Differential and Boomerang Phd Student-Ranit Dutta
+750 DST-Inspire (Phd Student) Fellowship project Mathematics 29,32,000
+Distinguishers of Block Ciphers Mentor-Bimal Mandal
+Student-Animesh Maiti
+751 Distributed Computing for Swarm Robotics DST-Inspire (Phd Student) Fellowship project Mathematics 29,32,000
+Mentor-Subhash Bhagat
+Online Post Graduate Diploma in Data Engineering and Post Institute Online Executive
+752 Consultancy Dip Sankar Banerjee School of AIDE 2,37,25,000
+Graduate Certificate in Data Analytics Programme
+Sponsored/Conf/WS/Semi
+753 TIME 2023 NBHM Vivek Vijay Mathematics 8,00,000
+nar/Symposia
+Twentieth Annual IFIP WG 11.9 International Conference on Registration Fees & Sponsored/Conf/WS/Semi
+754 Somitra Kumar Sanadhya Computer Science & Engineering 8,00,000
+Digital Forensics Sponsorship nar/Symposia
+Structural proof checking, supervision consultancy and Rajasthan State Warehousing
+755 Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 6,78,500
+regular inspections of warehouse construction at Kishangarh Corporation
+Structural proof checking, supervision consultancy and Rajasthan State Warehousing
+756 Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 6,96,200
+regular inspections of warehouse construction at Sonwa Corporation
+Student- Vinod Kumar
+757 CSIR Travel Grant CSIR Travel Verma Mentor- Jai Naryan Electrical Engineering 1,84,306
+Tripathi
+758 Development of THz Detectors based on 2D Materials Devices DST-TDP Sponsored Research Project Mahesh Kumar Electrical Engineering 17,99,440
+Design & Development of SynRM Drive of 3.7, kW, 5.5 kW &
+759 Bharat Bijalee Ltd. Mumbai Consultancy Deepak Fulwani Electrical Engineering 31,36,204
+7.5
+760 GIAN Course on Data Mining for Business Processes MHRD Sponsored Research Project Sumit Kalra Computer Science & Engineering 6,08,000
+Characterization of molecular markers NLRP6 & NLRP12 in
+761 DST Sponsored Research Project Preeti Mutreja Bioscience and Bioengineering 30,67,200
+Breast Cancer biology for Indian population
+762 Design Evaluation of GRP Platforms Rail Vikas Nigam Limited Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 94,400
+Casein Kinase-1 Epsilon as a Novel Therapeutic Target United States Army Medical Sponsored International
+763 Dinesh K Ahirwar Bioscience and Bioengineering 1,27,16,200
+Against Small Cell Lung Cancer Research Acquisition Activity Research Project
+Natural Cemeco Private
+764 Evaluation of Physical Properties of Navocem Cement Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 2,18,300
+Limited
+DST INSPIRE Fellowship SEC meeting for Level-2 Evaluation Sponsored/Conf/WS/Semi
+765 DST Inspire Meeting Mitali Mukerji Bioscience and Bioengineering 7,42,000
+at IIT Jodhpur nar/Symposia
+PQC, DLC, GSB and WMM mix design for Military Engineer
+766 Jeet Construction Consultancy Bhupendra Singh Civil & Infrastructure Engineering 1,20,000
+Services, Utarlai, Barmer, Rajasthan
+Process Design Engineering of Effluent Treatment-cum- S R Paryavaran Engineers
+767 Consultancy Vikky Anand Chemical Engineering 28,674
+sewage Treatment Plant Private Limited
+Design and development of 4 MHz RF Johari Digital Healthcare
+768 Consultancy Arani Ali Khan Electrical Engineering 2,86,740
+source Pvt.Ltd.
+Institute Online Executive
+769 Online M. Tech. in Data Engineering Consultancy Dip Sankar Banerjee School of AIDE 6,82,500
+Programme
+ChAracterizing, RevIving, Supporting, Monitoring and
+MAnaging Sustainable Food Systems to address malnutrition DBT/Wellcome Trust India
+770 Sponsored Research Project Shankar Manoharan Bioscience and Bioengineering 47,20,750
+in indigenous tribal communities of India. CARISMMA Alliance
+sustainable food system study
+Conversion of Twin Span Sheds into Single Ridge Godowns at
+771 Food Corporation of India Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 8,85,000
+Gandhinagar, Ajmer and Lalgarh
+PUF-Crypt: Fortifying Internet of Things (IoT) with
+TIH-IoT Technology
+772 Unclonable Security using Physical Unclonable Functions Sponsored Research Project Debasis Das Computer Science & Engineering 48,02,600
+Development Program
+(PUFs)
+Design and development of few-shot multi-class recognition
+773 model over data suffering from label corruption in a semi- SERB-SRG Sponsored Research Project Pratik Mazumder Computer Science & Engineering 29,33,280
+supervised setting
+774 Nanofiltration membranes for energy-efficient water treatment IIT Jodhpur Institute/SEED Grant Kirti Sankhala CETSD 25,00,000
+Flexible sensoR Array for health Monitoring of Morphing
+775 SERB-Power Sponsored Research Project Shrutidhara Sarma Mechanical Engineering 47,96,264
+structurEs (FRAMME)
+Thin film flowing down high curvature surfaces: Modeling,
+776 IIT Jodhpur Institute/SEED Grant Tarachand Kumawat Chemical Engineering 25,00,000
+Simulations, and Experiments
+Assessment of Water Supply Schemes in Haryana and
+777 PHED Haryana Consultancy Vikky Anand Chemical Engineering 8,60,220
+Technical Support for Canal-Based Water Works
+Development of heavy metal free near-infrared (NIR) light
+absorbing shape-controlled metal semiconductor
+778 heterostructure: A case study on synergistic effect of metal SERB-SRG Sponsored Research Project Suresh Sarkar Chemistry 27,83,000
+and NIR-semiconductor nanocrystals with long-range atomic
+periodicity in photocatalysis and photovoltaics.
+Intelligent Directional Channel Access Techniques for
+779 IIT Jodhpur Institute/SEED Grant M. P. R. Sai Kiran Electrical Engineering 24,97,197
+Millimeter-wave Communications
+Self-Healing Bacterial Concrete for Resilient Wastewater
+780 IIT Jodhpur Institute/SEED Grant Chandana N CETSD 25,00,000
+Infrastructure
+Performance evaluation of selected geotextile-based liner
+781 material against seepage loss in water conservation system NTTM Sponsored Research Project Trishikhi Raychoudhury Civil & Infrastructure Engineering 1,49,00,000
+under a wide range of temperature
+Laser welding of vanadium-based metal membranes with
+782 IIT Jodhpur Institute/SEED Grant Lalit Metallurgical & Materials Engineering 24,99,300
+steel feed tubes for the hydrogen harnessing application
+Hybrid Methods for Multi-objective Optimization Problems
+Md Abu Talhamainuddin
+783 Combining Genetic Algorithms with Gradient based IIT Jodhpur Institute/SEED Grant Mathematics 11,33,525
+Ansary
+Techniques
+784 HampiRun: A Metaverse Based Immersive 3D Game SERB-INAE Sponsored Research Project Manish Narwaria Electrical Engineering 71,84,177
+Development of Decarbonised GT combuStion Technologies Royal academy of
+785 Sponsored Research Project Sudipto Mukhopadhyay Mechanical Engineering 34,35,000
+usIng greeN hYdrogen and biogas (DESTINY) engineering,UK
+Design and development of wear resistant 3rd generation
+786 IIT Jodhpur Institute/SEED Grant Sk. Md. Hasan Metallurgical & Materials Engineering 24,98,900
+advanced high strength steels
+Changing Paradigms: Digital Twins and Buddhist Heritage in Sponsored/Conf/WS/Semi
+787 ICSSR & IHDS Ankita Sharma Institute 2,00,000
+the Global Age nar/Symposia
+Local and non local phase transition problems with nonlinear
+788 CSIR Sponsored Research Project Tuhina Mukherjee Mathematics 15,61,000
+boundary conditions
+Ministry of Commerce &
+789 IP Chair (DPIIT) Sponsored Research Project Anil Kumar Tiwari IP(COE) 12,39,835
+Industry(DPIIT)
+Assessment of Pedestal Damage under Vaporizer at LCNG AGP CGD India Private
+790 Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 99,120
+Station Salawas and Repair Recommendations Limited
+A smart sensors array based system to detect breath VOCs Saakshi Dhanekar (Nikhil
+791 MSME Sponsored Research Project Electrical Engineering 15,00,000
+related to respiratory diseases Vadera)
+792 Complexity of Manipulative Attacks on Resource Allocation DST-DAAD Sponsored Research Project Pallavi Jain Computer Science & Engineering 12,40,000
+Development of Highly Sensitive and Efficient Photodetectors
+793 SERB-SIRE Fellowship project Shahab Ahmad Physics 11,58,838
+based on 2D Ruddlesden-Popper Perovskites
+I-HUB for Robotics and
+Autonomous Systems Centre for Technology Foresight and
+794 Incentive Design for Smart Contracts in Cold-Chain Logistics Consultancy Vinay Reddy Venumuddala 7,05,486
+Innovation Foundation, IISc Policy
+Bangalore
+An action project in Shared [Platform] Economy: Small School of Management &
+795 IIT Jodhpur Institute/SEED Grant Venkatesha Murthy R 8,58,024
+Enterprises in Jodhpur, Rajasthan Entrepreneurship
+796 Hardware realization of Post-quantum cryptography IIT Jodhpur Institute/SEED Grant Somitra Kumar Sanadhya Computer Science & Engineering 25,00,000
+Frugal Oral care irrigation device to reduce risk of ventilator Shobhana Singh
+797 MSME Sponsored Research Project Mechanical Engineering 15,00,000
+associated pneumonia (Ramkishore Jangid)
+Prevention of Pressure ulcers in critically ill patients using Shobhana Singh (Mitanshu
+798 MSME Sponsored Research Project Mechanical Engineering 15,00,000
+vented horizontally led air column mattress Sharma)
+Harnessing protein quaternary structure to investigate the
+799 abundance, importance and variations of specific scaffolds, to IIT Jodhpur Institute/SEED Grant Sucharita Dey Bioscience and Bioengineering 25,05,750
+understand target polymorphism
+Comprehensive Framework for Integrated Health Risk
+800 Assessment of Heavy Metal Exposure in Urban Rural Transect IIT Jodhpur Institute/SEED Grant Rajyalaxmi Garga CETSD 24,99,860
+of Jodhpur, Rajasthan
+On the role of post-translational modifications and short linear
+motifs in regulating protein-polynucleotide condensate
+801 stability and dynamics: A step toward reversing aberrant IIT Jodhpur Institute/SEED Grant Milan Kumar Hazra Chemistry 25,00,000
+liquid-to-solid transitions in biological membrane-less
+organelles
+PG Diploma and Certification in Next Generation OMICS Institute Online Executive
+802 Consultancy Pankaj Yadav Bioscience and Bioengineering 18,20,000
+Technologies and Applications Programme
+AI-driven Digital Twin Technology for Optimal Condition
+803 SERB-SRG Sponsored Research Project Nishant Kumar Electrical Engineering 31,26,750
+Monitoring and Energy Management of Solar Power Plants
+Molecularly engineered free standing Borophene as a versatile
+804 SERB-CRG Sponsored Research Project Raviraj Vankayala Bioscience and Bioengineering 40,90,990
+Nanotheranostics platform to combat localized cancers
+Internatioal Brain Research
+805 IBRO Diversity Grant Sponsored Research Project Sushmita Jha Bioscience and Bioengineering 3,21,125
+Orgranization
+Structural analysis and technical evaluation of drawings for
+806 KSP Hydro Engineers Pvt. Ltd. Consultancy Jaiveer Singh Metallurgical & Materials Engineering 2,41,605
+1.5 MLD STP at Ottapalam, Kerala
+Safe Human-Machine Interaction for Manipulation of IIT Palakkad Technology and
+807 Sponsored Research Project Jayant Kumar Mohanta Mechanical Engineering 30,00,000
+Deformable Objects Innovation Hub Foundation
+Development of Grid Forming Inverter using Virtual
+808 SERB-CRG Sponsored Research Project Deepak Fulwani Electrical Engineering 28,96,203
+Oscillator Based Nonlinear Control Strategies
+809 Non-Invasive detection of Glucose IIT Jodhpur Institute/SEED Grant Ajay Agarwal Electrical Engineering 25,00,000
+Development of an oscillator network model of the brain that
+will enable hypothesis-driven perturbation-response
+810 SERB-SRG Sponsored Research Project Saurabh Gandhi School of AIDE 31,33,540
+experiments for early detection of neurodegenerative
+disorders
+Experimental Investigation and Performance Improvement of
+811 SERB-CRG Sponsored Research Project Aashish Mathur Electrical Engineering 52,58,275
+Visible Light Communication Systems
+Design and development of mode division multiplexing
+scheme for fiber and free-space converged communication
+812 SERB-CRG Sponsored Research Project Nitin Bhatia Electrical Engineering 43,54,759
+channel using all-fiber multimode interference based
+transmitter and receiver heads
+813 Consultancy Project - Forbes Marshall Pvt. Ltd. Forbes Marshall Pvt. Ltd. Consultancy KaushaL A. Desai Mechanical Engineering 15,31,600
+Spindle-mounted Vision-based On-machine Inspection System
+814 TIH iHub Drishti, IIT Jodhpur Sponsored Research Project KaushaL A. Desai Mechanical Engineering 33,42,560
+for CNC Milling
+Development of Concealed Object Detection and Recognition
+815 TIH iHub Drishti, IIT Jodhpur Sponsored Research Project Gaurav Bhatnagar Mathematics 41,96,000
+System
+Inhibiting Fatty Acid Synthase as a Novel Strategy Against
+816 SERB-SRG Sponsored Research Project Dinesh K Ahirwar Bioscience and Bioengineering 29,97,500
+Recalcitrant Small Cell Lung Cancer
+817 Resilient Robotic Assembly using Multiple Modalities SERB-SRG Sponsored Research Project Riby Abraham Boby Mechanical Engineering 27,86,300
+Sustainable and Robust Near-Memory Accelerator for Vision
+818 SERB-SRG Sponsored Research Project Palash Das Computer Science & Engineering 27,51,620
+transformer-based Models
+Theoretical Development of Differential Attacks on Block
+819 SERB-SRG Sponsored Research Project Bimal Mandal Mathematics 14,88,322
+Ciphers and Its Counter-Measures
+Physical Layer Security Analysis of FSO Communication
+820 SERB-Matrics Sponsored Research Project Aashish Mathur Electrical Engineering 6,60,000
+Systems over Arbitrarily Correlated Channels
+Collaborative Training Programme between National Human National Human Rights
+821 Sponsored Research Project Debanjan Guha Roy CEPO,IITJ 33,750
+Rights Commission (NHRC) and IIT Jodhpur Commission India
+Development of a Point-of-Care (POC) device for Detection of Anil Kumar Tiwari (Sudesh
+822 MSME Sponsored Research Project Electrical Engineering 15,00,000
+Tuberculosis Pachar)
+Sustainable Use of Marble Byproduct for Stabilizing Migrating
+823 SERB-ITS Travel Pradeep Kumar Dammala Civil & Infrastructure Engineering 1,97,298
+Sand Dunes in Thar Desert, India
+Value-chain and complex intermeshing within the art and
+School of Management &
+824 craft economy in Marwar region: An Action Research IIT Jodhpur Institute/SEED Grant Jitesh Mahnot 15,25,207
+Entrepreneurship
+approach
+Technical vetting and evaluation of up-gradation of CETP Jodhpur Pollution Control &
+825 Consultancy Vikky Anand Chemical Engineering 1,59,300
+from 18.5 MLD to 21 MLD Research Foundation
+Hardware Aware Frame-Theoretic Sparse Neural Network for
+826 SERB-SRG Sponsored Research Project Pradip Sasmal Mathematics 18,29,322
+Resource-constrained Platform
+NMR diffusometry and relaxometry approaches to evaluate
+827 SERB-CRG Sponsored Research Project Samanwita Pal Chemistry 64,02,264
+molecular interaction and dynamics in nanosponges
+The Directorate of Higher
+Global Collaborative Research Based Education for Enhancing Education and Skills, Norway
+828 Performance of Wind &Western Norway University Travel Monika Tanwar CETSD 8,69,901
+Farms (EduWind) of Applied Sciences (HVL)
+Norway
+Computational models for damage and self-healing in
+829 IIT Jodhpur Institute/SEED Grant Sanhita Das Civil & Infrastructure Engineering 24,99,890
+geomaterials
+Provision of administrative and related research support to International Society for Third- Sponsored International
+830 Farhat Naz School of Liberal Arts 8,17,100
+the Third Sector Researchers' Network in Asia Pacific Sector Research Research Project
+Processing in Memory Design Framework for Artificial
+831 Intelligence Hardware Accelerators for Energy Efficient IIT Jodhpur Institute/SEED Grant Bhupendra Singh Reniwal Electrical Engineering 24,98,299
+Neuromorphic Computing
+Sponsored/Conf/WS/Semi
+832 Short course on Novel Antibiotic Discovery from Soil Bacteria Registration Fee Shankar Manoharan Bioscience and Bioengineering 54,400
+nar/Symposia
+Total Synthesis of Novel Algaecidal Natural Products
+833 Sinacidin A, B, Sinatryptin A-C and Sinamicin A-C viaUnified SERB-CRG Sponsored Research Project Rohan D Erande Chemistry 36,40,896
+Cascade Approach
+Data-Driven Turbulence and Transition Model Development
+834 IIT Jodhpur Institute/SEED Grant Harshal D Akelokar Mechanical Engineering 25,00,000
+for Gas Turbine Applications
+SERB- International Travel Support: International Symposium
+Student- Ankur Nahar
+835 on Modeling and Optimization in Mobile, Ad hoc, and SERB-ITS Travel Computer Science & Engineering 85,398
+Mentor- Dr. Debasis Das
+Wireless Networks, Singapore
+836 Advisory services for EduIsFun EduIsFun, Mumbai Consultancy Somitra Kumar Sanadhya Computer Science & Engineering 14,72,640
+Travel support for attending “IEEE/CVF Winter Conference
+Student- Asha Rani Mentor-
+837 on Applications of Computer Vision (WACV) 2024, USA (04 SERB-ITS Travel Computer Science & Engineering 2,15,440
+Dr. Yashashwi Verma
+January, 2024 to 08 January 2024)” held in “Waikoloa, USA”
+Student- Mahfooz Alam
+838 ITS/2023/004589 SERB-ITS Travel Mentor- Dr. Appala Naidu Metallurgical & Materials Engineering 1,08,486
+Gandi
+School of Management &
+839 IEEE Global Humanitarian Technology Conference 2023 SERB-ITS Travel Sanyka Banerjee 1,73,497
+Entrepreneurship
+Searching for New Physics beyond the Standard Model via
+840 SERB-EEQ Sponsored Research Project Jitendra Kumar Physics 24,30,879
+studies of rare charm-decays at Belle II
+Macromolecules interactions mediated via complex ionic
+841 SERB-EEQ Sponsored Research Project Sunita Physics 26,01,522
+solution
+Slot machines in our pockets: Elucidating the neural effects of
+DBT/Wellcome Trust India
+842 smartphone overuse on reward anticipation and reward Fellowship project Saurabh Gandhi School of AIDE 1,09,39,500
+Alliance(ECF)
+processing
+Monitor and evaluate migration test on solar water Covestro (India) Private
+843 Consultancy Vikky Anand Chemical Engineering 2,23,020
+purification technology Limited
+Systematization of Knowledge (SoK): Theoretical Analysis of
+844 SERB-Matrics Sponsored Research Project Debasis Das Computer Science & Engineering 6,60,000
+Direct Acyclic Graph(DAG)-Enabled Blockchain Framework
+Design, prototype, testing and control of 30KW high power
+845 MeitY Sponsored Research Project Deepak Fulwani Electrical Engineering 6,23,500
+density motors
+846 AI for Cyber Security under NSM MeitY-NSM Sponsored Research Project Richa Singh Computer Science & Engineering 1,32,35,980
+Design and Development of Fast and Secure Blockchain
+847 IBITF and NM-ICPS, IIT Bhilai Sponsored Research Project Debasis Das Computer Science & Engineering 44,00,000
+Enable Cross Border Transactions in FinTech
+Sub-5nm Semiconductor Device Investigation and Compact
+848 DST-Inspire Faculty Fellowship project Pragya Kushwaha IDRP 35,00,000
+Model Development
+Vehant Technologies Private
+849 Domain Adaptation for Detection Fellowship project Angshuman paul Computer Science & Engineering 10,00,000
+Limited
+The Effects of Shot Peening Parameters on Residual Stress
+850 Evolution in a Through-Hardened and a Case-Hardened SERB-CRG Sponsored Research Project Abir Bhattacharyya Metallurgical & Materials Engineering 41,90,507
+Aerospace Bearing Steel
+Compressive strength test of paver block for BHARAT Bharat Petroleum Corporation
+851 Consultancy Tekcham Gishan Singh Civil & Infrastructure Engineering 64,192
+PETROLEUM CORPORATION LIMITED, Jodhpur Ltd., Jodhpur
+852 Finite element analysis of transformer mounting structure Bikaner Electricity Supply Ltd. Consultancy Sudipto Mukhopadhyay Mechanical Engineering 1,99,126
+Design and Development of Intelligent Cyber Physical System
+for Prediction, Early Detection and Remote Monitoring of
+853 SERB-CRG Sponsored Research Project Debasis Das Computer Science & Engineering 28,03,928
+Alzheimer’s Disease in Real-Time using Bio‐Multifunctional
+Smart Wearable Sensors
+Elucidating the role of primary microcephaly-associated
+854 CPAP G-box domain in regulating centriole length and SERB-CRG Sponsored Research Project Priyanka Singh Bioscience and Bioengineering 57,97,264
+number
+Hydrogen Production via Selective Seawater Electrolysis by
+855 use of Polymorphic MnO2 Structure as Diffusion Blocking SERB-CRG Sponsored Research Project Prashant Kumar Gupta Chemical Engineering 36,57,192
+Layer and Scale up Approach
+Non–Destructive Evaluation of Piers and Deck Slabs of
+Composite Welded Girder Bridge No. 22, between Gudha –
+856 North Western Railway Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 2,82,300
+Govindi Marwar stations in Connection with Phulera –
+Degana Doubling Project
+857 JC Bose Fellowship SERB-JC BOSE Fellowship project Subhasish Dey Civil & Infrastructure Engineering 55,77,417
+Phem for D3 – Parallel Heterogeneous External Memory
+858 SERB-CRG Sponsored Research Project Dip Sankar Banerjee Computer Science & Engineering 32,25,735
+Algorithms for Dealing with the Data Deluge
+Online Post Graduate Diploma in Data Engineering Cohort II Institute Online Executive
+859 Consultancy Dip Sankar Banerjee School of AIDE 4,15,80,000
+Program Programme
+Phd Student Prakhar Shukla
+860 Distributed Computing for Swarm Robotics DST-Inspire (Phd Student) Fellowship project Mathematics 29,32,000
+Mentor- Subhash Bhagat
+Phd Student -Geetanjli
+Numerical solution of differential equations using
+861 DST-Inspire (Phd Student) Fellowship project Mentor- Kirankumar Mathematics 29,32,000
+Physics Informed Neural Network
+Hiremath
+Microbial fuel cells-based bio-factory for simultaneous
+production of biohydrogen through carbon dioxide (CO2) Phd Student -Vishakha
+862 DST-Inspire (Phd Student) Fellowship project Bioscience and Bioengineering 29,32,000
+capture and wastewater treatment using genetically Mentor- Meenu Chhabra
+engineered microalgae
+Unique light dynamics around exceptional points in photonic
+Phd Student- Basabdatta Pati
+863 structures for photonic devices and quantum technologies DST-Inspire (Phd Student) Fellowship project Physics 29,32,000
+Mentor- Somnath Ghosh
+applications
+Early Prediction of Sepsis from Pathophysiological Parameters Tata Consultancy Services
+864 Sponsored Research Project Ajay Agarwal Electrical Engineering 5,43,744
+using Machine Learning Limited
+A Combined Desalination and Refrigeration system based on
+865 Solar Ejector Technology: Fundamental Investigation to SERB-CRG Sponsored Research Project Arun Kumar R Mechanical Engineering 38,06,000
+System realization
+Student- Sunanda Mentor-
+866 International Conference “TeVPA 2023" SERB-ITS Travel Physics 1,32,401
+Reetanajali Moharana
+Elucidating the mechanism associating centrosome/ basal Phd Student- MahimaJoshi
+867 DST-Inspire (Phd Student) Fellowship project Bioscience and Bioengineering 29,32,000
+body dysfunction to metabolic diseases Mentor- Priyanka Singh
+Inhibition of RET Proto-Oncogene as Novel Immune-based United States Army Medical Sponsored International
+868 Dinesh K Ahirwar Bioscience and Bioengineering 1,27,36,350
+Strategy Against SCLC Research Acquisition Activity Research Project
+869 EMBO Global Investigator Grant EMBO Travel Neha Jain Bioscience and Bioengineering 24,83,320
+Construction of non-holomorphic Poincare series for weighted
+870 SERB-SRG Sponsored Research Project Moni Kumari Mathematics 13,68,994
+Laplacian
+Generative Causal AI Powered Digital Twin with
+871 Reinforcement Learning for Sustainable Urban MOE-AICoE Sponsored Research Project Neeraj Jain School of AIDE 2,00,00,000
+Transformation
+Visible light mediated cascade annulation using N-
+NPDF- Dr.Deepti Mentor-
+872 Acyloxypthalimides: Synthesis of fused Spiro-Nitrogen SERB-NPDF Fellowship project Chemistry 25,20,000
+Sandip Murarka
+heterocycles
+Institute Online Executive
+873 Executive MTech AI 2023 Batch Program Consultancy Nitin Niranjan Awathare Computer Science & Engineering 35,65,000
+Programme
+Developing automated solutions of motion transfer & digital
+874 SERB-INAE Sponsored Research Project Avinash Sharma Computer Science & Engineering 36,06,867
+assets generation for Indic Games
+School of Management &
+875 Research & Education Grant Miles Education Pvt Ltd Donation HoD SME 5,00,000
+Entrepreneurship
+Miles Education CSR Initiative - Research & Education Grant
+876 Miles Education Pvt Ltd Award Money Dip Sankar Banerjee Computer Science & Engineering 5,00,000
+Award for Meritorious Faculty
+Miles Education CSR Initiative - Research & Education Grant
+877 Miles Education Pvt Ltd Award Money Somitra Kumar Sanadhya Computer Science & Engineering 5,00,000
+Award for Meritorious Faculty
+Design and development of solutions for disabling
+BPR&D,
+878 PIN/pattern lock by cracking encryption/bypassing OS Sponsored Research Project Somitra Kumar Sanadhya Computer Science & Engineering 46,70,000
+Ministry of Home Affairs
+security control of popular mobile devices
+879 High Performance Data Computational Cluster TIH iHub Drishti, IIT Jodhpur Sponsored Research Project Anand Mishra Computer Science & Engineering 4,30,00,000
+Sponsored/Conf/WS/Semi
+880 Organic Chemistry Symposium for Early Career Researchers-II Multiple Sponsor Sandip Murarka Chemistry 82,710
+nar/Symposia
+Identification of gene-environment and polygenic risk score-
+881 environment interactions among Indians that determine the ICMR Sponsored Research Project Pankaj Yadav Bioscience and Bioengineering 2,11,54,189
+risk of prediabetes and type 2 diabetes mellitus
+882 Single Storey UG RC Structure Design Evaluation J.S. Construction Co. Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 2,53,700
+Health Financing Fragmentation and Universal Health
+Coverage in Brazil, Colombia, Mexico and India, a
+883 collaborative project between Imperial College London and O.P. Jindal Global University Consultancy Alok Ranjan School of Liberal Arts 7,00,000
+O.P. Jindal Global University from September 2023 to
+September 2026
+Development of Biodegradable Electronic Devices for
+884 DST-Indo Korea Sponsored Research Project Shree Prakash Tiwari Electrical Engineering 52,25,946
+Sustainable ICT
+Foundation Analysis and Design through Geotechnical Myrtle Project and
+885 Consultancy Pradeep Kumar Dammala Civil & Infrastructure Engineering 78,768
+Investigations at AFS Thanjavur Consultancy Pvt. Ltd
+Proof checking of the design of advance truss bridge of span
+886 60 m including load calculations, aluminium members Kala Span Defence Pvt. Ltd. Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 3,12,700
+(diagonal members, struts and chords) and connections
+Sponsored/Conf/WS/Semi
+887 Ayurtech Workshop Series Registration Fee Mitali Mukerji, Ajay Agarwal Center of Excellence-AyurTech 24,000
+nar/Symposia
+Artificial Intelligence (Fuzzy Logic) Based Algorithm For Regional Technology Node
+888 Target Identification In Battle Field Surveillance Radar (Short (RTN), Southern Command Sponsored Research Project Deepak Mishra Computer Science & Engineering 30,00,000
+Range & Medium Range) Indian Army
+Proof-checking of Structural Design and Non–Destructive
+Evaluation of PSC Slab Bridge No. 34, 36, 40 and 44 between
+889 North Western Railway Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 9,38,100
+Nawa City – Kuchaman City stations in Connection with
+Phulera – Degana Doubling Project
+890 UPAJIVANAM LBI at IIT Jodhpur MSME Sponsored Research Project Anand K. Plapally CETSD 1,66,21,000
+Registration, External Sponsored/Conf/WS/Semi
+891 M2T2-2025 meeting Priyanka Singh Bioscience and Bioengineering
+sponsors, Institute/Department nar/Symposia
+1271440
+Promoting science education in rural western Rajasthan
+892 through laboratory based hands-on activities and outside HEFA CSR Grant Sponsored Research Project Samanwita Pal Chemistry 68,40,000
+classroom learning
+Multifunctional sensing skins for curved aircraft surfaces
+893 SERB-CRG Sponsored Research Project Shrutidhara Sarma Mechanical Engineering 42,37,191
+(MultiSENSE)
+Jodhpur Municipal
+894 Transfer Station at CAZRI Jodhpur Corporation South and VN Consultancy Chandana N CETSD 83,757
+Engineering Company
+Digitizing Manuscripts at the Indira Gandhi National Centre
+895 for the Arts and Facilitating Online Access to Digitized TIH iHub Drishti, IIT Jodhpur Sponsored Research Project Anand Mishra Computer Science & Engineering 1,25,00,000
+Documents
+International Institute of
+Centre for Technology Foresight and
+896 Ethics and Governance of IoT Interventions Information Technology Consultancy Vinay Reddy Venumuddala 4,23,384
+Policy
+Bangalore
+Sustainable Hydrogen Production, Storage and Utilization
+897 DST Sponsored Research Project Rakesh Sharma Chemistry 46,40,448
+using Hybrid Photoelectrocatalysts
+Unnati Organisation for
+898 Analysis and assessment of air samples of sewage manholes Consultancy Vikky Anand Chemical Engineering 1,59,300
+Development Education
+An investigation on Activated-TIG dissimilar welded joint of
+creep strength enhanced ferritic/martensitic P91 steel and
+899 SERB-CRG Sponsored Research Project Chandan Pandey Mechanical Engineering 18,14,450
+Inconel 617 superalloy for Advanced Ultra-Supercritical (A-
+USC) power plant application
+Proof check of structural design & drawings of foundation,
+columns, beams, lintels and slab etc. of the Station Buildings in
+900 North Western Railway Consultancy Amit Kumar Rathi Civil & Infrastructure Engineering 2,47,800
+connection with Taranga Hill – Abu Road via Ambaji New BG
+line project
+Director IITJ (Prof. Avinash
+901 Jodhpur Hydrogen Valley Innovation Cluster (JHVIC) DST Sponsored Research Project Chemical Engineering 15,00,000
+K Agarwal)
+Savitri : Empowering Adolescent Blind
+902 Shayambazaar Anyadesh Consultancy Rajdeep Konar School of Liberal Arts 1,28,856
+Women Through Blind Theatre Pedagogy
+Design, Processing and Characterisation of next generation
+903 DST-FIST Program-2023 Sponsored Research Project Head MME (Dr. Ravi KR) Metallurgical & Materials Engineering 2,03,00,000
+defence materials
+Effect of rolling parameters for electrical conductivity of Al Eaton India Innovation Centre,
+904 Consultancy Saurabh Nene Metallurgical & Materials Engineering 6,61,700
+Alloys Pune
+RapidRadio Solutions Private
+905 Scalable and Robust Solution for Face-based Authentication Sponsored Research Project Sumit Kalra Computer Science & Engineering 3,50,460
+Limited
+Pranay Ranjan, Devendra
+Large Scale Synthesis of Borophene Oxide for Energy Storage
+906 Tata Steel Limited Consultancy Singh Negi, Amitava Metallurgical & Materials Engineering 1,15,97,040
+(Supercapacitor and Battery)
+Banerjee
+PQC, DLC, GSB, WMM mix design and soil testing for
+907 Dhariwal Traders Pvt Ltd Consultancy Bhupendra Singh Civil & Infrastructure Engineering 1,40,000
+Military Engineer Services, Utarlai, Barmer, Rajasthan
+DEFT: Drought Early Warning and ForecasT in the Human-
+908 CDRI Fellowship project Saran Aadhar Civil & Infrastructure Engineering 12,53,488
+affected Arid Region
+909 Jodhpur City Knowledge and Innovation Cluster Phase 2.0 Office of PSA Sponsored Research Project Institute 5,00,00,000
+Development of Organic Electrochemical Transistor Platform
+910 Research Inititation Grant Institute/RIG Akshay Moudgil Electrical Engineering 25,00,000
+for Bioelectronic Applications
+Computation-assisted rational design improvements in
+911 Research Inititation Grant Institute/RIG Parag Arvind Deshpande Chemical Engineering 24,67,216
+biomimetic CO2 catalysts
+Smart Learning from Data in Continuous-Time framework for
+912 Research Inititation Grant Institute/RIG Varanasi Santhosh Kumar Chemical Engineering 16,54,227
+Multi-scale Dynamical Systems
+Hydration and Carbonation of Cement Clinkers – “Carbo-
+913 Research Inititation Grant Institute/RIG Sreejith Krishnan Civil & Infrastructure Engineering 25,00,000
+CEM”
+Operations Research Based Data-Driven Decision Making in
+914 Research Inititation Grant Institute/RIG Srivatsa Srinivas.S School of AIDE 11,32,134
+Government and Industry
+Experimental Setup and Performance Evaluation of MIMO
+915 Orthogonal Time-Frequency Space (OTFS)-based Research Inititation Grant Institute/RIG Suraj Srivastava Electrical Engineering 23,80,000
+Communication Systems
+Enhancing Geotechnical Anchor Performance through Bio-
+916 Research Inititation Grant Institute/RIG Aali Pant Civil & Infrastructure Engineering 23,50,000
+inspired Root System Architecture
+TMS-EEG dataset for understanding brain connectivity
+917 changes during aging and dementia, to enable early detection Research Inititation Grant Institute/RIG Saurabh Gandhi School of AIDE 25,00,000
+of cognitive decline
+Improving Hardware Security and Efficiency in CNN
+918 Research Inititation Grant Institute/RIG Palash Das Computer Science & Engineering 24,97,580
+Accelerators
+919 Multi-modal Learning for Genetic Characterization of Tumors Research Inititation Grant Institute/RIG Bikash Santra School of AIDE 24,99,420
+A Documentary on the Socio-Ecological and Cultural
+920 Research Inititation Grant Institute/RIG Sherin Sabu School of Liberal Arts 7,51,805
+Dimensions of Foraging in Rajasthan
+921 Research Lab for Digital Preservation of Tangible Heritage Research Inititation Grant Institute/RIG Nimish Vohra School of Design 25,00,000
+922 Electrification and Its Unknown Narratives: A Cultural History Research Inititation Grant Institute/RIG Sreedevi D. School of Liberal Arts 1,84,800
+923 Education Technology and the Evolution of Open Schooling Research Inititation Grant Institute/RIG Rachel Philip School of Liberal Arts 2,50,000
+Grammar and diversity among the indigenous tribal
+924 Research Inititation Grant Institute/RIG Gurujegan M School of Liberal Arts 2,50,000
+communities of India
+Socioeconomic Status and Self: A Psychosocial Enquiry of
+925 How Various Aspects of Youth’s Self are Associated with Research Inititation Grant Institute/RIG Saurabh Maheshwari School of Liberal Arts 4,70,000
+Family Socioeconomic Condition
+926 Structural Macroeconometric Modelling for Indian Economy Research Inititation Grant Institute/RIG Gopakumar K U School of Liberal Arts 9,11,648
+927 Medical Image Interpolation with Limited Supervision Research Inititation Grant Institute/RIG Pratik Mazumder Computer Science & Engineering 23,50,000
+Exploring the Dynamics of Global Value Chains in India: School of Management &
+928 Research Inititation Grant Institute/RIG Bhushan Praveen Jangam 9,00,000
+Implications for Technology, Trade, and Manufacturing Entrepreneurship
+Intergenerational transmission of sustainable practices and
+929 environmental values among adult men and women in Research Inititation Grant Institute/RIG Akanksha Choudhary School of Liberal Arts 5,64,375
+Rajasthan
+Investigating inhibitory control of actions using TMS-EEG: A
+930 potential clinical tool to identify neural markers of cognitive Research Inititation Grant Institute/RIG Vignesh Muralidharan School of AIDE 25,00,000
+deficits in impulse control disorders
+Creativity practice through new media: Aligning artistic
+931 Research Inititation Grant Institute/RIG Sumana Som School of Design 22,75,000
+creativity and technology
+Ethnographic Study of Langa and Bhopa Artists: Foundation
+932 for a 3D Mapping Research Lab for the Performing Arts in Research Inititation Grant Institute/RIG Ayla Joncheere School of Liberal Arts 3,65,000
+Rajasthan
+Generic Drugs in the Indian pharmaceutical market – Multiple
+meanings of the term Generic Drug and exploration of School of Management &
+933 Research Inititation Grant Institute/RIG Manu Kanchan 8,30,000
+Government policies to promote Generic drugs in Indian Entrepreneurship
+market
+Exploring Performance and Biofilm Formation in Membrane
+934 Research Inititation Grant Institute/RIG Monika Dubey Civil & Infrastructure Engineering 23,50,000
+Bioreactors Treating Micropollutants in Wastewater
+Transmodernity, Decolonial Practice, and the Politics of
+935 Environmental Humanities: Literature and Other Arts in the Research Inititation Grant Institute/RIG Anupama Mohan School of Liberal Arts 5,00,000
+20th and 21st Centuries
+Non-contact Calibration of Base Frame and Kinematic
+936 Research Inititation Grant Institute/RIG Riby Abraham Boby Mechanical Engineering 25,00,000
+Parameters of Coordinated Robots
+The Royal Bengal(i) Tiger and its Ecologies of Knowledge:
+Bridging Indigenous Knowledge Systems and Colonial
+937 Research Inititation Grant Institute/RIG Tonisha Guin School of Liberal Arts 3,20,000
+Representations of Wildlife Preservation in West Bengal and
+Rajasthan
+Characterisation of various quantum resources and their role
+938 Research Inititation Grant Institute/RIG Chandan Datta Physics 4,75,000
+in information processing tasks
+Advanced semiconductor detector testing facility for high-
+939 Research Inititation Grant Institute/RIG Jitendra Kumar Physics 23,50,000
+energy experiments
+Design, Modeling and Validation of the Soft Crawling Robot
+940 Research Inititation Grant Institute/RIG Sunita Physics 21,00,000
+for Industrial Pipe Inspection
+941 Packing, Covering, and Editing in Hypergraphs Research Inititation Grant Institute/RIG Lawqueen Kanesh Computer Science & Engineering 3,75,000
+Developing Space and Time Efficient Algorithms for
+942 Research Inititation Grant Institute/RIG Vimal Raj Sharma Computer Science & Engineering 2,75,000
+Reachability and its Variants
+Micro Shocks, Macro Waves: How Large Banks Shape India's School of Management &
+943 Research Inititation Grant Institute/RIG Seema Saini 20,00,000
+Economic Stability Entrepreneurship
+Approximability and Fairness in Clustering and Graph
+944 Research Inititation Grant Institute/RIG Tanmay Nitin Inamdar Computer Science & Engineering 4,75,000
+Problems
+Enhance Computational Scalability of the Smart Contract
+945 Research Inititation Grant Institute/RIG Nitin Niranjan Awathare Computer Science & Engineering 23,00,000
+Based Blockchains
+946 Development of Design Thinking Research Lab Research Inititation Grant Institute/RIG Gaurav Vinodrao Vaidya School of Design 25,00,000
+Health Monitoring and Predictive Maintenance of Electric
+947 Research Inititation Grant Institute/RIG Bharat Singh Rajpurohit Electrical Engineering 23,50,000
+Drives
+Unveiling the high-temperature deformation behavior of
+948 additively manufactured Inconel 718 (AM-IN718) in marine- Research Inititation Grant Institute/RIG Koundinya N.T.B.N Metallurgical & Materials Engineering 23,50,000
+like environments
+Digital Preservation and Interactive Narrative Engagement
+949 Research Inititation Grant Institute/RIG Sunil Kumar Lohar School of Liberal Arts 5,85,363
+with Indian Paintings
+Next-Generation Mobility: Development of Artificial Muscle-
+950 driven and AI-powered Brain-Muscle-Controlled Lower Limb Research Inititation Grant Institute/RIG Bhivraj Suthar School of AIDE 25,00,000
+Exoskeleton with Wheelchair Integration
+Numerical and Experimental Investigation of Ocean Thermal
+951 Research Inititation Grant Institute/RIG Ashish Pathak Mechanical Engineering 12,78,000
+Energy Converters
+2024 MRS Spring Meeting & Exhibit, USA (22 April, 2024 to 26 Student-Nipun Sharma
+952 SERB-ITS Travel Electrical Engineering 1,14,491
+April, 2024) Mentor-Mahesh Kumar
+2024 MRS Spring Meeting & Exhibit, USA (22 April, 2024 to 26 Student-Ashok Kumar
+953 SERB-ITS Travel Electrical Engineering 1,30,463
+April, 2024) Mentor-Mahesh Kumar
+Automated Service Management in 5G and Beyond Networks Telecom Technology
+954 Sponsored Research Project M. P. R. Sai Kiran Electrical Engineering 4,55,00,000
+Using AI Development Fund
+Potential of Mixed Clays from Rajasthan for Producing Foundation for Innovation and
+955 Sponsored Research Project Sreejith Krishnan Civil & Infrastructure Engineering 24,99,877
+Limestone Calcined Clay Cements Technology Transfer
+HEAT SAFE: A Comprehensive HEAT riSk Assessment
+956 CDRI Fellowship project Shreya Banerjee CETSD 12,53,488
+Framework for Elderly Commuters in a Hot Desert City
+Student-Kartik Thakral
+957 Google Travel Fellowship - Kartik Thakral Google Asia Pacific Pte. Ltd Travel Computer Science & Engineering 2,47,590
+Mentor-Richa Singh
+Sponsored International
+958 Building Responsible Biometric Systems IITJ-UB Richa Singh Computer Science & Engineering 25,00,000
+Research Project
+Adversarial Attacks and Defence Technologies on Sponsored International
+959 IITJ-UB Debasis Das Computer Science & Engineering 25,00,000
+Collaborative Autonomous Vehicles Research Project
+CFD & experimental investigation of fuel spray for application
+960 DRDO-CARS Sponsored Research Project Sudipto Mukhopadhyay Mechanical Engineering 9,93,000
+in miniature combustors
+Development of Reconfigurable Ultra-Compact Bidirectional
+961 DST Indo-Korea Sponsored Research Project Kunwar Aditya Electrical Engineering 5,99,720
+On-Board Charger for 400/800-V battery Architectures
+A Novel Substrate Integrated Broadband Dielectric Resonator Student-Naman Baghel
+962 SERB-ITS Travel Electrical Engineering 1,26,314
+Antenna (DRA) in SICL for Millimeter Wave Application Mentor-Soumava Mukherjee
+Postgraduate Certificate Program in Artificial Intelligence and Institute Online Executive
+963 Consultancy Dip Sankar Banerjee School of AIDE 46,61,000
+Machine Learning (AI & ML) Programme
+IMPACT (Invasive pollution Management of Prosopis juliflora
+964 in Adri ecoregion using Citizen science in Thar), a HP India Sales Private Limited Fellowship project Mitali Mukerji Bioscience and Bioengineering 35,00,000
+comprehensive study
+Char production from textile waste and its potential in water
+965 IIT Delhi (MOE-UBA) Sponsored Research Project Kirti Sankhala CETSD 97,000
+treatment
+Intelligent Approaches For Incipient Fault Detection and
+966 SERB Sponsored Research Project Bharat Singh Rajpurohit Electrical Engineering 78,13,854
+Remaining Life Estimation of PMSM
+Science and Engineering Research Board, International Travel
+Inspire Faculty-Swati Rajput
+967 Support (ITS) Grant for attending “Conference of Lasers and SERB-ITS Travel Electrical Engineering 1,83,807
+Mentor-Ajay Agarwal
+Electro-optics (CLEO 2024), North Carolina, USA
+Ministry of Housing & Urban Sponsored/Conf/WS/Semi
+968 Urban Water body Rejuvenation: Two-day workshop Saran Aadhar CETSD 7,40,000
+Affairs nar/Symposia
+International Federation of Sponsored/Conf/WS/Semi
+969 IFAC Graduate School on Sliding Mode Control B Bandyopadhyay Electrical Engineering 4,51,150
+Automatic Control nar/Symposia
+970 Proof checking for the design of flagpole 30.5 m Sehgal Industries Consultancy Pradeep Kumar Dammala Civil & Infrastructure Engineering 50,315
+Development of Rare Earth (RE) doped Luminescent Oxide
+971 Bulk and Nanostructured Materials for Scintillation DRDO Sponsored Research Project Ambesh Dixit Physics 98,70,000
+Application
+Sienna Ecad Technologies and
+972 Avalon and Sienna Ecad_Conference Grant Students Travel Deepak Arora Chemical Engineering 70,000
+Avalon Technologies Ltd
+Integration of Macro-encapsulated Phase Change Material in
+Indo-German Science &
+973 Packed-Bed Thermal Energy Storage for High-Temperature Sponsored Research Project Shobhana Singh Mechanical Engineering 38,95,386
+Technology Centre (IGSTC)
+Applications
+Benzimidazole based-nanoscale coordination polymers
+PDF-Dr. Rashmi A. Agarwal
+974 (NCPs)fabricated gold nanoparticles for cancer therapeutic DST-WISE KIRAN Sponsored Research Project Bioscience and Bioengineering 36,12,000
+Mentor- Sushmita Jha
+development
+Design and Proof checking of the underground silo repairing
+975 Grossmacht Engineers Pvt Ltd Consultancy Pradeep Kumar Dammala Civil & Infrastructure Engineering 6,13,600
+project
+Institute Online Executive
+976 PG Diploma in Data Engineering (A.Y. 2024-25) Consultancy Dip Sankar Banerjee Office of EEP 3,87,52,626
+Programme
+Institute Online Executive
+977 PG Diploma in Artificial Intelligence (A.Y. 2024-25) Consultancy Somitra Kumar Sanadhya Office of EEP 5,73,45,000
+Programme
+Institute Online Executive
+978 Master of Business Administration Technology (A.Y. 2024-26) Consultancy Deepak Kumar Saxena Office of EEP 4,58,60,001
+Programme
+Phd Student- Ashutosh Dixit
+979 A Detailed Study On Polyharmonic Double Phase Problems DST-Inspire (Phd Student) Fellowship project Mathematics 29,32,000
+Mentor- Tuhina Mukherjee
+Understanding of Photophysical Properties of Novel Fluoresight Bioprobes Private
+980 Consultancy Dibyendu Kumar Sasmal Chemistry 44,250
+Fluorescent Dyes Limited
+Financial Assistance to Mr. Satyajit Ghosh for participating in
+Student-Satyajit Ghosh
+981 "ISEV ANNUAL MEETING 2024, Australia (08 May, 2024 to ANRF-SERB-ITS Travel Bioscience and Bioengineering 74,612
+Mentor-Surajit Ghosh
+12 May, 2024)
+Hybrid Heterojunctions Based Stable and Efficient Photo-
+982 SERB-CRG Sponsored Research Project Shahab Ahmad Physics 54,75,250
+Rechargeable Li-Ion Batteries
+983 Qualcomm Faculty Award (QFA) Qualcomm India Pvt. Ltd. Consultancy Binod Kumar Electrical Engineering 12,34,482
+Travel Grant to Surbhi Ramawat for 40th International and
+Student-Surbhi Ramawat
+984 20th European Thermoelectric Conference, ICT/ECT 2024, ANRF-SERB-ITS Travel Physics 1,33,964
+Mentor-Ambesh Dixit
+Poland
+Testing & Validation of pyramid system for the generation of
+985 Antardhwani Technologies Consultancy Kunwar Aditya Electrical Engineering 53,100
+solar power
+Travel Grant to Surojit Ghosh for 38th ACS National Student-Surojit Ghosh
+986 ANRF-SERB-ITS Travel Bioscience and Bioengineering 2,22,491
+Medicinal Chemistry Symposium, Seattle, USA Mentor-Surajit Ghosh
+Textile Wastewater Treatment by Advanced Oxidation
+Jodhpur Pollution Control &
+987 Processes using UV Lamps including a narrow band 222 nm Sponsored Research Project Ram Prakash Physics 22,94,000
+Research Foundation
+Excilamp and its Reuse for Agricultural Purposes
+Travel Grant to Ram Avtar for 51st IEEE International Student-Ram Avtar Mentor-
+988 ANRF-SERB-ITS Travel Physics 1,07,812
+Conference on Plasma Science, China Ram Prakash
+Socio-Economic Influences on the Intergenerational
+989 Transmission of Indigenous Occupational Skills in Western ICSSR Sponsored Research Project Akanksha Choudhary School of Liberal Arts 20,00,000
+Rajasthan
+Design and Synthesis of Transition Metal Complexes as PDF-Samanta Yadav Mentor-
+990 DST-PDF Sponsored Research Project Chemistry 40,46,160
+Homogenous Catalyst for Sustainable Energy Rakesh Sharma
+Travel Grant to Nabanita Mukherjee for 12th World Student-Nabanita Mukherjee
+991 ANRF-SERB-ITS Travel Bioscience and Bioengineering 1,63,880
+Biomaterials Congress, Daegu, South Korea Mentor-Surajit Ghosh
+H2O-STEP - Approaching Climate-resilience through
+UKRI Arts and Humanities
+992 Revitalising Historic Stepwells & Blue Infrastructures for Sponsored Research Project Shreya Banerjee CETSD 27,08,000
+Research Council
+Climate Adaptation
+Travel Grant to Shubham Garg for 2024 GRC Meeting of Student-Shubham Garg
+993 ANRF-SERB-ITS Travel Bioscience and Bioengineering 1,73,524
+Barriers of the CNS, USA Mentor-Surajit Ghosh
+Travel Grant to Dr. Abhilasha Maheshwari for 3rd
+994 ANRF-SERB-ITS Travel Abhilasha Maheswari NA 1,20,131
+International Joint Conference WDSA/CCWI, Italy
+Institute Online Executive
+995 Executive M.Tech. DCS (2024-2025) Consultancy Puneet Sharma School of AIDE 1,00,00,000
+Programme
+Institute Online Executive
+996 Executive MTech. VLSI (2024-2025) Consultancy Binod Kumar Electrical Engineering 13,95,000
+Programme
+997 AIOT based Water Monitoring Technologies DRDO (DIA- IITJ) Sponsored Research Project Ajay Agarwal Electrical Engineering 4,50,47,800
+Smart Apparel for desert War Fare: integration of active and
+998 DRDO (DIA- IITJ) Sponsored Research Project Prodyut Ranjan Chakraborty IDRP 4,40,17,800
+passive cooling through hybrid thermal management
+Travel Grant to Dr. Prabhat Kumar Jaiswal for Bifurcations
+999 and Instabilities in Fluid Dynamics (BIFD) Association, United ANRF-SERB-ITS Travel Prabhat Kumar Jaiswal Physics 1,06,540
+Kingdom
+1000 Investigation of ATPG KPI on opensource designs Krivya Semicon Pvt. Ltd Consultancy Binod Kumar Electrical Engineering 4,13,000
+Travel Grant to Jitendra K Yadav for International Student-Jitendra K Yadav
+1001 ANRF-SERB-ITS Travel Physics 1,28,882
+Symposium on Beyond Li-Ion Batteries 2024 - BeLI24, Italy Mentor-Ambesh Dixit
+Travel Grant to Narendra Kumar for IEEE International
+Student-Narendra Kumar
+1002 Conference on Multimedia Information Processing and ANRF-SERB-ITS Travel Mathematics 2,54,175
+Mentor-Gaurav Bhatnagar
+Retrieval (MIPR) 2024
+1003 Automated Animation Stability AI Consultancy Avinash Sharma Computer Science & Engineering 4,13,936
+Student-Soumi Pal Mentor-
+1004 Travel Grant to Soumi Pal for CLEO-PR 2024 Conference ANRF-SERB-ITS Travel Electrical Engineering 1,14,348
+Nitin Bhatia
+Development and testing of a bioinspired flapping wing
+1005 model with morphing capability for aerial and aquatic DRDO (DIA- IITJ) Sponsored Research Project Nipun Arora DIA-CoE, IITJ 5,74,00,000
+locomotion
+Travel Grant to Khushboo Rani for Intrinsically Disordered Student-Khushboo Rani
+1006 ANRF-SERB-ITS Travel Bioscience and Bioengineering 94,310
+Proteins Gordon Research Conference, Switzerland Mentor-Neha Jain
+Sponsored/Conf/WS/Semi
+1007 NCM Annual Foundation School-I NCM Kiran kumar Hiremath Mathematics 11,56,000
+nar/Symposia
+Comprehensive (Environmental, Ecological, Anthropogenic,
+1008 and others) Risk Assessment Data for Heritage Sites and DST Sponsored Research Project Ajay Agarwal Electrical Engineering 56,11,692
+Development of Smart Heritage Management Systems
+UBA Workshop on ‘Voices of Leadership: Women Sarpanch Sponsored/Conf/WS/Semi
+1009 UNICEF Vivek Vijay UBA RCI,CETSD 2,21,375
+Transforming Grassroots Governance nar/Symposia
+Development of IoT enabled surface active metal particles
+1010 anchored semiconductor oxides based wide range hydrogen BRNS Sponsored Research Project Mahesh Kumar Electrical Engineering 48,99,750
+sensor
+Pervasive and Personalized Aid for Continuous Monitoring of
+1011 Behavioral Disorders and Timely Intervention Toward Google Asia Pacific Pte. Ltd Consultancy Suchetana Chakraborty Computer Science & Engineering 24,95,400
+Addressing Special Needs in Child Education
+Design and Realization of direct RF sampling based NavIC
+1012 ISRO Sponsored Research Project Arun Kumar Singh Electrical Engineering 43,87,840
+Receiver front end
+Sponsored/Conf/WS/Semi
+1013 5 day Teacher Training Programme NLI Udaipur Pankaj Chavan CETE 14,94,000
+nar/Symposia
+Sponsored/Conf/WS/Semi
+1014 PAC review meeting of the engineering sciences EECE ANRF Akshay Moudgil Electrical Engineering 14,64,000
+nar/Symposia
+Worshop on Ayurtech for Precision Healthand Integrative Sponsored/Conf/WS/Semi
+1015 NCISM Mitali Mukerji School of AIDE 27,58,368
+Medicine nar/Symposia
+Summer School on Eletron Design Automation 2.0 Challenges Sponsored/Conf/WS/Semi
+1016 IEEE & Industry Sponsorship Harshit Agarwal Electrical Engineering 5,00,580
+& Prospective nar/Symposia
+Travel Grant to Bharti Rani for International Symposium on Student-Bharti Rani Mentor-
+1017 CSIR Travel Physics 85,600
+Beyond Li-Ion Batteries 2024 - BeLI24, Italy Ambesh Dixit
+Travel Support to Gurubachan for School on Dimention Student- Gurubachan
+1018 Theory of Fractals and Geometry of Deterministics and ANRF-SERB-ITS Travel Mentor- V.V.M.S. Mathematics 1,10,340
+Random Fractals Chandramouli
+1st International Workshop on Cold Plasma and Pulse Power Sponsored/Conf/WS/Semi
+1019 Multiple Sponsor Ram Prakash Physics
+Technologies for Food, Health and Agriculture (COFHA-2024) nar/Symposia
+945504
+Developing Multiagent System based AI Strategist for
+1020 DRDO (DIA- IITJ) Sponsored Research Project Dip Sankar Banerjee Computer Science & Engineering 5,68,72,000
+Wargames
+Student- Narender Kumar
+1021 Travel Support to Narender Kumar for SolarPACES 2024, Italy ANRF-SERB-ITS Travel Mentor- Prodyut Ranjan Mechanical Engineering 1,28,893
+Chakraborty
+Review and vetting of the pavement design report for
+1022 Raj Path Infracon Pvt. Ltd. Consultancy Bhupendra Singh Civil & Infrastructure Engineering 1,77,000
+Bengaluru – Vijayawada Economic Corridor
+Sponsored/Conf/WS/Semi
+1023 Write Shop on Mentoring support to PRI's UNICEF Vivek Vijay Mathematics 13,60,450
+nar/Symposia
+Registration Fees & Sponsored/Conf/WS/Semi
+1024 Winter School on Intense Laser Science (WiSLS-2024) V. Narayanan Physics 3,00,000
+Sponsorship nar/Symposia
+Micro and Meso-Scale Urban Climate Modelling and research
+1025 for improved weather prediction and disaster risk reduction ISRO Sponsored Research Project Anugya Shukla CETSD 25,33,400
+over urban area
+Development of Pristine and Na/Ln co-doped sintered
+1026 DRDO, Jodhpur Sponsored Research Project Ambesh Dixit Physics 31,62,000
+Beryllium Oxide (BeO) for dosimetry applications
+RES-URSC-2023-039: Spacecraft Docking Soft Impact
+1027 Dynamics Modelling and Simulation Using Two Ground ISRO Sponsored Research Project Suril V. Shah Mechanical Engineering 27,15,600
+Based Robotic Manipulators
+Seamless Man-Machine Interface for Next-generation
+1028 DRDO (DIA- IITJ) Sponsored Research Project Suchetana Chakraborty Computer Science & Engineering 5,37,82,000
+Wargaming
+Modelling Rejuvenation of Ponds in Rajasthan for Water
+1029 Bharatiya Jain Sanghatana Sponsored Research Project Vivek Vijay Mathematics 17,72,500
+Conservation/Drought Mitigation Outcomes
+Design and development of an indigenous two-photon
+1030 SERB-CRG Sponsored Research Project V. Narayanan Physics 60,08,200
+polymerization equipment for 3D printing of nanostructures
+Student- Gargi Konwar
+1031 Travel Support to Gargi Konwar for IFETC 2024, Italy ANRF-SERB-ITS Travel Electrical Engineering 1,28,893
+Mentor-Shree Prakash Tiwari
+Travel Support to Sougata Mandal for International
+Student- Sougata Mandal
+1032 Conference on Scientific Computation and differential, ANRF-SERB-ITS Travel Mathematics 54,945
+Mentor-Sukhendu Ghosh
+Singapore
+Student- Yogendra
+Travel Support to Yogendra Macchiwal for Device Research
+1033 ANRF-SERB-ITS Travel Macchiwal Mentor-Harshit Electrical Engineering 1,53,213
+Conference 2024, USA
+Agarwal
+Gangawane Krunal
+1034 Advanced Computational and Smart Materials Research Lab Research Inititation Grant Institute/RIG Chemical Engineering 21,00,000
+Madhukar
+1035 Theatre/Performance Ethnography Research Inititation Grant Institute/RIG Rajdeep Konar School of Liberal Arts 3,00,000
+City Ethnography Lab: Studying the Precarious Indian City of
+1036 Research Inititation Grant Institute/RIG Kanak Yadav School of Liberal Arts 4,00,000
+Bengaluru and its Urban Future
+1037 AI for Macroeconomics Group (AIMG) Research Inititation Grant Institute/RIG Ganesh Manjhi School of AIDE 6,50,000
+MetaLab (A computational and experimental lab focused on
+1038 Research Inititation Grant Institute/RIG Shuvajit Mukherjee Civil & Infrastructure Engineering 24,96,080
+metamaterial-based modelling of structure)
+Centre for Education and Technology for
+1039 Teaching-Learning Process (TeLePro) Research Lab Research Inititation Grant Institute/RIG Pankaj Chavan 23,43,200
+Education (CETE)
+1040 Chemical Biology Research Inititation Grant Institute/RIG Koushambi Mitra Chemistry 25,00,000
+Sponsored/Conf/WS/Semi
+1041 Recent Advances in Sustainable Energy (RAISE) Registration Fees Sudipto Mukhopadhyay Mechanical Engineering
+nar/Symposia 132750
+Student- Nandini Saini
+1042 Travel support to Nandini Saini for IGARSS-2024, Greece ANRF-SERB-ITS Travel Computer Science & Engineering 63,839
+Mentor-Debasis Das
+Central Wool Development
+1043 Web Hosting Support for Management Information System Consultancy Sumit Kalra Computer Science & Engineering 7,64,640
+Board
+Sand dune migration and dust emission mitigation through
+1044 scaled wind tunnel investigations and numerical program DST-DAAD Travel Pradeep Kumar Dammala Civil & Infrastructure Engineering 9,33,000
+(SAND STOP) models
+International Travel Support (ITS) to Dr. Sumit Kamal for
+1045 ANRF-SERB-ITS Travel Sumit Kamal Chemical Engineering 1,76,704
+attending CAMURE 12-ISMR 11
+Travel grant to Anil Kumar for Compact Stars in QCD phase Student- Anil Kumar Mentor-
+1046 ANRF-SERB-ITS Travel Physics 55,594
+diagram (CSQCD) 2024, Kyoto, Japan Monika Sinha
+Travel Grant to Vinod Kumar for 2024 IEEE International Student- Vinod Kumar
+1047 Symposium on Electromagnetic Compatibility, Signal & ANRF-SERB-ITS Travel Verma Mentor-Jai Narayan Electrical Engineering 1,60,823
+Power Integrity, USA Tripathi
+Travel Support to Amrita Sharma for 18th UK Heat Transfer Student- Amrita Sharma
+1048 ANRF-SERB-ITS Travel Mechanical Engineering 1,02,406
+Conference, UK Mentor-Hardik Kothadia
+Active structural acoustic control and active noise control to
+1049 DRDO-ARDB Sponsored Research Project Amrita Puri Mechanical Engineering 2,80,58,789
+reduce noise in a helicopter cabin
+Jodhpur Municipal
+Process Flow Evaluation and Renovation Assessment for
+1050 Corporation South and RKV Consultancy Chandana N CETSD 49,413
+Carcass Utilization Plant in Jodhpur
+Enterprener
+2D -3D heterostructure based green catalyst for the efficient
+1051 capture and conversion of Co2 into green fuel via artificial Oil India Limited Sponsored Research Project Kumud Malika Tripathi CETSD 1,19,35,475
+photosynthesis
+Eaton India Innovation Centre,
+1052 Rolling of Cu-Ti alloy strips Consultancy Saurabh Nene Metallurgical & Materials Engineering 8,87,500
+Pune
+1053 Srijan: Center for Generative AI MEITY & META Sponsored Research Project Mayank Vatsa Computer Science & Engineering 10,66,21,000
+Development of Ti-HEA with high strength and formability at Eaton India Innovation Centre,
+1054 Consultancy Saurabh Nene Metallurgical & Materials Engineering 6,25,000
+room and high temperature Pune
+Transforming Transparency: A Text Analytics Approach in
+School of Management &
+1055 Evaluating the Impact of Live Streamed Judiciary on Public National Law University, Delhi Sponsored Research Project Devi Prasad Dash 5,00,000
+Entrepreneurship
+Trust
+Field mapping, slope stability assessment and design
+Theme Engineering Services
+1056 recommendations for rock sliding reach (Kundal – Jhadol Consultancy Debanjan Guha Roy Civil & Infrastructure Engineering 17,11,000
+Pvt. Ltd
+section)
+Sand dune study and erosion modelling for a proposed solar Larsen and Toubro Consultancy International
+1057 Pradeep Kumar Dammala CETSD 19,50,000
+park Construction Project
+Vetting Design and Drawings of Upper Veda Water Supply
+1058 Indus DSY (JV) Consultancy Monika Dubey Civil & Infrastructure Engineering 3,50,000
+Projects
+Affordable and Energy-Efficient EMG-Controlled 3- Fingers Shree Bhagwan Mahaveer
+1059 Sponsored Research Project Bhivraj Suthar School of AIDE 8,34,960
+Prosthetic Hand for Amputees Viklang Sahayata Samiti, NGO
+Harnessing Equality: A Tri-State Study of Solar Energy’s Socio- School of Management &
+1060 ICSSR Sponsored Research Project Devi Prasad Dash 12,00,000
+Economic Influence on the Vulnerable Population Entrepreneurship
+Travel Support to Vivek Balasaheb for Quantum Techniques Student- Vivek Balasaheb
+1061 ANRF-SERB-ITS Travel Chemistry 1,64,978
+in Machine Learning, Australia Mentor-Atul Kumar
+Travel Support to Arshiya Ansari for International Conference Student- Arshiya Ansari
+1062 ANRF-SERB-ITS Travel Metallurgical & Materials Engineering 96,159
+on Materials Science and Engineering Mentor-Pranay Ranjan
+Travel Grant to Ms. Manjari Shukla for The 35th biennial Student- Manjari Shukla
+1063 conference of the society of crystallographers in Australia & ANRF-SERB-ITS Travel Mentor-Sudipta Bioscience and Bioengineering 82,793
+New Zealand 2024” Fremantle WA Australia Bhattacharyya
+Development of Automated Software Platform for InSolare
+1064 Process Optimization Using Image Processing and Machine InSolare Energy Ltd Consultancy Debasis Das Computer Science & Engineering 12,24,250
+Learning
+Integrated application of in-situ monitoring, CALPHAD
+modeling, and ultrasonic treatment for predicting and
+1065 ISRO Sponsored Research Project Ravi K R Metallurgical & Materials Engineering 28,95,000
+mitigating the porosity and hot tearing defects formed during
+the additive manufacturing of Inconel 718 and AlSi10Mg alloys
+Open Access Interactive Storytelling Project on Green JP Narayan National Centre of
+1066 Computing Tools for Insider/Outsider Engagements with the Excellence in the Humanities, Sponsored Research Project Tonisha Guin School of Liberal Arts 4,50,000
+Sundarbans in India IIT Indore
+Travel grant ot Abhijit Mishra for 77th Annual Gaseous Student- Abhijit Mishra
+1067 ANRF-SERB-ITS Travel Physics 1,65,562
+Electronics Conference, USA Mentor-Ram Prakash
+1068 Development of Multi-agent Amphibious Quad-copter System DRDO (DIA- IITJ) Sponsored Research Project Jayant Kumar Mohanta Mechanical Engineering 3,06,98,000
+Travel grant to Priyambada Sahoo for MRS Fall Meeting & Student- Priyambada Sahoo
+1069 ANRF-SERB-ITS Travel Physics 1,56,626
+Exhibit 2024,USA Mentor-Ambesh Dixit
+Travel grant to Amit Kumar for MRS Fall Meeting & Exhibit Student- Amit Kumar
+1070 ANRF-SERB-ITS Travel Electrical Engineering 1,53,124
+2024,USA Mentor-Mahesh Kumar
+Designing Water Sustainability in Urban Contexts from Socio-
+1071 hydrological Systems Approach: A Study of Bangalore, India, ICSSR Sponsored Research Project Farhat Naz School of Liberal Arts 11,71,750
+and Kaohsiung, Taiwan
+Sponsored/Conf/WS/Semi
+1072 Chem Meet @IITJ-2024 Royal Chemistry India Pvt. Ltd. Head Chemistry Chemistry 8,820
+nar/Symposia
+Carbon Nanomaterial Bucky Paper based Cost- effective Ambesh Dixit (Priyambada
+1073 MSME Sponsored Research Project Physics 15,00,000
+Cancer Biomarker Biosensors: A Potential Biosensing Platform Sahoo)
+NIR Light Activatable Free Standing Borophene
+1074 ICMR Sponsored Research Project Neha Jain Bioscience and Bioengineering 41,81,932
+Nanoformulation to Combat AMR in Wound Biofilms
+Design and development of a low-cost, optical fiber probe
+1075 based optical coherence tomography system under resource- ICMR Sponsored Research Project Nitin Bhatia Electrical Engineering 1,74,21,342
+constrained setting
+Supersonic mixing enhancement in scramjet combustors using
+1076 novel injector configurations and injection at supercritical DRDO-ARDB Sponsored Research Project Arun Kumar R Mechanical Engineering 92,19,780
+conditions.
+Transient Modelling and Design of Surge Protection System
+Dara Engineering &
+1077 For Water Supply System For Coverage Of 34 Village If 10 Consultancy Saran Aadhar Civil & Infrastructure Engineering 1,18,000
+Infrastructure Pvt. Ltd.
+Gram Panchayat of Sojat (Pali)
+1078 Field inspection of lifts at AIS Residency Project, Jaipur Rajasthan Housing Board Consultancy Pradeep Kumar Dammala Civil & Infrastructure Engineering 15,34,000
+1079 Field inspection of buildings at AIS Residency Project, Jaipur Rajasthan Housing Board Consultancy Pradeep Kumar Dammala Civil & Infrastructure Engineering 23,60,000
+Sponsored/Conf/WS/Semi
+1080 Two Days Symposium on AI for Smart Mobility S/AICoE/SC/20230246 Ranju Mohan School of AIDE
+nar/Symposia 800000
+Travel Grant: The 13th International Conference on Advances
+1081 ANRF-SERB-ITS Travel Tekcham Gishan Singh Civil & Infrastructure Engineering 99,864
+in Steel-Concrete Composite Structures (ASCCS 2024)
