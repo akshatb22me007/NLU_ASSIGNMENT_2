@@ -30,14 +30,8 @@ def analogy(a, b, c):
     except KeyError as e:
         print(f"Word not in vocab: {e}")
 
-# 1
-analogy("ug", "btech", "pg")
 
-# 2
-analogy("student", "exam", "research")
 
-# 3
-analogy("btech", "undergraduate", "phd")
-
-# 4 (extra, good one)
 analogy("student", "class", "research")
+analogy("lecture", "class", "lab")
+analogy("research", "paper", "project")
