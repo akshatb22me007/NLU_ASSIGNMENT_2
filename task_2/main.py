@@ -10,7 +10,7 @@ try:
 except ModuleNotFoundError:
     plt = None
 
-train_epochs = [30,25,60]
+train_epochs = [30,25,40]
 def build_model(choice, vocab_size, hidden_size=128):
     if choice == 1:
         return VanillaRNN(vocab_size, hidden_size)
