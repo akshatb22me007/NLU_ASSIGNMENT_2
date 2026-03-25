@@ -25,7 +25,7 @@ print("Sample:", sentences[0][:10])
 # PARAMETERS
 # =========================
 
-embedding_sizes = [50, 100, 200]
+embedding_sizes = [100, 200, 300]
 window_sizes = [3, 5, 8]
 negative_samples = [5, 10]
 
