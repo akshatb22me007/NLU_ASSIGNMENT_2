@@ -2,7 +2,7 @@ import google.generativeai as genai
 import time
 
 # 🔑 Add your API key here
-genai.configure(api_key="AIzaSyBOFd5Le9N7fWrSUfLI5_iAqSfqEo-VAUc")
+genai.configure(api_key="YOUR-API-KEY")
 
 model = genai.GenerativeModel("gemini-3-flash-preview")
 
